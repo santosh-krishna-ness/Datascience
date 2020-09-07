@@ -1,1310 +1,1461 @@
-pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,survived
-1,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,B5,S,1
-1,"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,C22 C26,S,1
-1,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,C22 C26,S,0
-1,"Allison, Mr. Hudson Joshua Creighton",male,30,1,2,113781,151.55,C22 C26,S,0
-1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113781,151.55,C22 C26,S,0
-1,"Anderson, Mr. Harry",male,48,0,0,19952,26.55,E12,S,1
-1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,77.9583,D7,S,1
-1,"Andrews, Mr. Thomas Jr",male,39,0,0,112050,0,A36,S,0
-1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,11769,51.4792,C101,S,1
-1,"Artagaveytia, Mr. Ramon",male,71,0,0,PC 17609,49.5042,,C,0
-1,"Astor, Col. John Jacob",male,47,1,0,PC 17757,227.525,C62 C64,C,0
-1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,227.525,C62 C64,C,1
-1,"Aubart, Mme. Leontine Pauline",female,24,0,0,PC 17477,69.3,B35,C,1
-1,"Barber, Miss. Ellen ""Nellie""",female,26,0,0,19877,78.85,,S,1
-1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,27042,30,A23,S,1
-1,"Baumann, Mr. John D",male,,0,0,PC 17318,25.925,,S,0
-1,"Baxter, Mr. Quigg Edmond",male,24,0,1,PC 17558,247.5208,B58 B60,C,0
-1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC 17558,247.5208,B58 B60,C,1
-1,"Bazzani, Miss. Albina",female,32,0,0,11813,76.2917,D15,C,1
-1,"Beattie, Mr. Thomson",male,36,0,0,13050,75.2417,C6,C,0
-1,"Beckwith, Mr. Richard Leonard",male,37,1,1,11751,52.5542,D35,S,1
-1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,1,1,11751,52.5542,D35,S,1
-1,"Behr, Mr. Karl Howell",male,26,0,0,111369,30,C148,C,1
-1,"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,227.525,,C,1
-1,"Bird, Miss. Ellen",female,29,0,0,PC 17483,221.7792,C97,S,1
-1,"Birnbaum, Mr. Jakob",male,25,0,0,13905,26,,C,0
-1,"Bishop, Mr. Dickinson H",male,25,1,0,11967,91.0792,B49,C,1
-1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,91.0792,B49,C,1
-1,"Bissette, Miss. Amelia",female,35,0,0,PC 17760,135.6333,C99,S,1
-1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110564,26.55,C52,S,1
-1,"Blackwell, Mr. Stephen Weart",male,45,0,0,113784,35.5,T,S,0
-1,"Blank, Mr. Henry",male,40,0,0,112277,31,A31,C,1
-1,"Bonnell, Miss. Caroline",female,30,0,0,36928,164.8667,C7,S,1
-1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S,1
-1,"Borebank, Mr. John James",male,42,0,0,110489,26.55,D22,S,0
-1,"Bowen, Miss. Grace Scott",female,45,0,0,PC 17608,262.375,,C,1
-1,"Bowerman, Miss. Elsie Edith",female,22,0,1,113505,55,E33,S,1
-1,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,0,111427,26.55,,S,1
-1,"Brady, Mr. John Bertram",male,41,0,0,113054,30.5,A21,S,0
-1,"Brandeis, Mr. Emil",male,48,0,0,PC 17591,50.4958,B10,C,0
-1,"Brewe, Dr. Arthur Jackson",male,,0,0,112379,39.6,,C,0
-1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC 17610,27.7208,B4,C,1
-1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,2,0,11769,51.4792,C101,S,1
-1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,0,0,11813,76.2917,D15,C,1
-1,"Burns, Miss. Elizabeth Margaret",female,41,0,0,16966,134.5,E40,C,1
-1,"Butt, Major. Archibald Willingham",male,45,0,0,113050,26.55,B38,S,0
-1,"Cairns, Mr. Alexander",male,,0,0,113798,31,,S,0
-1,"Calderhead, Mr. Edward Pennington",male,42,0,0,PC 17476,26.2875,E24,S,1
-1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,0,0,PC 17606,27.4458,,C,1
-1,"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC 17755,512.3292,B51 B53 B55,C,1
-1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,0,1,PC 17755,512.3292,B51 B53 B55,C,1
-1,"Carlsson, Mr. Frans Olof",male,33,0,0,695,5,B51 B53 B55,S,0
-1,"Carrau, Mr. Francisco M",male,28,0,0,113059,47.1,,S,0
-1,"Carrau, Mr. Jose Pedro",male,17,0,0,113059,47.1,,S,0
-1,"Carter, Master. William Thornton II",male,11,1,2,113760,120,B96 B98,S,1
-1,"Carter, Miss. Lucile Polk",female,14,1,2,113760,120,B96 B98,S,1
-1,"Carter, Mr. William Ernest",male,36,1,2,113760,120,B96 B98,S,1
-1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,1,2,113760,120,B96 B98,S,1
-1,"Case, Mr. Howard Brown",male,49,0,0,19924,26,,S,0
-1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,0,0,17770,27.7208,,C,1
-1,"Cavendish, Mr. Tyrell William",male,36,1,0,19877,78.85,C46,S,0
-1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1,0,19877,78.85,C46,S,1
-1,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,61.175,E31,S,0
-1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1,0,W.E.P. 5734,61.175,E31,S,1
-1,"Chambers, Mr. Norman Campbell",male,27,1,0,113806,53.1,E8,S,1
-1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,1,0,113806,53.1,E8,S,1
-1,"Chaudanson, Miss. Victorine",female,36,0,0,PC 17608,262.375,B61,C,1
-1,"Cherry, Miss. Gladys",female,30,0,0,110152,86.5,B77,S,1
-1,"Chevre, Mr. Paul Romaine",male,45,0,0,PC 17594,29.7,A9,C,1
-1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,55,E33,S,1
-1,"Chisholm, Mr. Roderick Robert Crispin",male,,0,0,112051,0,,S,0
-1,"Clark, Mr. Walter Miller",male,27,1,0,13508,136.7792,C89,C,0
-1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,1,0,13508,136.7792,C89,C,1
-1,"Cleaver, Miss. Alice",female,22,0,0,113781,151.55,,S,1
-1,"Clifford, Mr. George Quincy",male,,0,0,110465,52,A14,S,0
-1,"Colley, Mr. Edward Pomeroy",male,47,0,0,5727,25.5875,E58,S,0
-1,"Compton, Miss. Sara Rebecca",female,39,1,1,PC 17756,83.1583,E49,C,1
-1,"Compton, Mr. Alexander Taylor Jr",male,37,1,1,PC 17756,83.1583,E52,C,0
-1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,0,2,PC 17756,83.1583,E45,C,1
-1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,2,0,11770,25.7,C101,S,1
-1,"Crafton, Mr. John Bertram",male,,0,0,113791,26.55,,S,0
-1,"Crosby, Capt. Edward Gifford",male,70,1,1,WE/P 5735,71,B22,S,0
-1,"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,71,B22,S,1
-1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,1,1,112901,26.55,B26,S,1
-1,"Cumings, Mr. John Bradley",male,39,1,0,PC 17599,71.2833,C85,C,0
-1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C,1
-1,"Daly, Mr. Peter Denis ",male,51,0,0,113055,26.55,E17,S,1
-1,"Daniel, Mr. Robert Williams",male,27,0,0,113804,30.5,,S,1
-1,"Daniels, Miss. Sarah",female,33,0,0,113781,151.55,,S,1
-1,"Davidson, Mr. Thornton",male,31,1,0,F.C. 12750,52,B71,S,0
-1,"Davidson, Mrs. Thornton (Orian Hays)",female,27,1,2,F.C. 12750,52,B71,S,1
-1,"Dick, Mr. Albert Adrian",male,31,1,0,17474,57,B20,S,1
-1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,0,17474,57,B20,S,1
-1,"Dodge, Dr. Washington",male,53,1,1,33638,81.8583,A34,S,1
-1,"Dodge, Master. Washington",male,4,0,2,33638,81.8583,A34,S,1
-1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,1,1,33638,81.8583,A34,S,1
-1,"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,106.425,C86,C,0
-1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,1,1,PC 17558,247.5208,B58 B60,C,1
-1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,1,0,PC 17761,106.425,C86,C,1
-1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,11755,39.6,A16,C,1
-1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,0,PC 17485,56.9292,A20,C,1
-1,"Dulles, Mr. William Crothers",male,39,0,0,PC 17580,29.7,A18,C,0
-1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,0,1,11767,83.1583,C54,C,1
-1,"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,227.525,C45,C,1
-1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,78.2667,D20,C,1
-1,"Evans, Miss. Edith Corse",female,36,0,0,PC 17531,31.6792,A29,C,0
-1,"Farthing, Mr. John",male,,0,0,PC 17483,221.7792,C95,S,0
-1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,PC 17598,31.6833,,S,1
-1,"Fleming, Miss. Margaret",female,,0,0,17421,110.8833,,C,1
-1,"Flynn, Mr. John Irwin (""Irving"")",male,36,0,0,PC 17474,26.3875,E25,S,1
-1,"Foreman, Mr. Benjamin Laventall",male,30,0,0,113051,27.75,C111,C,0
-1,"Fortune, Miss. Alice Elizabeth",female,24,3,2,19950,263,C23 C25 C27,S,1
-1,"Fortune, Miss. Ethel Flora",female,28,3,2,19950,263,C23 C25 C27,S,1
-1,"Fortune, Miss. Mabel Helen",female,23,3,2,19950,263,C23 C25 C27,S,1
-1,"Fortune, Mr. Charles Alexander",male,19,3,2,19950,263,C23 C25 C27,S,0
-1,"Fortune, Mr. Mark",male,64,1,4,19950,263,C23 C25 C27,S,0
-1,"Fortune, Mrs. Mark (Mary McDougald)",female,60,1,4,19950,263,C23 C25 C27,S,1
-1,"Francatelli, Miss. Laura Mabel",female,30,0,0,PC 17485,56.9292,E36,C,1
-1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,S,0
-1,"Frauenthal, Dr. Henry William",male,50,2,0,PC 17611,133.65,,S,1
-1,"Frauenthal, Mr. Isaac Gerald",male,43,1,0,17765,27.7208,D40,C,1
-1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,133.65,,S,1
-1,"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,13568,49.5,B39,C,1
-1,"Frolicher-Stehli, Mr. Maxmillian",male,60,1,1,13567,79.2,B41,C,1
-1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,1,1,13567,79.2,B41,C,1
-1,"Fry, Mr. Richard",male,,0,0,112058,0,B102,S,0
-1,"Futrelle, Mr. Jacques Heath",male,37,1,0,113803,53.1,C123,S,0
-1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S,1
-1,"Gee, Mr. Arthur H",male,47,0,0,111320,38.5,E63,S,0
-1,"Geiger, Miss. Amalie",female,35,0,0,113503,211.5,C130,C,1
-1,"Gibson, Miss. Dorothy Winifred",female,22,0,1,112378,59.4,,C,1
-1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,0,1,112378,59.4,,C,1
-1,"Giglio, Mr. Victor",male,24,0,0,PC 17593,79.2,B86,C,0
-1,"Goldenberg, Mr. Samuel L",male,49,1,0,17453,89.1042,C92,C,1
-1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,0,17453,89.1042,C92,C,1
-1,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,A5,C,0
-1,"Gracie, Col. Archibald IV",male,53,0,0,113780,28.5,C51,C,1
-1,"Graham, Miss. Margaret Edith",female,19,0,0,112053,30,B42,S,1
-1,"Graham, Mr. George Edward",male,38,0,1,PC 17582,153.4625,C91,S,0
-1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,C125,S,1
-1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,D10 D12,C,1
-1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,0,1,PC 17759,63.3583,D10 D12,C,1
-1,"Guggenheim, Mr. Benjamin",male,46,0,0,PC 17593,79.2,B82 B84,C,0
-1,"Harder, Mr. George Achilles",male,25,1,0,11765,55.4417,E50,C,1
-1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,1,0,11765,55.4417,E50,C,1
-1,"Harper, Mr. Henry Sleeper",male,48,1,0,PC 17572,76.7292,D33,C,1
-1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,76.7292,D33,C,1
-1,"Harrington, Mr. Charles H",male,,0,0,113796,42.4,,S,0
-1,"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,83.475,C83,S,0
-1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,36973,83.475,C83,S,1
-1,"Harrison, Mr. William",male,40,0,0,112059,0,B94,S,0
-1,"Hassab, Mr. Hammad",male,27,0,0,PC 17572,76.7292,D49,C,1
-1,"Hawksford, Mr. Walter James",male,,0,0,16988,30,D45,S,1
-1,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,83.1583,C54,C,1
-1,"Hays, Mr. Charles Melville",male,55,1,1,12749,93.5,B69,S,0
-1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,12749,93.5,B69,S,1
-1,"Head, Mr. Christopher",male,42,0,0,113038,42.5,B11,S,0
-1,"Hilliard, Mr. Herbert Henry",male,,0,0,17463,51.8625,E46,S,0
-1,"Hipkins, Mr. William Edward",male,55,0,0,680,50,C39,S,0
-1,"Hippach, Miss. Jean Gertrude",female,16,0,1,111361,57.9792,B18,C,1
-1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111361,57.9792,B18,C,1
-1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,13502,77.9583,D11,S,1
-1,"Holverson, Mr. Alexander Oskar",male,42,1,0,113789,52,,S,0
-1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,1,0,113789,52,,S,1
-1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,0,111426,26.55,,C,1
-1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,90,C93,S,1
-1,"Hoyt, Mr. William Fisher",male,,0,0,PC 17600,30.6958,,C,0
-1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,0,19943,90,C93,S,1
-1,"Icard, Miss. Amelie",female,38,0,0,113572,80,B28,,1
-1,"Isham, Miss. Ann Elizabeth",female,50,0,0,PC 17595,28.7125,C49,C,0
-1,"Ismay, Mr. Joseph Bruce",male,49,0,0,112058,0,B52 B54 B56,S,1
-1,"Jones, Mr. Charles Cresson",male,46,0,0,694,26,,S,0
-1,"Julian, Mr. Henry Forbes",male,50,0,0,113044,26,E60,S,0
-1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C,0
-1,"Kent, Mr. Edward Austin",male,58,0,0,11771,29.7,B37,C,0
-1,"Kenyon, Mr. Frederick R",male,41,1,0,17464,51.8625,D21,S,0
-1,"Kenyon, Mrs. Frederick R (Marion)",female,,1,0,17464,51.8625,D21,S,1
-1,"Kimball, Mr. Edwin Nelson Jr",male,42,1,0,11753,52.5542,D19,S,1
-1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,1,0,11753,52.5542,D19,S,1
-1,"Klaber, Mr. Herman",male,,0,0,113028,26.55,C124,S,0
-1,"Kreuchen, Miss. Emilie",female,39,0,0,24160,211.3375,,S,1
-1,"Leader, Dr. Alice (Farnham)",female,49,0,0,17465,25.9292,D17,S,1
-1,"LeRoy, Miss. Bertha",female,30,0,0,PC 17761,106.425,,C,1
-1,"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,512.3292,B101,C,1
-1,"Lewy, Mr. Ervin G",male,,0,0,PC 17612,27.7208,,C,0
-1,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,0,0,17475,26.55,,S,0
-1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,0,0,112377,27.7208,,C,1
-1,"Lines, Miss. Mary Conover",female,16,0,1,PC 17592,39.4,D28,S,1
-1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,0,1,PC 17592,39.4,D28,S,1
-1,"Long, Mr. Milton Clyde",male,29,0,0,113501,30,D6,S,0
-1,"Longley, Miss. Gretchen Fiske",female,21,0,0,13502,77.9583,D9,S,1
-1,"Loring, Mr. Joseph Holland",male,30,0,0,113801,45.5,,S,0
-1,"Lurette, Miss. Elise",female,58,0,0,PC 17569,146.5208,B80,C,1
-1,"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,211.3375,B5,S,1
-1,"Maguire, Mr. John Edward",male,30,0,0,110469,26,C106,S,0
-1,"Maioni, Miss. Roberta",female,16,0,0,110152,86.5,B79,S,1
-1,"Marechal, Mr. Pierre",male,,0,0,11774,29.7,C47,C,1
-1,"Marvin, Mr. Daniel Warner",male,19,1,0,113773,53.1,D30,S,0
-1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,1,0,113773,53.1,D30,S,1
-1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC 17482,49.5042,C90,C,1
-1,"McCaffry, Mr. Thomas Francis",male,46,0,0,13050,75.2417,C6,C,0
-1,"McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S,0
-1,"McGough, Mr. James Robert",male,36,0,0,PC 17473,26.2875,E25,S,1
-1,"Meyer, Mr. Edgar Joseph",male,28,1,0,PC 17604,82.1708,,C,0
-1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,82.1708,,C,1
-1,"Millet, Mr. Francis Davis",male,65,0,0,13509,26.55,E38,S,0
-1,"Minahan, Dr. William Edward",male,44,2,0,19928,90,C78,Q,0
-1,"Minahan, Miss. Daisy E",female,33,1,0,19928,90,C78,Q,1
-1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,0,19928,90,C78,Q,1
-1,"Mock, Mr. Philipp Edmund",male,30,1,0,13236,57.75,C78,C,1
-1,"Molson, Mr. Harry Markland",male,55,0,0,113787,30.5,C30,S,0
-1,"Moore, Mr. Clarence Bloomfield",male,47,0,0,113796,42.4,,S,0
-1,"Natsch, Mr. Charles H",male,37,0,1,PC 17596,29.7,C118,C,0
-1,"Newell, Miss. Madeleine",female,31,1,0,35273,113.275,D36,C,1
-1,"Newell, Miss. Marjorie",female,23,1,0,35273,113.275,D36,C,1
-1,"Newell, Mr. Arthur Webster",male,58,0,2,35273,113.275,D48,C,0
-1,"Newsom, Miss. Helen Monypeny",female,19,0,2,11752,26.2833,D47,S,1
-1,"Nicholson, Mr. Arthur Ernest",male,64,0,0,693,26,,S,0
-1,"Oliva y Ocana, Dona. Fermina",female,39,0,0,PC 17758,108.9,C105,C,1
-1,"Omont, Mr. Alfred Fernand",male,,0,0,F.C. 12998,25.7417,,C,1
-1,"Ostby, Miss. Helene Ragnhild",female,22,0,1,113509,61.9792,B36,C,1
-1,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,61.9792,B30,C,0
-1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,0
-1,"Parr, Mr. William Henry Marsh",male,,0,0,112052,0,,S,0
-1,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S,0
-1,"Payne, Mr. Vivian Ponsonby",male,23,0,0,12749,93.5,B24,S,0
-1,"Pears, Mr. Thomas Clinton",male,29,1,0,113776,66.6,C2,S,0
-1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,C2,S,1
-1,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC 17758,108.9,C65,C,0
-1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,108.9,C65,C,1
-1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,B73,S,1
-1,"Peuchen, Major. Arthur Godfrey",male,52,0,0,113786,30.5,C104,S,1
-1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,C110,S,0
-1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,83.1583,C50,C,1
-1,"Reuchlin, Jonkheer. John George",male,38,0,0,19972,0,,S,0
-1,"Rheims, Mr. George Alexander Lucien",male,,0,0,PC 17607,39.6,,S,1
-1,"Ringhini, Mr. Sante",male,22,0,0,PC 17760,135.6333,,C,0
-1,"Robbins, Mr. Victor",male,,0,0,PC 17757,227.525,,C,0
-1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,24160,211.3375,B3,S,1
-1,"Roebling, Mr. Washington Augustus II",male,31,0,0,PC 17590,50.4958,A24,S,0
-1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,0,111428,26.55,,S,1
-1,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,50,A32,S,0
-1,"Rosenbaum, Miss. Edith Louise",female,33,0,0,PC 17613,27.7208,A11,C,1
-1,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,0,0,PC 17585,79.2,,C,0
-1,"Ross, Mr. John Hugo",male,36,0,0,13049,40.125,A10,C,0
-1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110152,86.5,B77,S,1
-1,"Rothschild, Mr. Martin",male,55,1,0,PC 17603,59.4,,C,0
-1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,1,0,PC 17603,59.4,,C,1
-1,"Rowe, Mr. Alfred G",male,33,0,0,113790,26.55,,S,0
-1,"Ryerson, Master. John Borie",male,13,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1
-1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1
-1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1
-1,"Ryerson, Mr. Arthur Larned",male,61,1,3,PC 17608,262.375,B57 B59 B63 B66,C,0
-1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,1,3,PC 17608,262.375,B57 B59 B63 B66,C,1
-1,"Saalfeld, Mr. Adolphe",male,,0,0,19988,30.5,C106,S,1
-1,"Sagesser, Mlle. Emma",female,24,0,0,PC 17477,69.3,B35,C,1
-1,"Salomon, Mr. Abraham L",male,,0,0,111163,26,,S,1
-1,"Schabert, Mrs. Paul (Emma Mock)",female,35,1,0,13236,57.75,C28,C,1
-1,"Serepeca, Miss. Augusta",female,30,0,0,113798,31,,C,1
-1,"Seward, Mr. Frederic Kimber",male,34,0,0,113794,26.55,,S,1
-1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.4625,C125,S,1
-1,"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC 17475,26.2875,E24,S,1
-1,"Silvey, Mr. William Baird",male,50,1,0,13507,55.9,E44,S,0
-1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,0,13507,55.9,E44,S,1
-1,"Simonius-Blumer, Col. Oberst Alfons",male,56,0,0,13213,35.5,A26,C,1
-1,"Sloper, Mr. William Thompson",male,28,0,0,113788,35.5,A6,S,1
-1,"Smart, Mr. John Montgomery",male,56,0,0,113792,26.55,,S,0
-1,"Smith, Mr. James Clinch",male,56,0,0,17764,30.6958,A7,C,0
-1,"Smith, Mr. Lucien Philip",male,24,1,0,13695,60,C31,S,0
-1,"Smith, Mr. Richard William",male,,0,0,113056,26,A19,S,0
-1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,1,0,13695,60,C31,S,1
-1,"Snyder, Mr. John Pillsbury",male,24,1,0,21228,82.2667,B45,S,1
-1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,B45,S,1
-1,"Spedden, Master. Robert Douglas",male,6,0,2,16966,134.5,E34,C,1
-1,"Spedden, Mr. Frederic Oakley",male,45,1,1,16966,134.5,E34,C,1
-1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,134.5,E34,C,1
-1,"Spencer, Mr. William Augustus",male,57,1,0,PC 17569,146.5208,B78,C,0
-1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,146.5208,B78,C,1
-1,"Stahelin-Maeglin, Dr. Max",male,32,0,0,13214,30.5,B50,C,1
-1,"Stead, Mr. William Thomas",male,62,0,0,113514,26.55,C87,S,0
-1,"Stengel, Mr. Charles Emil Henry",male,54,1,0,11778,55.4417,C116,C,1
-1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,1,0,11778,55.4417,C116,C,1
-1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,36947,78.2667,D20,C,1
-1,"Stewart, Mr. Albert A",male,,0,0,PC 17605,27.7208,,C,0
-1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113572,80,B28,,1
-1,"Straus, Mr. Isidor",male,67,1,0,PC 17483,221.7792,C55 C57,S,0
-1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,1,0,PC 17483,221.7792,C55 C57,S,0
-1,"Sutton, Mr. Frederick",male,61,0,0,36963,32.3208,D50,S,0
-1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,0,0,17466,25.9292,D17,S,1
-1,"Taussig, Miss. Ruth",female,18,0,2,110413,79.65,E68,S,1
-1,"Taussig, Mr. Emil",male,52,1,1,110413,79.65,E67,S,0
-1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110413,79.65,E67,S,1
-1,"Taylor, Mr. Elmer Zebley",male,48,1,0,19996,52,C126,S,1
-1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,0,19996,52,C126,S,1
-1,"Thayer, Mr. John Borland",male,49,1,1,17421,110.8833,C68,C,0
-1,"Thayer, Mr. John Borland Jr",male,17,0,2,17421,110.8833,C70,C,1
-1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,17421,110.8833,C68,C,1
-1,"Thorne, Mrs. Gertrude Maybelle",female,,0,0,PC 17585,79.2,,C,1
-1,"Tucker, Mr. Gilbert Milligan Jr",male,31,0,0,2543,28.5375,C53,C,1
-1,"Uruchurtu, Don. Manuel E",male,40,0,0,PC 17601,27.7208,,C,0
-1,"Van der hoef, Mr. Wyckoff",male,61,0,0,111240,33.5,B19,S,0
-1,"Walker, Mr. William Anderson",male,47,0,0,36967,34.0208,D46,S,0
-1,"Ward, Miss. Anna",female,35,0,0,PC 17755,512.3292,,C,1
-1,"Warren, Mr. Frank Manley",male,64,1,0,110813,75.25,D37,C,0
-1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110813,75.25,D37,C,1
-1,"Weir, Col. John",male,60,0,0,113800,26.55,,S,0
-1,"White, Mr. Percival Wayland",male,54,0,1,35281,77.2875,D26,S,0
-1,"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,D26,S,0
-1,"White, Mrs. John Stuart (Ella Holmes)",female,55,0,0,PC 17760,135.6333,C32,C,1
-1,"Wick, Miss. Mary Natalie",female,31,0,2,36928,164.8667,C7,S,1
-1,"Wick, Mr. George Dennick",male,57,1,1,36928,164.8667,,S,0
-1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,1,1,36928,164.8667,,S,1
-1,"Widener, Mr. George Dunton",male,50,1,1,113503,211.5,C80,C,0
-1,"Widener, Mr. Harry Elkins",male,27,0,2,113503,211.5,C82,C,0
-1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,1,1,113503,211.5,C80,C,1
-1,"Willard, Miss. Constance",female,21,0,0,113795,26.55,,S,1
-1,"Williams, Mr. Charles Duane",male,51,0,1,PC 17597,61.3792,,C,0
-1,"Williams, Mr. Richard Norris II",male,21,0,1,PC 17597,61.3792,,C,1
-1,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,35,C128,S,0
-1,"Wilson, Miss. Helen Alice",female,31,0,0,16966,134.5,E39 E41,C,1
-1,"Woolner, Mr. Hugh",male,,0,0,19947,35.5,C52,S,1
-1,"Wright, Mr. George",male,62,0,0,113807,26.55,,S,0
-1,"Young, Miss. Marie Grice",female,36,0,0,PC 17760,135.6333,C32,C,1
-2,"Abelson, Mr. Samuel",male,30,1,0,P/PP 3381,24,,C,0
-2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,1,0,P/PP 3381,24,,C,1
-2,"Aldworth, Mr. Charles Augustus",male,30,0,0,248744,13,,S,0
-2,"Andrew, Mr. Edgardo Samuel",male,18,0,0,231945,11.5,,S,0
-2,"Andrew, Mr. Frank Thomas",male,25,0,0,C.A. 34050,10.5,,S,0
-2,"Angle, Mr. William A",male,34,1,0,226875,26,,S,0
-2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,0,226875,26,,S,1
-2,"Ashby, Mr. John",male,57,0,0,244346,13,,S,0
-2,"Bailey, Mr. Percy Andrew",male,18,0,0,29108,11.5,,S,0
-2,"Baimbrigge, Mr. Charles Robert",male,23,0,0,C.A. 31030,10.5,,S,0
-2,"Ball, Mrs. (Ada E Hall)",female,36,0,0,28551,13,D,S,1
-2,"Banfield, Mr. Frederick James",male,28,0,0,C.A./SOTON 34068,10.5,,S,0
-2,"Bateman, Rev. Robert James",male,51,0,0,S.O.P. 1166,12.525,,S,0
-2,"Beane, Mr. Edward",male,32,1,0,2908,26,,S,1
-2,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,26,,S,1
-2,"Beauchamp, Mr. Henry James",male,28,0,0,244358,26,,S,0
-2,"Becker, Master. Richard F",male,1,2,1,230136,39,F4,S,1
-2,"Becker, Miss. Marion Louise",female,4,2,1,230136,39,F4,S,1
-2,"Becker, Miss. Ruth Elizabeth",female,12,2,1,230136,39,F4,S,1
-2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,0,3,230136,39,F4,S,1
-2,"Beesley, Mr. Lawrence",male,34,0,0,248698,13,D56,S,1
-2,"Bentham, Miss. Lilian W",female,19,0,0,28404,13,,S,1
-2,"Berriman, Mr. William John",male,23,0,0,28425,13,,S,0
-2,"Botsford, Mr. William Hull",male,26,0,0,237670,13,,S,0
-2,"Bowenur, Mr. Solomon",male,42,0,0,211535,13,,S,0
-2,"Bracken, Mr. James H",male,27,0,0,220367,13,,S,0
-2,"Brown, Miss. Amelia ""Mildred""",female,24,0,0,248733,13,F33,S,1
-2,"Brown, Miss. Edith Eileen",female,15,0,2,29750,39,,S,1
-2,"Brown, Mr. Thomas William Solomon",male,60,1,1,29750,39,,S,0
-2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,1,1,29750,39,,S,1
-2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20,1,0,236853,26,,S,1
-2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,0,236853,26,,S,0
-2,"Buss, Miss. Kate",female,36,0,0,27849,13,,S,1
-2,"Butler, Mr. Reginald Fenton",male,25,0,0,234686,13,,S,0
-2,"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244310,13,,S,0
-2,"Bystrom, Mrs. (Karolina)",female,42,0,0,236852,13,,S,1
-2,"Caldwell, Master. Alden Gates",male,0.8333,0,2,248738,29,,S,1
-2,"Caldwell, Mr. Albert Francis",male,26,1,1,248738,29,,S,1
-2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,1,1,248738,29,,S,1
-2,"Cameron, Miss. Clear Annie",female,35,0,0,F.C.C. 13528,21,,S,1
-2,"Campbell, Mr. William",male,,0,0,239853,0,,S,0
-2,"Carbines, Mr. William",male,19,0,0,28424,13,,S,0
-2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,0,244252,26,,S,0
-2,"Carter, Rev. Ernest Courtenay",male,54,1,0,244252,26,,S,0
-2,"Chapman, Mr. Charles Henry",male,52,0,0,248731,13.5,,S,0
-2,"Chapman, Mr. John Henry",male,37,1,0,SC/AH 29037,26,,S,0
-2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,1,0,SC/AH 29037,26,,S,0
-2,"Christy, Miss. Julie Rachel",female,25,1,1,237789,30,,S,1
-2,"Christy, Mrs. (Alice Frances)",female,45,0,2,237789,30,,S,1
-2,"Clarke, Mr. Charles Valentine",male,29,1,0,2003,26,,S,0
-2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,2003,26,,S,1
-2,"Coleridge, Mr. Reginald Charles",male,29,0,0,W./C. 14263,10.5,,S,0
-2,"Collander, Mr. Erik Gustaf",male,28,0,0,248740,13,,S,0
-2,"Collett, Mr. Sidney C Stuart",male,24,0,0,28034,10.5,,S,1
-2,"Collyer, Miss. Marjorie ""Lottie""",female,8,0,2,C.A. 31921,26.25,,S,1
-2,"Collyer, Mr. Harvey",male,31,1,1,C.A. 31921,26.25,,S,0
-2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,1,1,C.A. 31921,26.25,,S,1
-2,"Cook, Mrs. (Selena Rogers)",female,22,0,0,W./C. 14266,10.5,F33,S,1
-2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0,0,237249,13,,S,0
-2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0,0,F.C.C. 13534,21,,S,0
-2,"Cotterill, Mr. Henry ""Harry""",male,21,0,0,29107,11.5,,S,0
-2,"Cunningham, Mr. Alfred Fleming",male,,0,0,239853,0,,S,0
-2,"Davies, Master. John Morgan Jr",male,8,1,1,C.A. 33112,36.75,,S,1
-2,"Davies, Mr. Charles Henry",male,18,0,0,S.O.C. 14879,73.5,,S,0
-2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48,0,2,C.A. 33112,36.75,,S,1
-2,"Davis, Miss. Mary",female,28,0,0,237668,13,,S,1
-2,"de Brito, Mr. Jose Joaquim",male,32,0,0,244360,13,,S,0
-2,"Deacon, Mr. Percy William",male,17,0,0,S.O.C. 14879,73.5,,S,0
-2,"del Carlo, Mr. Sebastiano",male,29,1,0,SC/PARIS 2167,27.7208,,C,0
-2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,0,SC/PARIS 2167,27.7208,,C,1
-2,"Denbury, Mr. Herbert",male,25,0,0,C.A. 31029,31.5,,S,0
-2,"Dibden, Mr. William",male,18,0,0,S.O.C. 14879,73.5,,S,0
-2,"Doling, Miss. Elsie",female,18,0,1,231919,23,,S,1
-2,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,23,,S,1
-2,"Downton, Mr. William James",male,54,0,0,28403,26,,S,0
-2,"Drew, Master. Marshall Brines",male,8,0,2,28220,32.5,,S,1
-2,"Drew, Mr. James Vivian",male,42,1,1,28220,32.5,,S,0
-2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,28220,32.5,,S,1
-2,"Duran y More, Miss. Asuncion",female,27,1,0,SC/PARIS 2149,13.8583,,C,1
-2,"Duran y More, Miss. Florentina",female,30,1,0,SC/PARIS 2148,13.8583,,C,1
-2,"Eitemiller, Mr. George Floyd",male,23,0,0,29751,13,,S,0
-2,"Enander, Mr. Ingvar",male,21,0,0,236854,13,,S,0
-2,"Fahlstrom, Mr. Arne Jonas",male,18,0,0,236171,13,,S,0
-2,"Faunthorpe, Mr. Harry",male,40,1,0,2926,26,,S,0
-2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,0,2926,26,,S,1
-2,"Fillbrook, Mr. Joseph Charles",male,18,0,0,C.A. 15185,10.5,,S,0
-2,"Fox, Mr. Stanley Hubert",male,36,0,0,229236,13,,S,0
-2,"Frost, Mr. Anthony Wood ""Archie""",male,,0,0,239854,0,,S,0
-2,"Funk, Miss. Annie Clemmer",female,38,0,0,237671,13,,S,0
-2,"Fynney, Mr. Joseph J",male,35,0,0,239865,26,,S,0
-2,"Gale, Mr. Harry",male,38,1,0,28664,21,,S,0
-2,"Gale, Mr. Shadrach",male,34,1,0,28664,21,,S,0
-2,"Garside, Miss. Ethel",female,34,0,0,243880,13,,S,1
-2,"Gaskell, Mr. Alfred",male,16,0,0,239865,26,,S,0
-2,"Gavey, Mr. Lawrence",male,26,0,0,31028,10.5,,S,0
-2,"Gilbert, Mr. William",male,47,0,0,C.A. 30769,10.5,,S,0
-2,"Giles, Mr. Edgar",male,21,1,0,28133,11.5,,S,0
-2,"Giles, Mr. Frederick Edward",male,21,1,0,28134,11.5,,S,0
-2,"Giles, Mr. Ralph",male,24,0,0,248726,13.5,,S,0
-2,"Gill, Mr. John William",male,24,0,0,233866,13,,S,0
-2,"Gillespie, Mr. William Henry",male,34,0,0,12233,13,,S,0
-2,"Givard, Mr. Hans Kristensen",male,30,0,0,250646,13,,S,0
-2,"Greenberg, Mr. Samuel",male,52,0,0,250647,13,,S,0
-2,"Hale, Mr. Reginald",male,30,0,0,250653,13,,S,0
-2,"Hamalainen, Master. Viljo",male,0.6667,1,1,250649,14.5,,S,1
-2,"Hamalainen, Mrs. William (Anna)",female,24,0,2,250649,14.5,,S,1
-2,"Harbeck, Mr. William H",male,44,0,0,248746,13,,S,0
-2,"Harper, Miss. Annie Jessie ""Nina""",female,6,0,1,248727,33,,S,1
-2,"Harper, Rev. John",male,28,0,1,248727,33,,S,0
-2,"Harris, Mr. George",male,62,0,0,S.W./PP 752,10.5,,S,1
-2,"Harris, Mr. Walter",male,30,0,0,W/C 14208,10.5,,S,0
-2,"Hart, Miss. Eva Miriam",female,7,0,2,F.C.C. 13529,26.25,,S,1
-2,"Hart, Mr. Benjamin",male,43,1,1,F.C.C. 13529,26.25,,S,0
-2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C.C. 13529,26.25,,S,1
-2,"Herman, Miss. Alice",female,24,1,2,220845,65,,S,1
-2,"Herman, Miss. Kate",female,24,1,2,220845,65,,S,1
-2,"Herman, Mr. Samuel",male,49,1,2,220845,65,,S,0
-2,"Herman, Mrs. Samuel (Jane Laver)",female,48,1,2,220845,65,,S,1
-2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,0,248706,16,,S,1
-2,"Hickman, Mr. Leonard Mark",male,24,2,0,S.O.C. 14879,73.5,,S,0
-2,"Hickman, Mr. Lewis",male,32,2,0,S.O.C. 14879,73.5,,S,0
-2,"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,73.5,,S,0
-2,"Hiltunen, Miss. Marta",female,18,1,1,250650,13,,S,0
-2,"Hocking, Miss. Ellen ""Nellie""",female,20,2,1,29105,23,,S,1
-2,"Hocking, Mr. Richard George",male,23,2,1,29104,11.5,,S,0
-2,"Hocking, Mr. Samuel James Metcalfe",male,36,0,0,242963,13,,S,0
-2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,1,3,29105,23,,S,1
-2,"Hodges, Mr. Henry Price",male,50,0,0,250643,13,,S,0
-2,"Hold, Mr. Stephen",male,44,1,0,26707,26,,S,0
-2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,1,0,26707,26,,S,1
-2,"Hood, Mr. Ambrose Jr",male,21,0,0,S.O.C. 14879,73.5,,S,0
-2,"Hosono, Mr. Masabumi",male,42,0,0,237798,13,,S,1
-2,"Howard, Mr. Benjamin",male,63,1,0,24065,26,,S,0
-2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,1,0,24065,26,,S,0
-2,"Hunt, Mr. George Henry",male,33,0,0,SCO/W 1585,12.275,,S,0
-2,"Ilett, Miss. Bertha",female,17,0,0,SO/C 14885,10.5,,S,1
-2,"Jacobsohn, Mr. Sidney Samuel",male,42,1,0,243847,27,,S,0
-2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,2,1,243847,27,,S,1
-2,"Jarvis, Mr. John Denzil",male,47,0,0,237565,15,,S,0
-2,"Jefferys, Mr. Clifford Thomas",male,24,2,0,C.A. 31029,31.5,,S,0
-2,"Jefferys, Mr. Ernest Wilfred",male,22,2,0,C.A. 31029,31.5,,S,0
-2,"Jenkin, Mr. Stephen Curnow",male,32,0,0,C.A. 33111,10.5,,S,0
-2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,0,SC/AH Basle 541,13.7917,D,C,1
-2,"Kantor, Mr. Sinai",male,34,1,0,244367,26,,S,0
-2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,0,244367,26,,S,1
-2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,0,0,F.C.C. 13534,21,,S,0
-2,"Keane, Miss. Nora A",female,,0,0,226593,12.35,E101,Q,1
-2,"Keane, Mr. Daniel",male,35,0,0,233734,12.35,,Q,0
-2,"Kelly, Mrs. Florence ""Fannie""",female,45,0,0,223596,13.5,,S,1
-2,"Kirkland, Rev. Charles Leonard",male,57,0,0,219533,12.35,,Q,0
-2,"Knight, Mr. Robert J",male,,0,0,239855,0,,S,0
-2,"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,0,C.A. 18723,10.5,,S,0
-2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,1,1,250651,26,,S,0
-2,"Lahtinen, Rev. William",male,30,1,1,250651,26,,S,0
-2,"Lamb, Mr. John Joseph",male,,0,0,240261,10.7083,,Q,0
-2,"Laroche, Miss. Louise",female,1,1,2,SC/Paris 2123,41.5792,,C,1
-2,"Laroche, Miss. Simonne Marie Anne Andree",female,3,1,2,SC/Paris 2123,41.5792,,C,1
-2,"Laroche, Mr. Joseph Philippe Lemercier",male,25,1,2,SC/Paris 2123,41.5792,,C,0
-2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/Paris 2123,41.5792,,C,1
-2,"Lehmann, Miss. Bertha",female,17,0,0,SC 1748,12,,C,1
-2,"Leitch, Miss. Jessie Wills",female,,0,0,248727,33,,S,1
-2,"Lemore, Mrs. (Amelia Milley)",female,34,0,0,C.A. 34260,10.5,F33,S,1
-2,"Levy, Mr. Rene Jacques",male,36,0,0,SC/Paris 2163,12.875,D,C,0
-2,"Leyson, Mr. Robert William Norman",male,24,0,0,C.A. 29566,10.5,,S,0
-2,"Lingane, Mr. John",male,61,0,0,235509,12.35,,Q,0
-2,"Louch, Mr. Charles Alexander",male,50,1,0,SC/AH 3085,26,,S,0
-2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,0,SC/AH 3085,26,,S,1
-2,"Mack, Mrs. (Mary)",female,57,0,0,S.O./P.P. 3,10.5,E77,S,0
-2,"Malachard, Mr. Noel",male,,0,0,237735,15.0458,D,C,0
-2,"Mallet, Master. Andre",male,1,0,2,S.C./PARIS 2079,37.0042,,C,1
-2,"Mallet, Mr. Albert",male,31,1,1,S.C./PARIS 2079,37.0042,,C,0
-2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,1,1,S.C./PARIS 2079,37.0042,,C,1
-2,"Mangiavacchi, Mr. Serafino Emilio",male,,0,0,SC/A.3 2861,15.5792,,C,0
-2,"Matthews, Mr. William John",male,30,0,0,28228,13,,S,0
-2,"Maybery, Mr. Frank Hubert",male,40,0,0,239059,16,,S,0
-2,"McCrae, Mr. Arthur Gordon",male,32,0,0,237216,13.5,,S,0
-2,"McCrie, Mr. James Matthew",male,30,0,0,233478,13,,S,0
-2,"McKane, Mr. Peter David",male,46,0,0,28403,26,,S,0
-2,"Mellinger, Miss. Madeleine Violet",female,13,0,1,250644,19.5,,S,1
-2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,0,1,250644,19.5,,S,1
-2,"Mellors, Mr. William John",male,19,0,0,SW/PP 751,10.5,,S,1
-2,"Meyer, Mr. August",male,39,0,0,248723,13,,S,0
-2,"Milling, Mr. Jacob Christian",male,48,0,0,234360,13,,S,0
-2,"Mitchell, Mr. Henry Michael",male,70,0,0,C.A. 24580,10.5,,S,0
-2,"Montvila, Rev. Juozas",male,27,0,0,211536,13,,S,0
-2,"Moraweck, Dr. Ernest",male,54,0,0,29011,14,,S,0
-2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,0,250655,26,,S,0
-2,"Mudd, Mr. Thomas Charles",male,16,0,0,S.O./P.P. 3,10.5,,S,0
-2,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,,Q,0
-2,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,,C,0
-2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,,C,1
-2,"Navratil, Master. Edmond Roger",male,2,1,1,230080,26,F2,S,1
-2,"Navratil, Master. Michel M",male,3,1,1,230080,26,F2,S,1
-2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26,F2,S,0
-2,"Nesson, Mr. Israel",male,26,0,0,244368,13,F2,S,0
-2,"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A. 33112,36.75,,S,0
-2,"Norman, Mr. Robert Douglas",male,28,0,0,218629,13.5,,S,0
-2,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,0,0,SC/PARIS 2166,13.8625,D38,C,1
-2,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A. 29395,10.5,F33,S,1
-2,"Otter, Mr. Richard",male,39,0,0,28213,13,,S,0
-2,"Oxenham, Mr. Percy Thomas",male,22,0,0,W./C. 14260,10.5,,S,1
-2,"Padro y Manent, Mr. Julian",male,,0,0,SC/PARIS 2146,13.8625,,C,1
-2,"Pain, Dr. Alfred",male,23,0,0,244278,10.5,,S,0
-2,"Pallas y Castello, Mr. Emilio",male,29,0,0,SC/PARIS 2147,13.8583,,C,1
-2,"Parker, Mr. Clifford Richard",male,28,0,0,SC 14888,10.5,,S,0
-2,"Parkes, Mr. Francis ""Frank""",male,,0,0,239853,0,,S,0
-2,"Parrish, Mrs. (Lutie Davis)",female,50,0,1,230433,26,,S,1
-2,"Pengelly, Mr. Frederick William",male,19,0,0,28665,10.5,,S,0
-2,"Pernot, Mr. Rene",male,,0,0,SC/PARIS 2131,15.05,,C,0
-2,"Peruschitz, Rev. Joseph Maria",male,41,0,0,237393,13,,S,0
-2,"Phillips, Miss. Alice Frances Louisa",female,21,0,1,S.O./P.P. 2,21,,S,1
-2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250655,26,,S,1
-2,"Phillips, Mr. Escott Robert",male,43,0,1,S.O./P.P. 2,21,,S,0
-2,"Pinsky, Mrs. (Rosa)",female,32,0,0,234604,13,,S,1
-2,"Ponesell, Mr. Martin",male,34,0,0,250647,13,,S,0
-2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,0,0,C.A. 34644,12.7375,,C,1
-2,"Pulbaum, Mr. Franz",male,27,0,0,SC/PARIS 2168,15.0333,,C,0
-2,"Quick, Miss. Phyllis May",female,2,1,1,26360,26,,S,1
-2,"Quick, Miss. Winifred Vera",female,8,1,1,26360,26,,S,1
-2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,0,2,26360,26,,S,1
-2,"Reeves, Mr. David",male,36,0,0,C.A. 17248,10.5,,S,0
-2,"Renouf, Mr. Peter Henry",male,34,1,0,31027,21,,S,0
-2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,0,31027,21,,S,1
-2,"Reynaldo, Ms. Encarnacion",female,28,0,0,230434,13,,S,1
-2,"Richard, Mr. Emile",male,23,0,0,SC/PARIS 2133,15.0458,,C,0
-2,"Richards, Master. George Sibley",male,0.8333,1,1,29106,18.75,,S,1
-2,"Richards, Master. William Rowe",male,3,1,1,29106,18.75,,S,1
-2,"Richards, Mrs. Sidney (Emily Hocking)",female,24,2,3,29106,18.75,,S,1
-2,"Ridsdale, Miss. Lucy",female,50,0,0,W./C. 14258,10.5,,S,1
-2,"Rogers, Mr. Reginald Harry",male,19,0,0,28004,10.5,,S,0
-2,"Rugg, Miss. Emily",female,21,0,0,C.A. 31026,10.5,,S,1
-2,"Schmidt, Mr. August",male,26,0,0,248659,13,,S,0
-2,"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,0,244361,13,,S,0
-2,"Sharp, Mr. Percival James R",male,27,0,0,244358,26,,S,0
-2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,0,1,230433,26,,S,1
-2,"Silven, Miss. Lyyli Karoliina",female,18,0,2,250652,13,,S,1
-2,"Sincock, Miss. Maude",female,20,0,0,C.A. 33112,36.75,,S,1
-2,"Sinkkonen, Miss. Anna",female,30,0,0,250648,13,,S,1
-2,"Sjostedt, Mr. Ernst Adolf",male,59,0,0,237442,13.5,,S,0
-2,"Slayter, Miss. Hilda Mary",female,30,0,0,234818,12.35,,Q,1
-2,"Slemen, Mr. Richard James",male,35,0,0,28206,10.5,,S,0
-2,"Smith, Miss. Marion Elsie",female,40,0,0,31418,13,,S,1
-2,"Sobey, Mr. Samuel James Hayden",male,25,0,0,C.A. 29178,13,,S,0
-2,"Stanton, Mr. Samuel Ward",male,41,0,0,237734,15.0458,,C,0
-2,"Stokes, Mr. Philip Joseph",male,25,0,0,F.C.C. 13540,10.5,,S,0
-2,"Swane, Mr. George",male,18.5,0,0,248734,13,F,S,0
-2,"Sweet, Mr. George Frederick",male,14,0,0,220845,65,,S,0
-2,"Toomey, Miss. Ellen",female,50,0,0,F.C.C. 13531,10.5,,S,1
-2,"Troupiansky, Mr. Moses Aaron",male,23,0,0,233639,13,,S,0
-2,"Trout, Mrs. William H (Jessie L)",female,28,0,0,240929,12.65,,S,1
-2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,0,34218,10.5,E101,S,1
-2,"Turpin, Mr. William John Robert",male,29,1,0,11668,21,,S,0
-2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,0,11668,21,,S,0
-2,"Veal, Mr. James",male,40,0,0,28221,13,,S,0
-2,"Walcroft, Miss. Nellie",female,31,0,0,F.C.C. 13528,21,,S,1
-2,"Ware, Mr. John James",male,30,1,0,CA 31352,21,,S,0
-2,"Ware, Mr. William Jeffery",male,23,1,0,28666,10.5,,S,0
-2,"Ware, Mrs. John James (Florence Louise Long)",female,31,0,0,CA 31352,21,,S,1
-2,"Watson, Mr. Ennis Hastings",male,,0,0,239856,0,,S,0
-2,"Watt, Miss. Bertha J",female,12,0,0,C.A. 33595,15.75,,S,1
-2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,0,C.A. 33595,15.75,,S,1
-2,"Webber, Miss. Susan",female,32.5,0,0,27267,13,E101,S,1
-2,"Weisz, Mr. Leopold",male,27,1,0,228414,26,,S,0
-2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,1,0,228414,26,,S,1
-2,"Wells, Master. Ralph Lester",male,2,1,1,29103,23,,S,1
-2,"Wells, Miss. Joan",female,4,1,1,29103,23,,S,1
-2,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,0,2,29103,23,,S,1
-2,"West, Miss. Barbara J",female,0.9167,1,2,C.A. 34651,27.75,,S,1
-2,"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,27.75,,S,1
-2,"West, Mr. Edwy Arthur",male,36,1,2,C.A. 34651,27.75,,S,0
-2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A. 34651,27.75,,S,1
-2,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,,S,0
-2,"Wheeler, Mr. Edwin ""Frederick""",male,,0,0,SC/PARIS 2159,12.875,,S,0
-2,"Wilhelms, Mr. Charles",male,31,0,0,244270,13,,S,1
-2,"Williams, Mr. Charles Eugene",male,,0,0,244373,13,,S,1
-2,"Wright, Miss. Marion",female,26,0,0,220844,13.5,,S,1
-2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248747,13,,S,0
-3,"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,7.55,,S,0
-3,"Abbott, Master. Eugene Joseph",male,13,0,2,C.A. 2673,20.25,,S,0
-3,"Abbott, Mr. Rossmore Edward",male,16,1,1,C.A. 2673,20.25,,S,0
-3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A. 2673,20.25,,S,1
-3,"Abelseth, Miss. Karen Marie",female,16,0,0,348125,7.65,,S,1
-3,"Abelseth, Mr. Olaus Jorgensen",male,25,0,0,348122,7.65,F G63,S,1
-3,"Abrahamsson, Mr. Abraham August Johannes",male,20,0,0,SOTON/O2 3101284,7.925,,S,1
-3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,,C,1
-3,"Adahl, Mr. Mauritz Nils Martin",male,30,0,0,C 7076,7.25,,S,0
-3,"Adams, Mr. John",male,26,0,0,341826,8.05,,S,0
-3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,1,0,7546,9.475,,S,0
-3,"Aks, Master. Philip Frank",male,0.8333,0,1,392091,9.35,,S,1
-3,"Aks, Mrs. Sam (Leah Rosen)",female,18,0,1,392091,9.35,,S,1
-3,"Albimona, Mr. Nassef Cassem",male,26,0,0,2699,18.7875,,C,1
-3,"Alexander, Mr. William",male,26,0,0,3474,7.8875,,S,0
-3,"Alhomaki, Mr. Ilmari Rudolf",male,20,0,0,SOTON/O2 3101287,7.925,,S,0
-3,"Ali, Mr. Ahmed",male,24,0,0,SOTON/O.Q. 3101311,7.05,,S,0
-3,"Ali, Mr. William",male,25,0,0,SOTON/O.Q. 3101312,7.05,,S,0
-3,"Allen, Mr. William Henry",male,35,0,0,373450,8.05,,S,0
-3,"Allum, Mr. Owen George",male,18,0,0,2223,8.3,,S,0
-3,"Andersen, Mr. Albert Karvin",male,32,0,0,C 4001,22.525,,S,0
-3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,0,350046,7.8542,,S,1
-3,"Andersson, Master. Sigvard Harald Elias",male,4,4,2,347082,31.275,,S,0
-3,"Andersson, Miss. Ebba Iris Alfrida",female,6,4,2,347082,31.275,,S,0
-3,"Andersson, Miss. Ellis Anna Maria",female,2,4,2,347082,31.275,,S,0
-3,"Andersson, Miss. Erna Alexandra",female,17,4,2,3101281,7.925,,S,1
-3,"Andersson, Miss. Ida Augusta Margareta",female,38,4,2,347091,7.775,,S,0
-3,"Andersson, Miss. Ingeborg Constanzia",female,9,4,2,347082,31.275,,S,0
-3,"Andersson, Miss. Sigrid Elisabeth",female,11,4,2,347082,31.275,,S,0
-3,"Andersson, Mr. Anders Johan",male,39,1,5,347082,31.275,,S,0
-3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350043,7.7958,,S,1
-3,"Andersson, Mr. Johan Samuel",male,26,0,0,347075,7.775,,S,0
-3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,1,5,347082,31.275,,S,0
-3,"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,7.8542,,S,0
-3,"Angheloff, Mr. Minko",male,26,0,0,349202,7.8958,,S,0
-3,"Arnold-Franchi, Mr. Josef",male,25,1,0,349237,17.8,,S,0
-3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,0,349237,17.8,,S,0
-3,"Aronsson, Mr. Ernst Axel Algot",male,24,0,0,349911,7.775,,S,0
-3,"Asim, Mr. Adola",male,35,0,0,SOTON/O.Q. 3101310,7.05,,S,0
-3,"Asplund, Master. Carl Edgar",male,5,4,2,347077,31.3875,,S,0
-3,"Asplund, Master. Clarence Gustaf Hugo",male,9,4,2,347077,31.3875,,S,0
-3,"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347077,31.3875,,S,1
-3,"Asplund, Master. Filip Oscar",male,13,4,2,347077,31.3875,,S,0
-3,"Asplund, Miss. Lillian Gertrud",female,5,4,2,347077,31.3875,,S,1
-3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,1,5,347077,31.3875,,S,0
-3,"Asplund, Mr. Johan Charles",male,23,0,0,350054,7.7958,,S,1
-3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,1,5,347077,31.3875,,S,1
-3,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,0,0,2696,7.225,,C,1
-3,"Assaf, Mr. Gerios",male,21,0,0,2692,7.225,,C,0
-3,"Assam, Mr. Ali",male,23,0,0,SOTON/O.Q. 3101309,7.05,,S,0
-3,"Attalah, Miss. Malake",female,17,0,0,2627,14.4583,,C,0
-3,"Attalah, Mr. Sleiman",male,30,0,0,2694,7.225,,C,0
-3,"Augustsson, Mr. Albert",male,23,0,0,347468,7.8542,,S,0
-3,"Ayoub, Miss. Banoura",female,13,0,0,2687,7.2292,,C,1
-3,"Baccos, Mr. Raffull",male,20,0,0,2679,7.225,,C,0
-3,"Backstrom, Mr. Karl Alfred",male,32,1,0,3101278,15.85,,S,0
-3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,0,3101278,15.85,,S,1
-3,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,,C,1
-3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,,C,1
-3,"Baclini, Miss. Marie Catherine",female,5,2,1,2666,19.2583,,C,1
-3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,0,3,2666,19.2583,,C,1
-3,"Badman, Miss. Emily Louisa",female,18,0,0,A/4 31416,8.05,,S,1
-3,"Badt, Mr. Mohamed",male,40,0,0,2623,7.225,,C,0
-3,"Balkic, Mr. Cerin",male,26,0,0,349248,7.8958,,S,0
-3,"Barah, Mr. Hanna Assi",male,20,0,0,2663,7.2292,,C,1
-3,"Barbara, Miss. Saiide",female,18,0,1,2691,14.4542,,C,0
-3,"Barbara, Mrs. (Catherine David)",female,45,0,1,2691,14.4542,,C,0
-3,"Barry, Miss. Julia",female,27,0,0,330844,7.8792,,Q,0
-3,"Barton, Mr. David John",male,22,0,0,324669,8.05,,S,0
-3,"Beavan, Mr. William Thomas",male,19,0,0,323951,8.05,,S,0
-3,"Bengtsson, Mr. John Viktor",male,26,0,0,347068,7.775,,S,0
-3,"Berglund, Mr. Karl Ivar Sven",male,22,0,0,PP 4348,9.35,,S,0
-3,"Betros, Master. Seman",male,,0,0,2622,7.2292,,C,0
-3,"Betros, Mr. Tannous",male,20,0,0,2648,4.0125,,C,0
-3,"Bing, Mr. Lee",male,32,0,0,1601,56.4958,,S,1
-3,"Birkeland, Mr. Hans Martin Monsen",male,21,0,0,312992,7.775,,S,0
-3,"Bjorklund, Mr. Ernst Herbert",male,18,0,0,347090,7.75,,S,0
-3,"Bostandyeff, Mr. Guentcho",male,26,0,0,349224,7.8958,,S,0
-3,"Boulos, Master. Akar",male,6,1,1,2678,15.2458,,C,0
-3,"Boulos, Miss. Nourelain",female,9,1,1,2678,15.2458,,C,0
-3,"Boulos, Mr. Hanna",male,,0,0,2664,7.225,,C,0
-3,"Boulos, Mrs. Joseph (Sultana)",female,,0,2,2678,15.2458,,C,0
-3,"Bourke, Miss. Mary",female,,0,2,364848,7.75,,Q,0
-3,"Bourke, Mr. John",male,40,1,1,364849,15.5,,Q,0
-3,"Bourke, Mrs. John (Catherine)",female,32,1,1,364849,15.5,,Q,0
-3,"Bowen, Mr. David John ""Dai""",male,21,0,0,54636,16.1,,S,0
-3,"Bradley, Miss. Bridget Delia",female,22,0,0,334914,7.725,,Q,1
-3,"Braf, Miss. Elin Ester Maria",female,20,0,0,347471,7.8542,,S,0
-3,"Braund, Mr. Lewis Richard",male,29,1,0,3460,7.0458,,S,0
-3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S,0
-3,"Brobeck, Mr. Karl Rudolf",male,22,0,0,350045,7.7958,,S,0
-3,"Brocklebank, Mr. William Alfred",male,35,0,0,364512,8.05,,S,0
-3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Q,0
-3,"Buckley, Mr. Daniel",male,21,0,0,330920,7.8208,,Q,1
-3,"Burke, Mr. Jeremiah",male,19,0,0,365222,6.75,,Q,0
-3,"Burns, Miss. Mary Delia",female,18,0,0,330963,7.8792,,Q,0
-3,"Cacic, Miss. Manda",female,21,0,0,315087,8.6625,,S,0
-3,"Cacic, Miss. Marija",female,30,0,0,315084,8.6625,,S,0
-3,"Cacic, Mr. Jego Grga",male,18,0,0,315091,8.6625,,S,0
-3,"Cacic, Mr. Luka",male,38,0,0,315089,8.6625,,S,0
-3,"Calic, Mr. Jovo",male,17,0,0,315093,8.6625,,S,0
-3,"Calic, Mr. Petar",male,17,0,0,315086,8.6625,,S,0
-3,"Canavan, Miss. Mary",female,21,0,0,364846,7.75,,Q,0
-3,"Canavan, Mr. Patrick",male,21,0,0,364858,7.75,,Q,0
-3,"Cann, Mr. Ernest Charles",male,21,0,0,A./5. 2152,8.05,,S,0
-3,"Caram, Mr. Joseph",male,,1,0,2689,14.4583,,C,0
-3,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,14.4583,,C,0
-3,"Carlsson, Mr. August Sigfrid",male,28,0,0,350042,7.7958,,S,0
-3,"Carlsson, Mr. Carl Robert",male,24,0,0,350409,7.8542,,S,0
-3,"Carr, Miss. Helen ""Ellen""",female,16,0,0,367231,7.75,,Q,1
-3,"Carr, Miss. Jeannie",female,37,0,0,368364,7.75,,Q,0
-3,"Carver, Mr. Alfred John",male,28,0,0,392095,7.25,,S,0
-3,"Celotti, Mr. Francesco",male,24,0,0,343275,8.05,,S,0
-3,"Charters, Mr. David",male,21,0,0,A/5. 13032,7.7333,,Q,0
-3,"Chip, Mr. Chang",male,32,0,0,1601,56.4958,,S,1
-3,"Christmann, Mr. Emil",male,29,0,0,343276,8.05,,S,0
-3,"Chronopoulos, Mr. Apostolos",male,26,1,0,2680,14.4542,,C,0
-3,"Chronopoulos, Mr. Demetrios",male,18,1,0,2680,14.4542,,C,0
-3,"Coelho, Mr. Domingos Fernandeo",male,20,0,0,SOTON/O.Q. 3101307,7.05,,S,0
-3,"Cohen, Mr. Gurshon ""Gus""",male,18,0,0,A/5 3540,8.05,,S,1
-3,"Colbert, Mr. Patrick",male,24,0,0,371109,7.25,,Q,0
-3,"Coleff, Mr. Peju",male,36,0,0,349210,7.4958,,S,0
-3,"Coleff, Mr. Satio",male,24,0,0,349209,7.4958,,S,0
-3,"Conlon, Mr. Thomas Henry",male,31,0,0,21332,7.7333,,Q,0
-3,"Connaghton, Mr. Michael",male,31,0,0,335097,7.75,,Q,0
-3,"Connolly, Miss. Kate",female,22,0,0,370373,7.75,,Q,1
-3,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,,Q,0
-3,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q,0
-3,"Cook, Mr. Jacob",male,43,0,0,A/5 3536,8.05,,S,0
-3,"Cor, Mr. Bartol",male,35,0,0,349230,7.8958,,S,0
-3,"Cor, Mr. Ivan",male,27,0,0,349229,7.8958,,S,0
-3,"Cor, Mr. Liudevit",male,19,0,0,349231,7.8958,,S,0
-3,"Corn, Mr. Harry",male,30,0,0,SOTON/OQ 392090,8.05,,S,0
-3,"Coutts, Master. Eden Leslie ""Neville""",male,9,1,1,C.A. 37671,15.9,,S,1
-3,"Coutts, Master. William Loch ""William""",male,3,1,1,C.A. 37671,15.9,,S,1
-3,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,0,2,C.A. 37671,15.9,,S,1
-3,"Coxon, Mr. Daniel",male,59,0,0,364500,7.25,,S,0
-3,"Crease, Mr. Ernest James",male,19,0,0,S.P. 3464,8.1583,,S,0
-3,"Cribb, Miss. Laura Alice",female,17,0,1,371362,16.1,,S,1
-3,"Cribb, Mr. John Hatfield",male,44,0,1,371362,16.1,,S,0
-3,"Culumovic, Mr. Jeso",male,17,0,0,315090,8.6625,,S,0
-3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,C,0
-3,"Dahl, Mr. Karl Edwart",male,45,0,0,7598,8.05,,S,1
-3,"Dahlberg, Miss. Gerda Ulrika",female,22,0,0,7552,10.5167,,S,0
-3,"Dakic, Mr. Branko",male,19,0,0,349228,10.1708,,S,0
-3,"Daly, Miss. Margaret Marcella ""Maggie""",female,30,0,0,382650,6.95,,Q,1
-3,"Daly, Mr. Eugene Patrick",male,29,0,0,382651,7.75,,Q,1
-3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3333,0,2,347080,14.4,,S,0
-3,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,14.4,,S,0
-3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,1,1,347080,14.4,,S,0
-3,"Danoff, Mr. Yoto",male,27,0,0,349219,7.8958,,S,0
-3,"Dantcheff, Mr. Ristiu",male,25,0,0,349203,7.8958,,S,0
-3,"Davies, Mr. Alfred J",male,24,2,0,A/4 48871,24.15,,S,0
-3,"Davies, Mr. Evan",male,22,0,0,SC/A4 23568,8.05,,S,0
-3,"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,,S,0
-3,"Davies, Mr. Joseph",male,17,2,0,A/4 48873,8.05,,S,0
-3,"Davison, Mr. Thomas Henry",male,,1,0,386525,16.1,,S,0
-3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,0,386525,16.1,,S,1
-3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,S,1
-3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,1,0,345572,17.4,,S,1
-3,"de Mulder, Mr. Theodore",male,30,0,0,345774,9.5,,S,1
-3,"de Pelsmaeker, Mr. Alfons",male,16,0,0,345778,9.5,,S,0
-3,"Dean, Master. Bertram Vere",male,1,1,2,C.A. 2315,20.575,,S,1
-3,"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0.1667,1,2,C.A. 2315,20.575,,S,1
-3,"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,20.575,,S,0
-3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,1,2,C.A. 2315,20.575,,S,1
-3,"Delalic, Mr. Redjo",male,25,0,0,349250,7.8958,,S,0
-3,"Demetri, Mr. Marinko",male,,0,0,349238,7.8958,,S,0
-3,"Denkoff, Mr. Mitto",male,,0,0,349225,7.8958,,S,0
-3,"Dennis, Mr. Samuel",male,22,0,0,A/5 21172,7.25,,S,0
-3,"Dennis, Mr. William",male,36,0,0,A/5 21175,7.25,,S,0
-3,"Devaney, Miss. Margaret Delia",female,19,0,0,330958,7.8792,,Q,1
-3,"Dika, Mr. Mirko",male,17,0,0,349232,7.8958,,S,0
-3,"Dimic, Mr. Jovan",male,42,0,0,315088,8.6625,,S,0
-3,"Dintcheff, Mr. Valtcho",male,43,0,0,349226,7.8958,,S,0
-3,"Doharr, Mr. Tannous",male,,0,0,2686,7.2292,,C,0
-3,"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,,Q,0
-3,"Dorking, Mr. Edward Arthur",male,19,0,0,A/5. 10482,8.05,,S,1
-3,"Dowdell, Miss. Elizabeth",female,30,0,0,364516,12.475,,S,1
-3,"Doyle, Miss. Elizabeth",female,24,0,0,368702,7.75,,Q,0
-3,"Drapkin, Miss. Jennie",female,23,0,0,SOTON/OQ 392083,8.05,,S,1
-3,"Drazenoic, Mr. Jozef",male,33,0,0,349241,7.8958,,C,0
-3,"Duane, Mr. Frank",male,65,0,0,336439,7.75,,Q,0
-3,"Duquemin, Mr. Joseph",male,24,0,0,S.O./P.P. 752,7.55,,S,1
-3,"Dyker, Mr. Adolf Fredrik",male,23,1,0,347072,13.9,,S,0
-3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,1,0,347072,13.9,,S,1
-3,"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,0,349912,7.775,,S,0
-3,"Eklund, Mr. Hans Linus",male,16,0,0,347074,7.775,,S,0
-3,"Ekstrom, Mr. Johan",male,45,0,0,347061,6.975,,S,0
-3,"Elias, Mr. Dibo",male,,0,0,2674,7.225,,C,0
-3,"Elias, Mr. Joseph",male,39,0,2,2675,7.2292,,C,0
-3,"Elias, Mr. Joseph Jr",male,17,1,1,2690,7.2292,,C,0
-3,"Elias, Mr. Tannous",male,15,1,1,2695,7.2292,,C,0
-3,"Elsbury, Mr. William James",male,47,0,0,A/5 3902,7.25,,S,0
-3,"Emanuel, Miss. Virginia Ethel",female,5,0,0,364516,12.475,,S,1
-3,"Emir, Mr. Farred Chehab",male,,0,0,2631,7.225,,C,0
-3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,S,0
-3,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Q,0
-3,"Finoli, Mr. Luigi",male,,0,0,SOTON/O.Q. 3101308,7.05,,S,1
-3,"Fischer, Mr. Eberhard Thelander",male,18,0,0,350036,7.7958,,S,0
-3,"Fleming, Miss. Honora",female,,0,0,364859,7.75,,Q,0
-3,"Flynn, Mr. James",male,,0,0,364851,7.75,,Q,0
-3,"Flynn, Mr. John",male,,0,0,368323,6.95,,Q,0
-3,"Foley, Mr. Joseph",male,26,0,0,330910,7.8792,,Q,0
-3,"Foley, Mr. William",male,,0,0,365235,7.75,,Q,0
-3,"Foo, Mr. Choong",male,,0,0,1601,56.4958,,S,1
-3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,2,2,W./C. 6608,34.375,,S,0
-3,"Ford, Miss. Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,34.375,,S,0
-3,"Ford, Mr. Arthur",male,,0,0,A/5 1478,8.05,,S,0
-3,"Ford, Mr. Edward Watson",male,18,2,2,W./C. 6608,34.375,,S,0
-3,"Ford, Mr. William Neal",male,16,1,3,W./C. 6608,34.375,,S,0
-3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./C. 6608,34.375,,S,0
-3,"Fox, Mr. Patrick",male,,0,0,368573,7.75,,Q,0
-3,"Franklin, Mr. Charles (Charles Fardon)",male,,0,0,SOTON/O.Q. 3101314,7.25,,S,0
-3,"Gallagher, Mr. Martin",male,25,0,0,36864,7.7417,,Q,0
-3,"Garfirth, Mr. John",male,,0,0,358585,14.5,,S,0
-3,"Gheorgheff, Mr. Stanio",male,,0,0,349254,7.8958,,C,0
-3,"Gilinski, Mr. Eliezer",male,22,0,0,14973,8.05,,S,0
-3,"Gilnagh, Miss. Katherine ""Katie""",female,16,0,0,35851,7.7333,,Q,1
-3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q,1
-3,"Goldsmith, Master. Frank John William ""Frankie""",male,9,0,2,363291,20.525,,S,1
-3,"Goldsmith, Mr. Frank John",male,33,1,1,363291,20.525,,S,0
-3,"Goldsmith, Mr. Nathan",male,41,0,0,SOTON/O.Q. 3101263,7.85,,S,0
-3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,1,1,363291,20.525,,S,1
-3,"Goncalves, Mr. Manuel Estanslas",male,38,0,0,SOTON/O.Q. 3101306,7.05,,S,0
-3,"Goodwin, Master. Harold Victor",male,9,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Master. Sidney Leonard",male,1,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Master. William Frederick",male,11,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Miss. Jessie Allis",female,10,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Miss. Lillian Amy",female,16,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Mr. Charles Edward",male,14,5,2,CA 2144,46.9,,S,0
-3,"Goodwin, Mr. Charles Frederick",male,40,1,6,CA 2144,46.9,,S,0
-3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,1,6,CA 2144,46.9,,S,0
-3,"Green, Mr. George Henry",male,51,0,0,21440,8.05,,S,0
-3,"Gronnestad, Mr. Daniel Danielsen",male,32,0,0,8471,8.3625,,S,0
-3,"Guest, Mr. Robert",male,,0,0,376563,8.05,,S,0
-3,"Gustafsson, Mr. Alfred Ossian",male,20,0,0,7534,9.8458,,S,0
-3,"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,3101276,7.925,,S,0
-3,"Gustafsson, Mr. Johan Birger",male,28,2,0,3101277,7.925,,S,0
-3,"Gustafsson, Mr. Karl Gideon",male,19,0,0,347069,7.775,,S,0
-3,"Haas, Miss. Aloisia",female,24,0,0,349236,8.85,,S,0
-3,"Hagardon, Miss. Kate",female,17,0,0,AQ/3. 30631,7.7333,,Q,0
-3,"Hagland, Mr. Ingvald Olai Olsen",male,,1,0,65303,19.9667,,S,0
-3,"Hagland, Mr. Konrad Mathias Reiersen",male,,1,0,65304,19.9667,,S,0
-3,"Hakkarainen, Mr. Pekka Pietari",male,28,1,0,STON/O2. 3101279,15.85,,S,0
-3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,0,STON/O2. 3101279,15.85,,S,1
-3,"Hampe, Mr. Leon",male,20,0,0,345769,9.5,,S,0
-3,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,,C,0
-3,"Hansen, Mr. Claus Peter",male,41,2,0,350026,14.1083,,S,0
-3,"Hansen, Mr. Henrik Juul",male,26,1,0,350025,7.8542,,S,0
-3,"Hansen, Mr. Henry Damsgaard",male,21,0,0,350029,7.8542,,S,0
-3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,1,0,350026,14.1083,,S,1
-3,"Harknett, Miss. Alice Phoebe",female,,0,0,W./C. 6609,7.55,,S,0
-3,"Harmer, Mr. Abraham (David Lishin)",male,25,0,0,374887,7.25,,S,0
-3,"Hart, Mr. Henry",male,,0,0,394140,6.8583,,Q,0
-3,"Hassan, Mr. Houssein G N",male,11,0,0,2699,18.7875,,C,0
-3,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Q,1
-3,"Hedman, Mr. Oskar Arvid",male,27,0,0,347089,6.975,,S,1
-3,"Hee, Mr. Ling",male,,0,0,1601,56.4958,,S,1
-3,"Hegarty, Miss. Hanora ""Nora""",female,18,0,0,365226,6.75,,Q,0
-3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S,1
-3,"Heininen, Miss. Wendla Maria",female,23,0,0,STON/O2. 3101290,7.925,,S,0
-3,"Hellstrom, Miss. Hilda Maria",female,22,0,0,7548,8.9625,,S,1
-3,"Hendekovic, Mr. Ignjac",male,28,0,0,349243,7.8958,,S,0
-3,"Henriksson, Miss. Jenny Lovisa",female,28,0,0,347086,7.775,,S,0
-3,"Henry, Miss. Delia",female,,0,0,382649,7.75,,Q,0
-3,"Hirvonen, Miss. Hildur E",female,2,0,1,3101298,12.2875,,S,1
-3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1,1,3101298,12.2875,,S,1
-3,"Holm, Mr. John Fredrik Alexander",male,43,0,0,C 7075,6.45,,S,0
-3,"Holthen, Mr. Johan Martin",male,28,0,0,C 4001,22.525,,S,0
-3,"Honkanen, Miss. Eliina",female,27,0,0,STON/O2. 3101283,7.925,,S,1
-3,"Horgan, Mr. John",male,,0,0,370377,7.75,,Q,0
-3,"Howard, Miss. May Elizabeth",female,,0,0,A. 2. 39186,8.05,,S,1
-3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,0,348121,7.65,F G63,S,0
-3,"Hyman, Mr. Abraham",male,,0,0,3470,7.8875,,S,1
-3,"Ibrahim Shawah, Mr. Yousseff",male,30,0,0,2685,7.2292,,C,0
-3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,S,0
-3,"Ilmakangas, Miss. Ida Livija",female,27,1,0,STON/O2. 3101270,7.925,,S,0
-3,"Ilmakangas, Miss. Pieta Sofia",female,25,1,0,STON/O2. 3101271,7.925,,S,0
-3,"Ivanoff, Mr. Kanio",male,,0,0,349201,7.8958,,S,0
-3,"Jalsevac, Mr. Ivan",male,29,0,0,349240,7.8958,,C,1
-3,"Jansson, Mr. Carl Olof",male,21,0,0,350034,7.7958,,S,1
-3,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,7.05,,S,0
-3,"Jensen, Mr. Hans Peder",male,20,0,0,350050,7.8542,,S,0
-3,"Jensen, Mr. Niels Peder",male,48,0,0,350047,7.8542,,S,0
-3,"Jensen, Mr. Svend Lauritz",male,17,1,0,350048,7.0542,,S,0
-3,"Jermyn, Miss. Annie",female,,0,0,14313,7.75,,Q,1
-3,"Johannesen-Bratthammer, Mr. Bernt",male,,0,0,65306,8.1125,,S,1
-3,"Johanson, Mr. Jakob Alfred",male,34,0,0,3101264,6.4958,,S,0
-3,"Johansson Palmquist, Mr. Oskar Leander",male,26,0,0,347070,7.775,,S,1
-3,"Johansson, Mr. Erik",male,22,0,0,350052,7.7958,,S,0
-3,"Johansson, Mr. Gustaf Joel",male,33,0,0,7540,8.6542,,S,0
-3,"Johansson, Mr. Karl Johan",male,31,0,0,347063,7.775,,S,0
-3,"Johansson, Mr. Nils",male,29,0,0,347467,7.8542,,S,0
-3,"Johnson, Master. Harold Theodor",male,4,1,1,347742,11.1333,,S,1
-3,"Johnson, Miss. Eleanor Ileen",female,1,1,1,347742,11.1333,,S,1
-3,"Johnson, Mr. Alfred",male,49,0,0,LINE,0,,S,0
-3,"Johnson, Mr. Malkolm Joackim",male,33,0,0,347062,7.775,,S,0
-3,"Johnson, Mr. William Cahoone Jr",male,19,0,0,LINE,0,,S,0
-3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,11.1333,,S,1
-3,"Johnston, Master. William Arthur ""Willie""",male,,1,2,W./C. 6607,23.45,,S,0
-3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,S,0
-3,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,23.45,,S,0
-3,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,,1,2,W./C. 6607,23.45,,S,0
-3,"Jonkoff, Mr. Lalio",male,23,0,0,349204,7.8958,,S,0
-3,"Jonsson, Mr. Carl",male,32,0,0,350417,7.8542,,S,1
-3,"Jonsson, Mr. Nils Hilding",male,27,0,0,350408,7.8542,,S,0
-3,"Jussila, Miss. Katriina",female,20,1,0,4136,9.825,,S,0
-3,"Jussila, Miss. Mari Aina",female,21,1,0,4137,9.825,,S,0
-3,"Jussila, Mr. Eiriik",male,32,0,0,STON/O 2. 3101286,7.925,,S,1
-3,"Kallio, Mr. Nikolai Erland",male,17,0,0,STON/O 2. 3101274,7.125,,S,0
-3,"Kalvik, Mr. Johannes Halvorsen",male,21,0,0,8475,8.4333,,S,0
-3,"Karaic, Mr. Milan",male,30,0,0,349246,7.8958,,S,0
-3,"Karlsson, Mr. Einar Gervasius",male,21,0,0,350053,7.7958,,S,1
-3,"Karlsson, Mr. Julius Konrad Eugen",male,33,0,0,347465,7.8542,,S,0
-3,"Karlsson, Mr. Nils August",male,22,0,0,350060,7.5208,,S,0
-3,"Karun, Miss. Manca",female,4,0,1,349256,13.4167,,C,1
-3,"Karun, Mr. Franz",male,39,0,1,349256,13.4167,,C,1
-3,"Kassem, Mr. Fared",male,,0,0,2700,7.2292,,C,0
-3,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,18.5,0,0,2682,7.2292,,C,0
-3,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Q,0
-3,"Keefe, Mr. Arthur",male,,0,0,323592,7.25,,S,0
-3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Q,1
-3,"Kelly, Miss. Mary",female,,0,0,14312,7.75,,Q,1
-3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q,0
-3,"Kelly, Mr. James",male,44,0,0,363592,8.05,,S,0
-3,"Kennedy, Mr. John",male,,0,0,368783,7.75,,Q,1
-3,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,,C,0
-3,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,,1,0,2660,14.4542,,C,0
-3,"Kiernan, Mr. John",male,,1,0,367227,7.75,,Q,0
-3,"Kiernan, Mr. Philip",male,,1,0,367229,7.75,,Q,0
-3,"Kilgannon, Mr. Thomas J",male,,0,0,36865,7.7375,,Q,0
-3,"Kink, Miss. Maria",female,22,2,0,315152,8.6625,,S,0
-3,"Kink, Mr. Vincenz",male,26,2,0,315151,8.6625,,S,0
-3,"Kink-Heilmann, Miss. Luise Gretchen",female,4,0,2,315153,22.025,,S,1
-3,"Kink-Heilmann, Mr. Anton",male,29,3,1,315153,22.025,,S,1
-3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,1,1,315153,22.025,,S,1
-3,"Klasen, Miss. Gertrud Emilia",female,1,1,1,350405,12.1833,,S,0
-3,"Klasen, Mr. Klas Albin",male,18,1,1,350404,7.8542,,S,0
-3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,0,2,350405,12.1833,,S,0
-3,"Kraeff, Mr. Theodor",male,,0,0,349253,7.8958,,C,0
-3,"Krekorian, Mr. Neshan",male,25,0,0,2654,7.2292,F E57,C,1
-3,"Lahoud, Mr. Sarkis",male,,0,0,2624,7.225,,C,0
-3,"Laitinen, Miss. Kristina Sofia",female,37,0,0,4135,9.5875,,S,0
-3,"Laleff, Mr. Kristo",male,,0,0,349217,7.8958,,S,0
-3,"Lam, Mr. Ali",male,,0,0,1601,56.4958,,S,1
-3,"Lam, Mr. Len",male,,0,0,1601,56.4958,,S,0
-3,"Landergren, Miss. Aurora Adelia",female,22,0,0,C 7077,7.25,,S,1
-3,"Lane, Mr. Patrick",male,,0,0,7935,7.75,,Q,0
-3,"Lang, Mr. Fang",male,26,0,0,1601,56.4958,,S,1
-3,"Larsson, Mr. August Viktor",male,29,0,0,7545,9.4833,,S,0
-3,"Larsson, Mr. Bengt Edvin",male,29,0,0,347067,7.775,,S,0
-3,"Larsson-Rondberg, Mr. Edvard A",male,22,0,0,347065,7.775,,S,0
-3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,0,0,2620,7.225,,C,1
-3,"Lefebre, Master. Henry Forbes",male,,3,1,4133,25.4667,,S,0
-3,"Lefebre, Miss. Ida",female,,3,1,4133,25.4667,,S,0
-3,"Lefebre, Miss. Jeannie",female,,3,1,4133,25.4667,,S,0
-3,"Lefebre, Miss. Mathilde",female,,3,1,4133,25.4667,,S,0
-3,"Lefebre, Mrs. Frank (Frances)",female,,0,4,4133,25.4667,,S,0
-3,"Leinonen, Mr. Antti Gustaf",male,32,0,0,STON/O 2. 3101292,7.925,,S,0
-3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,,C,0
-3,"Lennon, Miss. Mary",female,,1,0,370371,15.5,,Q,0
-3,"Lennon, Mr. Denis",male,,1,0,370371,15.5,,Q,0
-3,"Leonard, Mr. Lionel",male,36,0,0,LINE,0,,S,0
-3,"Lester, Mr. James",male,39,0,0,A/4 48871,24.15,,S,0
-3,"Lievens, Mr. Rene Aime",male,24,0,0,345781,9.5,,S,0
-3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,0,347071,7.775,,S,0
-3,"Lindblom, Miss. Augusta Charlotta",female,45,0,0,347073,7.75,,S,0
-3,"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349910,15.55,,S,0
-3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,1,0,349910,15.55,,S,0
-3,"Lindqvist, Mr. Eino William",male,20,1,0,STON/O 2. 3101285,7.925,,S,1
-3,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,,Q,0
-3,"Ling, Mr. Lee",male,28,0,0,1601,56.4958,,S,0
-3,"Lithman, Mr. Simon",male,,0,0,S.O./P.P. 251,7.55,,S,0
-3,"Lobb, Mr. William Arthur",male,30,1,0,A/5. 3336,16.1,,S,0
-3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,0,A/5. 3336,16.1,,S,0
-3,"Lockyer, Mr. Edward",male,,0,0,1222,7.8792,,S,0
-3,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,,S,0
-3,"Lulic, Mr. Nikola",male,27,0,0,315098,8.6625,,S,1
-3,"Lundahl, Mr. Johan Svensson",male,51,0,0,347743,7.0542,,S,0
-3,"Lundin, Miss. Olga Elida",female,23,0,0,347469,7.8542,,S,1
-3,"Lundstrom, Mr. Thure Edvin",male,32,0,0,350403,7.5792,,S,1
-3,"Lyntakoff, Mr. Stanko",male,,0,0,349235,7.8958,,S,0
-3,"MacKay, Mr. George William",male,,0,0,C.A. 42795,7.55,,S,0
-3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q,1
-3,"Madsen, Mr. Fridtjof Arne",male,24,0,0,C 17369,7.1417,,S,1
-3,"Maenpaa, Mr. Matti Alexanteri",male,22,0,0,STON/O 2. 3101275,7.125,,S,0
-3,"Mahon, Miss. Bridget Delia",female,,0,0,330924,7.8792,,Q,0
-3,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,,Q,0
-3,"Maisner, Mr. Simon",male,,0,0,A/S 2816,8.05,,S,0
-3,"Makinen, Mr. Kalle Edvard",male,29,0,0,STON/O 2. 3101268,7.925,,S,0
-3,"Mamee, Mr. Hanna",male,,0,0,2677,7.2292,,C,1
-3,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,,Q,0
-3,"Mannion, Miss. Margareth",female,,0,0,36866,7.7375,,Q,1
-3,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,F E46,C,0
-3,"Markoff, Mr. Marin",male,35,0,0,349213,7.8958,,C,0
-3,"Markun, Mr. Johann",male,33,0,0,349257,7.8958,,S,0
-3,"Masselmani, Mrs. Fatima",female,,0,0,2649,7.225,,C,1
-3,"Matinoff, Mr. Nicola",male,,0,0,349255,7.8958,,C,0
-3,"McCarthy, Miss. Catherine ""Katie""",female,,0,0,383123,7.75,,Q,1
-3,"McCormack, Mr. Thomas Joseph",male,,0,0,367228,7.75,,Q,1
-3,"McCoy, Miss. Agnes",female,,2,0,367226,23.25,,Q,1
-3,"McCoy, Miss. Alicia",female,,2,0,367226,23.25,,Q,1
-3,"McCoy, Mr. Bernard",male,,2,0,367226,23.25,,Q,1
-3,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,7.7875,,Q,1
-3,"McEvoy, Mr. Michael",male,,0,0,36568,15.5,,Q,0
-3,"McGovern, Miss. Mary",female,,0,0,330931,7.8792,,Q,1
-3,"McGowan, Miss. Anna ""Annie""",female,15,0,0,330923,8.0292,,Q,1
-3,"McGowan, Miss. Katherine",female,35,0,0,9232,7.75,,Q,0
-3,"McMahon, Mr. Martin",male,,0,0,370372,7.75,,Q,0
-3,"McNamee, Mr. Neal",male,24,1,0,376566,16.1,,S,0
-3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,1,0,376566,16.1,,S,0
-3,"McNeill, Miss. Bridget",female,,0,0,370368,7.75,,Q,0
-3,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,8.05,,S,0
-3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,0,343095,8.05,,S,0
-3,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,,S,0
-3,"Mernagh, Mr. Robert",male,,0,0,368703,7.75,,Q,0
-3,"Midtsjo, Mr. Karl Albert",male,21,0,0,345501,7.775,,S,1
-3,"Miles, Mr. Frank",male,,0,0,359306,8.05,,S,0
-3,"Mineff, Mr. Ivan",male,24,0,0,349233,7.8958,,S,0
-3,"Minkoff, Mr. Lazar",male,21,0,0,349211,7.8958,,S,0
-3,"Mionoff, Mr. Stoytcho",male,28,0,0,349207,7.8958,,S,0
-3,"Mitkoff, Mr. Mito",male,,0,0,349221,7.8958,,S,0
-3,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,7.8792,,Q,1
-3,"Moen, Mr. Sigurd Hansen",male,25,0,0,348123,7.65,F G73,S,0
-3,"Moor, Master. Meier",male,6,0,1,392096,12.475,E121,S,1
-3,"Moor, Mrs. (Beila)",female,27,0,1,392096,12.475,E121,S,1
-3,"Moore, Mr. Leonard Charles",male,,0,0,A4. 54510,8.05,,S,0
-3,"Moran, Miss. Bertha",female,,1,0,371110,24.15,,Q,1
-3,"Moran, Mr. Daniel J",male,,1,0,371110,24.15,,Q,0
-3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q,0
-3,"Morley, Mr. William",male,34,0,0,364506,8.05,,S,0
-3,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,7.75,,Q,0
-3,"Moss, Mr. Albert Johan",male,,0,0,312991,7.775,,S,1
-3,"Moubarek, Master. Gerios",male,,1,1,2661,15.2458,,C,1
-3,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,1,2661,15.2458,,C,1
-3,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,,0,2,2661,15.2458,,C,1
-3,"Moussa, Mrs. (Mantoura Boulos)",female,,0,0,2626,7.2292,,C,1
-3,"Moutal, Mr. Rahamin Haim",male,,0,0,374746,8.05,,S,0
-3,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,7.7333,,Q,1
-3,"Mulvihill, Miss. Bertha E",female,24,0,0,382653,7.75,,Q,1
-3,"Murdlin, Mr. Joseph",male,,0,0,A./5. 3235,8.05,,S,0
-3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q,1
-3,"Murphy, Miss. Margaret Jane",female,,1,0,367230,15.5,,Q,1
-3,"Murphy, Miss. Nora",female,,0,0,36568,15.5,,Q,1
-3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,0,347078,7.75,,S,0
-3,"Naidenoff, Mr. Penko",male,22,0,0,349206,7.8958,,S,0
-3,"Najib, Miss. Adele Kiamie ""Jane""",female,15,0,0,2667,7.225,,C,1
-3,"Nakid, Miss. Maria (""Mary"")",female,1,0,2,2653,15.7417,,C,1
-3,"Nakid, Mr. Sahid",male,20,1,1,2653,15.7417,,C,1
-3,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,1,1,2653,15.7417,,C,1
-3,"Nancarrow, Mr. William Henry",male,33,0,0,A./5. 3338,8.05,,S,0
-3,"Nankoff, Mr. Minko",male,,0,0,349218,7.8958,,S,0
-3,"Nasr, Mr. Mustafa",male,,0,0,2652,7.2292,,C,0
-3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,Q,0
-3,"Nenkoff, Mr. Christo",male,,0,0,349234,7.8958,,S,0
-3,"Nicola-Yarred, Master. Elias",male,12,1,0,2651,11.2417,,C,1
-3,"Nicola-Yarred, Miss. Jamila",female,14,1,0,2651,11.2417,,C,1
-3,"Nieminen, Miss. Manta Josefina",female,29,0,0,3101297,7.925,,S,0
-3,"Niklasson, Mr. Samuel",male,28,0,0,363611,8.05,,S,0
-3,"Nilsson, Miss. Berta Olivia",female,18,0,0,347066,7.775,,S,1
-3,"Nilsson, Miss. Helmina Josefina",female,26,0,0,347470,7.8542,,S,1
-3,"Nilsson, Mr. August Ferdinand",male,21,0,0,350410,7.8542,,S,0
-3,"Nirva, Mr. Iisakki Antino Aijo",male,41,0,0,SOTON/O2 3101272,7.125,,S,0
-3,"Niskanen, Mr. Juha",male,39,0,0,STON/O 2. 3101289,7.925,,S,1
-3,"Nosworthy, Mr. Richard Cater",male,21,0,0,A/4. 39886,7.8,,S,0
-3,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,,C,0
-3,"Nysten, Miss. Anna Sofia",female,22,0,0,347081,7.75,,S,1
-3,"Nysveen, Mr. Johan Hansen",male,61,0,0,345364,6.2375,,S,0
-3,"O'Brien, Mr. Thomas",male,,1,0,370365,15.5,,Q,0
-3,"O'Brien, Mr. Timothy",male,,0,0,330979,7.8292,,Q,0
-3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Q,1
-3,"O'Connell, Mr. Patrick D",male,,0,0,334912,7.7333,,Q,0
-3,"O'Connor, Mr. Maurice",male,,0,0,371060,7.75,,Q,0
-3,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,,Q,0
-3,"Odahl, Mr. Nils Martin",male,23,0,0,7267,9.225,,S,0
-3,"O'Donoghue, Ms. Bridget",female,,0,0,364856,7.75,,Q,0
-3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q,1
-3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Q,1
-3,"Ohman, Miss. Velin",female,22,0,0,347085,7.775,,S,1
-3,"O'Keefe, Mr. Patrick",male,,0,0,368402,7.75,,Q,1
-3,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,7.8292,,Q,1
-3,"Olsen, Master. Artur Karl",male,9,0,1,C 17368,3.1708,,S,1
-3,"Olsen, Mr. Henry Margido",male,28,0,0,C 4001,22.525,,S,0
-3,"Olsen, Mr. Karl Siegwart Andreas",male,42,0,1,4579,8.4042,,S,0
-3,"Olsen, Mr. Ole Martin",male,,0,0,Fa 265302,7.3125,,S,0
-3,"Olsson, Miss. Elina",female,31,0,0,350407,7.8542,,S,0
-3,"Olsson, Mr. Nils Johan Goransson",male,28,0,0,347464,7.8542,,S,0
-3,"Olsson, Mr. Oscar Wilhelm",male,32,0,0,347079,7.775,,S,1
-3,"Olsvigen, Mr. Thor Anderson",male,20,0,0,6563,9.225,,S,0
-3,"Oreskovic, Miss. Jelka",female,23,0,0,315085,8.6625,,S,0
-3,"Oreskovic, Miss. Marija",female,20,0,0,315096,8.6625,,S,0
-3,"Oreskovic, Mr. Luka",male,20,0,0,315094,8.6625,,S,0
-3,"Osen, Mr. Olaf Elon",male,16,0,0,7534,9.2167,,S,0
-3,"Osman, Mrs. Mara",female,31,0,0,349244,8.6833,,S,1
-3,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,7.6292,,Q,0
-3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,,S,0
-3,"Palsson, Master. Paul Folke",male,6,3,1,349909,21.075,,S,0
-3,"Palsson, Miss. Stina Viola",female,3,3,1,349909,21.075,,S,0
-3,"Palsson, Miss. Torborg Danira",female,8,3,1,349909,21.075,,S,0
-3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,0,4,349909,21.075,,S,0
-3,"Panula, Master. Eino Viljami",male,1,4,1,3101295,39.6875,,S,0
-3,"Panula, Master. Juha Niilo",male,7,4,1,3101295,39.6875,,S,0
-3,"Panula, Master. Urho Abraham",male,2,4,1,3101295,39.6875,,S,0
-3,"Panula, Mr. Ernesti Arvid",male,16,4,1,3101295,39.6875,,S,0
-3,"Panula, Mr. Jaako Arnold",male,14,4,1,3101295,39.6875,,S,0
-3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,0,5,3101295,39.6875,,S,0
-3,"Pasic, Mr. Jakob",male,21,0,0,315097,8.6625,,S,0
-3,"Patchett, Mr. George",male,19,0,0,358585,14.5,,S,0
-3,"Paulner, Mr. Uscher",male,,0,0,3411,8.7125,,C,0
-3,"Pavlovic, Mr. Stefo",male,32,0,0,349242,7.8958,,S,0
-3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,S,0
-3,"Peacock, Miss. Treasteall",female,3,1,1,SOTON/O.Q. 3101315,13.775,,S,0
-3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,0,2,SOTON/O.Q. 3101315,13.775,,S,0
-3,"Pearce, Mr. Ernest",male,,0,0,343271,7,,S,0
-3,"Pedersen, Mr. Olaf",male,,0,0,345498,7.775,,S,0
-3,"Peduzzi, Mr. Joseph",male,,0,0,A/5 2817,8.05,,S,0
-3,"Pekoniemi, Mr. Edvard",male,21,0,0,STON/O 2. 3101294,7.925,,S,0
-3,"Peltomaki, Mr. Nikolai Johannes",male,25,0,0,STON/O 2. 3101291,7.925,,S,0
-3,"Perkin, Mr. John Henry",male,22,0,0,A/5 21174,7.25,,S,0
-3,"Persson, Mr. Ernst Ulrik",male,25,1,0,347083,7.775,,S,1
-3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C,1
-3,"Peter, Miss. Anna",female,,1,1,2668,22.3583,F E69,C,1
-3,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,2,2668,22.3583,,C,1
-3,"Peters, Miss. Katie",female,,0,0,330935,8.1375,,Q,0
-3,"Petersen, Mr. Marius",male,24,0,0,342441,8.05,,S,0
-3,"Petranec, Miss. Matilda",female,28,0,0,349245,7.8958,,S,0
-3,"Petroff, Mr. Nedelio",male,19,0,0,349212,7.8958,,S,0
-3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,7.8958,,S,0
-3,"Petterson, Mr. Johan Emil",male,25,1,0,347076,7.775,,S,0
-3,"Pettersson, Miss. Ellen Natalia",female,18,0,0,347087,7.775,,S,0
-3,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S,1
-3,"Plotcharsky, Mr. Vasil",male,,0,0,349227,7.8958,,S,0
-3,"Pokrnic, Mr. Mate",male,17,0,0,315095,8.6625,,S,0
-3,"Pokrnic, Mr. Tome",male,24,0,0,315092,8.6625,,S,0
-3,"Radeff, Mr. Alexander",male,,0,0,349223,7.8958,,S,0
-3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0,0,65305,8.1125,,S,0
-3,"Razi, Mr. Raihed",male,,0,0,2629,7.2292,,C,0
-3,"Reed, Mr. James George",male,,0,0,362316,7.25,,S,0
-3,"Rekic, Mr. Tido",male,38,0,0,349249,7.8958,,S,0
-3,"Reynolds, Mr. Harold J",male,21,0,0,342684,8.05,,S,0
-3,"Rice, Master. Albert",male,10,4,1,382652,29.125,,Q,0
-3,"Rice, Master. Arthur",male,4,4,1,382652,29.125,,Q,0
-3,"Rice, Master. Eric",male,7,4,1,382652,29.125,,Q,0
-3,"Rice, Master. Eugene",male,2,4,1,382652,29.125,,Q,0
-3,"Rice, Master. George Hugh",male,8,4,1,382652,29.125,,Q,0
-3,"Rice, Mrs. William (Margaret Norton)",female,39,0,5,382652,29.125,,Q,0
-3,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,0,0,3101295,39.6875,,S,0
-3,"Rintamaki, Mr. Matti",male,35,0,0,STON/O 2. 3101273,7.125,,S,0
-3,"Riordan, Miss. Johanna ""Hannah""",female,,0,0,334915,7.7208,,Q,1
-3,"Risien, Mr. Samuel Beard",male,,0,0,364498,14.5,,S,0
-3,"Risien, Mrs. Samuel (Emma)",female,,0,0,364498,14.5,,S,0
-3,"Robins, Mr. Alexander A",male,50,1,0,A/5. 3337,14.5,,S,0
-3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,0,A/5. 3337,14.5,,S,0
-3,"Rogers, Mr. William John",male,,0,0,S.C./A.4. 23567,8.05,,S,0
-3,"Rommetvedt, Mr. Knud Paust",male,,0,0,312993,7.775,,S,0
-3,"Rosblom, Miss. Salli Helena",female,2,1,1,370129,20.2125,,S,0
-3,"Rosblom, Mr. Viktor Richard",male,18,1,1,370129,20.2125,,S,0
-3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,0,2,370129,20.2125,,S,0
-3,"Roth, Miss. Sarah A",female,,0,0,342712,8.05,,S,1
-3,"Rouse, Mr. Richard Henry",male,50,0,0,A/5 3594,8.05,,S,0
-3,"Rush, Mr. Alfred George John",male,16,0,0,A/4. 20589,8.05,,S,0
-3,"Ryan, Mr. Edward",male,,0,0,383162,7.75,,Q,1
-3,"Ryan, Mr. Patrick",male,,0,0,371110,24.15,,Q,0
-3,"Saad, Mr. Amin",male,,0,0,2671,7.2292,,C,0
-3,"Saad, Mr. Khalil",male,25,0,0,2672,7.225,,C,0
-3,"Saade, Mr. Jean Nassr",male,,0,0,2676,7.225,,C,0
-3,"Sadlier, Mr. Matthew",male,,0,0,367655,7.7292,,Q,0
-3,"Sadowitz, Mr. Harry",male,,0,0,LP 1588,7.575,,S,0
-3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S,0
-3,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Miss. Ada",female,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Miss. Stella Anna",female,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Mr. Douglas Bullen",male,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Mr. Frederick",male,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,69.55,,S,0
-3,"Sage, Mr. John George",male,,1,9,CA. 2343,69.55,,S,0
-3,"Sage, Mrs. John (Annie Bullen)",female,,1,9,CA. 2343,69.55,,S,0
-3,"Salander, Mr. Karl Johan",male,24,0,0,7266,9.325,,S,0
-3,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,7.65,,S,1
-3,"Salonen, Mr. Johan Werner",male,39,0,0,3101296,7.925,,S,0
-3,"Samaan, Mr. Elias",male,,2,0,2662,21.6792,,C,0
-3,"Samaan, Mr. Hanna",male,,2,0,2662,21.6792,,C,0
-3,"Samaan, Mr. Youssef",male,,2,0,2662,21.6792,,C,0
-3,"Sandstrom, Miss. Beatrice Irene",female,1,1,1,PP 9549,16.7,G6,S,1
-3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,0,2,PP 9549,16.7,G6,S,1
-3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S,1
-3,"Sap, Mr. Julius",male,25,0,0,345768,9.5,,S,1
-3,"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,8.05,,S,0
-3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,,S,0
-3,"Scanlan, Mr. James",male,,0,0,36209,7.725,,Q,0
-3,"Sdycoff, Mr. Todor",male,,0,0,349222,7.8958,,S,0
-3,"Shaughnessy, Mr. Patrick",male,,0,0,370374,7.75,,Q,0
-3,"Sheerlinck, Mr. Jan Baptist",male,29,0,0,345779,9.5,,S,1
-3,"Shellard, Mr. Frederick William",male,,0,0,C.A. 6212,15.1,,S,0
-3,"Shine, Miss. Ellen Natalia",female,,0,0,330968,7.7792,,Q,1
-3,"Shorney, Mr. Charles Joseph",male,,0,0,374910,8.05,,S,0
-3,"Simmons, Mr. John",male,,0,0,SOTON/OQ 392082,8.05,,S,0
-3,"Sirayanian, Mr. Orsen",male,22,0,0,2669,7.2292,,C,0
-3,"Sirota, Mr. Maurice",male,,0,0,392092,8.05,,S,0
-3,"Sivic, Mr. Husein",male,40,0,0,349251,7.8958,,S,0
-3,"Sivola, Mr. Antti Wilhelm",male,21,0,0,STON/O 2. 3101280,7.925,,S,0
-3,"Sjoblom, Miss. Anna Sofia",female,18,0,0,3101265,7.4958,,S,1
-3,"Skoog, Master. Harald",male,4,3,2,347088,27.9,,S,0
-3,"Skoog, Master. Karl Thorsten",male,10,3,2,347088,27.9,,S,0
-3,"Skoog, Miss. Mabel",female,9,3,2,347088,27.9,,S,0
-3,"Skoog, Miss. Margit Elizabeth",female,2,3,2,347088,27.9,,S,0
-3,"Skoog, Mr. Wilhelm",male,40,1,4,347088,27.9,,S,0
-3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,1,4,347088,27.9,,S,0
-3,"Slabenoff, Mr. Petco",male,,0,0,349214,7.8958,,S,0
-3,"Slocovski, Mr. Selman Francis",male,,0,0,SOTON/OQ 392086,8.05,,S,0
-3,"Smiljanic, Mr. Mile",male,,0,0,315037,8.6625,,S,0
-3,"Smith, Mr. Thomas",male,,0,0,384461,7.75,,Q,0
-3,"Smyth, Miss. Julia",female,,0,0,335432,7.7333,,Q,1
-3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348124,7.65,F G73,S,0
-3,"Somerton, Mr. Francis William",male,30,0,0,A.5. 18509,8.05,,S,0
-3,"Spector, Mr. Woolf",male,,0,0,A.5. 3236,8.05,,S,0
-3,"Spinner, Mr. Henry John",male,32,0,0,STON/OQ. 369943,8.05,,S,0
-3,"Staneff, Mr. Ivan",male,,0,0,349208,7.8958,,S,0
-3,"Stankovic, Mr. Ivan",male,33,0,0,349239,8.6625,,C,0
-3,"Stanley, Miss. Amy Zillah Elsie",female,23,0,0,CA. 2314,7.55,,S,1
-3,"Stanley, Mr. Edward Roland",male,21,0,0,A/4 45380,8.05,,S,0
-3,"Storey, Mr. Thomas",male,60.5,0,0,3701,,,S,0
-3,"Stoytcheff, Mr. Ilia",male,19,0,0,349205,7.8958,,S,0
-3,"Strandberg, Miss. Ida Sofia",female,22,0,0,7553,9.8375,,S,0
-3,"Stranden, Mr. Juho",male,31,0,0,STON/O 2. 3101288,7.925,,S,1
-3,"Strilic, Mr. Ivan",male,27,0,0,315083,8.6625,,S,0
-3,"Strom, Miss. Telma Matilda",female,2,0,1,347054,10.4625,G6,S,0
-3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,1,1,347054,10.4625,G6,S,0
-3,"Sunderland, Mr. Victor Francis",male,16,0,0,SOTON/OQ 392089,8.05,,S,1
-3,"Sundman, Mr. Johan Julian",male,44,0,0,STON/O 2. 3101269,7.925,,S,1
-3,"Sutehall, Mr. Henry Jr",male,25,0,0,SOTON/OQ 392076,7.05,,S,0
-3,"Svensson, Mr. Johan",male,74,0,0,347060,7.775,,S,0
-3,"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,,S,1
-3,"Svensson, Mr. Olof",male,24,0,0,350035,7.7958,,S,0
-3,"Tenglin, Mr. Gunnar Isidor",male,25,0,0,350033,7.7958,,S,1
-3,"Theobald, Mr. Thomas Leonard",male,34,0,0,363294,8.05,,S,0
-3,"Thomas, Master. Assad Alexander",male,0.4167,0,1,2625,8.5167,,C,1
-3,"Thomas, Mr. Charles P",male,,1,0,2621,6.4375,,C,0
-3,"Thomas, Mr. John",male,,0,0,2681,6.4375,,C,0
-3,"Thomas, Mr. Tannous",male,,0,0,2684,7.225,,C,0
-3,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,1,1,2625,8.5167,,C,1
-3,"Thomson, Mr. Alexander Morrison",male,,0,0,32302,8.05,,S,0
-3,"Thorneycroft, Mr. Percival",male,,1,0,376564,16.1,,S,0
-3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,,S,1
-3,"Tikkanen, Mr. Juho",male,32,0,0,STON/O 2. 3101293,7.925,,S,0
-3,"Tobin, Mr. Roger",male,,0,0,383121,7.75,F38,Q,0
-3,"Todoroff, Mr. Lalio",male,,0,0,349216,7.8958,,S,0
-3,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,,S,0
-3,"Torber, Mr. Ernst William",male,44,0,0,364511,8.05,,S,0
-3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,C,0
-3,"Tornquist, Mr. William Henry",male,25,0,0,LINE,0,,S,1
-3,"Toufik, Mr. Nakli",male,,0,0,2641,7.2292,,C,0
-3,"Touma, Master. Georges Youssef",male,7,1,1,2650,15.2458,,C,1
-3,"Touma, Miss. Maria Youssef",female,9,1,1,2650,15.2458,,C,1
-3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,0,2,2650,15.2458,,C,1
-3,"Turcin, Mr. Stjepan",male,36,0,0,349247,7.8958,,S,0
-3,"Turja, Miss. Anna Sofia",female,18,0,0,4138,9.8417,,S,1
-3,"Turkula, Mrs. (Hedwig)",female,63,0,0,4134,9.5875,,S,1
-3,"van Billiard, Master. James William",male,,1,1,A/5. 851,14.5,,S,0
-3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,S,0
-3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,,S,0
-3,"Van Impe, Miss. Catharina",female,10,0,2,345773,24.15,,S,0
-3,"Van Impe, Mr. Jean Baptiste",male,36,1,1,345773,24.15,,S,0
-3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,1,1,345773,24.15,,S,0
-3,"van Melkebeke, Mr. Philemon",male,,0,0,345777,9.5,,S,0
-3,"Vande Velde, Mr. Johannes Joseph",male,33,0,0,345780,9.5,,S,0
-3,"Vande Walle, Mr. Nestor Cyriel",male,28,0,0,345770,9.5,,S,0
-3,"Vanden Steen, Mr. Leo Peter",male,28,0,0,345783,9.5,,S,0
-3,"Vander Cruyssen, Mr. Victor",male,47,0,0,345765,9,,S,0
-3,"Vander Planke, Miss. Augusta Maria",female,18,2,0,345764,18,,S,0
-3,"Vander Planke, Mr. Julius",male,31,3,0,345763,18,,S,0
-3,"Vander Planke, Mr. Leo Edmondus",male,16,2,0,345764,18,,S,0
-3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,18,,S,0
-3,"Vartanian, Mr. David",male,22,0,0,2658,7.225,,C,1
-3,"Vendel, Mr. Olof Edvin",male,20,0,0,350416,7.8542,,S,0
-3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350406,7.8542,,S,0
-3,"Vovk, Mr. Janko",male,22,0,0,349252,7.8958,,S,0
-3,"Waelens, Mr. Achille",male,22,0,0,345767,9,,S,0
-3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S,0
-3,"Warren, Mr. Charles William",male,,0,0,C.A. 49867,7.55,,S,0
-3,"Webber, Mr. James",male,,0,0,SOTON/OQ 3101316,8.05,,S,0
-3,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,,S,0
-3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,0,0,2688,7.2292,,C,1
-3,"Widegren, Mr. Carl/Charles Peter",male,51,0,0,347064,7.75,,S,0
-3,"Wiklund, Mr. Jakob Alfred",male,18,1,0,3101267,6.4958,,S,0
-3,"Wiklund, Mr. Karl Johan",male,21,1,0,3101266,6.4958,,S,0
-3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S,1
-3,"Willer, Mr. Aaron (""Abi Weller"")",male,,0,0,3410,8.7125,,S,0
-3,"Willey, Mr. Edward",male,,0,0,S.O./P.P. 751,7.55,,S,0
-3,"Williams, Mr. Howard Hugh ""Harry""",male,,0,0,A/5 2466,8.05,,S,0
-3,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,,S,0
-3,"Windelov, Mr. Einar",male,21,0,0,SOTON/OQ 3101317,7.25,,S,0
-3,"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,,S,0
-3,"Wiseman, Mr. Phillippe",male,,0,0,A/4. 34244,7.25,,S,0
-3,"Wittevrongel, Mr. Camille",male,36,0,0,345771,9.5,,S,0
-3,"Yasbeck, Mr. Antoni",male,27,1,0,2659,14.4542,,C,0
-3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,1,0,2659,14.4542,,C,1
-3,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,,C,0
-3,"Yousif, Mr. Wazli",male,,0,0,2647,7.225,,C,0
-3,"Yousseff, Mr. Gerious",male,,0,0,2627,14.4583,,C,0
-3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,,C,0
-3,"Zabour, Miss. Thamine",female,,1,0,2665,14.4542,,C,0
-3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,C,0
-3,"Zakarian, Mr. Ortin",male,27,0,0,2670,7.225,,C,0
-3,"Zimmerman, Mr. Leo",male,29,0,0,315082,7.875,,S,0
+permalink,company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+lifelock,LifeLock,,web,Tempe,AZ,1-May-07,6850000,USD,b
+lifelock,LifeLock,,web,Tempe,AZ,1-Oct-06,6000000,USD,a
+lifelock,LifeLock,,web,Tempe,AZ,1-Jan-08,25000000,USD,c
+mycityfaces,MyCityFaces,7,web,Scottsdale,AZ,1-Jan-08,50000,USD,seed
+flypaper,Flypaper,,web,Phoenix,AZ,1-Feb-08,3000000,USD,a
+infusionsoft,Infusionsoft,105,software,Gilbert,AZ,1-Oct-07,9000000,USD,a
+gauto,gAuto,4,web,Scottsdale,AZ,1-Jan-08,250000,USD,seed
+chosenlist-com,ChosenList.com,5,web,Scottsdale,AZ,1-Oct-06,140000,USD,seed
+chosenlist-com,ChosenList.com,5,web,Scottsdale,AZ,25-Jan-08,233750,USD,angel
+digg,Digg,60,web,San Francisco,CA,1-Dec-06,8500000,USD,b
+digg,Digg,60,web,San Francisco,CA,1-Oct-05,2800000,USD,a
+facebook,Facebook,450,web,Palo Alto,CA,1-Sep-04,500000,USD,angel
+facebook,Facebook,450,web,Palo Alto,CA,1-May-05,12700000,USD,a
+facebook,Facebook,450,web,Palo Alto,CA,1-Apr-06,27500000,USD,b
+facebook,Facebook,450,web,Palo Alto,CA,1-Oct-07,300000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,1-Mar-08,40000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,15-Jan-08,15000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,1-May-08,100000000,USD,debt_round
+photobucket,Photobucket,60,web,Palo Alto,CA,1-May-06,10500000,USD,b
+photobucket,Photobucket,60,web,Palo Alto,CA,1-Mar-05,3000000,USD,a
+omnidrive,Omnidrive,,web,Palo Alto,CA,1-Dec-06,800000,USD,angel
+geni,Geni,18,web,West Hollywood,CA,1-Jan-07,1500000,USD,a
+geni,Geni,18,web,West Hollywood,CA,1-Mar-07,10000000,USD,b
+twitter,Twitter,17,web,San Francisco,CA,1-Jul-07,5400000,USD,b
+twitter,Twitter,17,web,San Francisco,CA,1-May-08,15000000,USD,c
+stumbleupon,StumbleUpon,,web,San Francisco,CA,1-Dec-05,1500000,USD,seed
+gizmoz,Gizmoz,,web,Menlo Park,CA,1-May-07,6300000,USD,a
+gizmoz,Gizmoz,,web,Menlo Park,CA,16-Mar-08,6500000,USD,b
+scribd,Scribd,14,web,San Francisco,CA,1-Jun-06,12000,USD,seed
+scribd,Scribd,14,web,San Francisco,CA,1-Jan-07,40000,USD,angel
+scribd,Scribd,14,web,San Francisco,CA,1-Jun-07,3710000,USD,a
+slacker,Slacker,,web,San Diego,CA,1-Jun-07,40000000,USD,b
+slacker,Slacker,,web,San Diego,CA,1-Jun-07,13500000,USD,a
+lala,Lala,,web,Palo Alto,CA,1-May-07,9000000,USD,a
+plaxo,Plaxo,50,web,Mountain View,CA,1-Nov-02,3800000,USD,a
+plaxo,Plaxo,50,web,Mountain View,CA,1-Jul-03,8500000,USD,b
+plaxo,Plaxo,50,web,Mountain View,CA,1-Apr-04,7000000,USD,c
+plaxo,Plaxo,50,web,Mountain View,CA,1-Feb-07,9000000,USD,d
+powerset,Powerset,60,web,San Francisco,CA,1-Jun-07,12500000,USD,a
+technorati,Technorati,25,web,San Francisco,CA,1-Jun-06,10520000,USD,c
+technorati,Technorati,25,web,San Francisco,CA,1-Sep-04,6500000,USD,b
+technorati,Technorati,25,web,San Francisco,CA,13-Jun-08,7500000,USD,d
+technorati,Technorati,25,web,San Francisco,CA,10-May-07,1000000,USD,c
+mahalo,Mahalo,40,web,Santa Monica,CA,1-Jan-06,5000000,USD,a
+mahalo,Mahalo,40,web,Santa Monica,CA,1-Jan-07,16000000,USD,b
+kyte,Kyte,40,web,San Francisco,CA,1-Jul-07,2250000,USD,a
+kyte,Kyte,40,web,San Francisco,CA,1-Dec-07,15000000,USD,b
+kyte,Kyte,40,web,San Francisco,CA,10-Mar-08,6100000,USD,b
+veoh,Veoh,,web,San Diego,CA,1-Apr-06,12500000,USD,b
+veoh,Veoh,,web,San Diego,CA,1-Aug-07,25000000,USD,c
+veoh,Veoh,,web,San Diego,CA,1-Jul-05,2250000,USD,a
+veoh,Veoh,,web,San Diego,CA,3-Jun-08,30000000,USD,d
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-06,30000000,USD,c
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Dec-05,5000000,USD,a
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Apr-06,26000000,USD,b
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-05,400000,USD,angel
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Jan-08,13000000,USD,c
+ning,Ning,41,web,Palo Alto,CA,1-Jul-07,44000000,USD,c
+ning,Ning,41,web,Palo Alto,CA,1-Apr-08,60000000,USD,d
+jotspot,JotSpot,,web,Palo Alto,CA,1-Aug-04,5200000,USD,a
+mercora,Mercora,,web,Sunnyvale,CA,1-Jan-05,5000000,USD,a
+wesabe,Wesabe,,web,San Francisco,CA,1-Feb-07,700000,USD,seed
+wesabe,Wesabe,,web,San Francisco,CA,1-Jun-07,4000000,USD,a
+jangl,Jangl,22,web,Pleasanton,CA,1-Jul-06,7000000,USD,b
+hyphen8,Hyphen 8,4,web,San Francisco,CA,1-Oct-07,100000,USD,angel
+prosper,Prosper,,web,San Francisco,CA,1-Jun-07,20000000,USD,c
+prosper,Prosper,,web,San Francisco,CA,1-Apr-05,7500000,USD,a
+prosper,Prosper,,web,San Francisco,CA,1-Feb-06,12500000,USD,b
+google,Google,20000,web,Mountain View,CA,1-Jun-99,25000000,USD,a
+jajah,Jajah,80,web,Mountain View,CA,1-May-07,20000000,USD,c
+jajah,Jajah,80,web,Mountain View,CA,1-Mar-06,3000000,USD,a
+jajah,Jajah,80,web,Mountain View,CA,1-Apr-06,5000000,USD,b
+youtube,YouTube,,web,San Bruno,CA,1-Nov-05,3500000,USD,a
+youtube,YouTube,,web,San Bruno,CA,1-Apr-06,8000000,USD,b
+ustream,Ustream,,web,Mountain View,CA,1-Dec-07,2000000,USD,angel
+ustream,Ustream,,web,Mountain View,CA,10-Apr-08,11100000,USD,a
+gizmoproject,GizmoProject,,web,San Diego,CA,1-Feb-06,6000000,USD,a
+adap-tv,Adap.tv,15,web,San Mateo,CA,1-Jul-07,10000000,USD,a
+topix,Topix,,web,Palo Alto,CA,1-Nov-06,15000000,USD,b
+revision3,Revision3,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+revision3,Revision3,,web,San Francisco,CA,1-Jun-07,8000000,USD,b
+aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Jun-06,5000000,USD,a
+aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Apr-07,20000000,USD,b
+sugarinc,Sugar Inc,,web,San Francisco,CA,1-Oct-06,5000000,USD,a
+sugarinc,Sugar Inc,,web,San Francisco,CA,1-Jun-07,10000000,USD,b
+zing,Zing,,web,Mountain View,CA,1-Jan-07,13000000,USD,a
+criticalmetrics,CriticalMetrics,4,web,,CA,1-Jan-07,100000,USD,angel
+spock,Spock,30,web,Redwood City,CA,1-Dec-06,7000000,USD,a
+wize,Wize,,web,,CA,1-Jan-07,4000000,USD,a
+sodahead,SodaHead,,web,,CA,1-Jan-07,4250000,USD,a
+sodahead,SodaHead,,web,,CA,25-Jun-08,8400000,USD,b
+casttv,CastTV,0,web,San Francisco,CA,1-Apr-07,3100000,USD,a
+buzznet,BuzzNet,,web,Hollywood,CA,1-May-07,6000000,USD,a
+buzznet,BuzzNet,,web,Hollywood,CA,7-Apr-08,25000000,USD,b
+funny-or-die,Funny Or Die,,web,Palo Alto,CA,1-Dec-07,15000000,USD,b
+sphere,Sphere,11,web,San Francisco,CA,1-May-06,3000000,USD,b
+sphere,Sphere,11,web,San Francisco,CA,1-Apr-05,500000,USD,a
+meevee,MeeVee,,web,Burlingame,CA,1-Feb-06,6500000,USD,b
+meevee,MeeVee,,web,Burlingame,CA,1-Aug-06,8000000,USD,c
+meevee,MeeVee,,web,Burlingame,CA,1-Feb-05,7000000,USD,a
+meevee,MeeVee,,web,Burlingame,CA,1-Sep-07,3500000,USD,d
+mashery,Mashery,0,web,San Francisco,CA,26-Jun-08,2000000,USD,c
+yelp,Yelp,,web,San Francisco,CA,1-Oct-06,10000000,USD,c
+yelp,Yelp,,web,San Francisco,CA,1-Oct-05,5000000,USD,b
+yelp,Yelp,,web,San Francisco,CA,1-Jul-04,1000000,USD,a
+yelp,Yelp,,web,San Francisco,CA,26-Feb-08,15000000,USD,d
+spotplex,Spotplex,3,web,Santa Clara,CA,1-Jan-07,450000,USD,angel
+coghead,Coghead,21,web,Redwood City,CA,1-Mar-06,3200000,USD,a
+coghead,Coghead,21,web,Redwood City,CA,1-Mar-07,8000000,USD,b
+zooomr,Zooomr,,web,San Francisco,CA,1-Feb-06,50000,USD,angel
+sidestep,SideStep,75,web,Santa Clara,CA,1-Feb-07,15000000,USD,c
+sidestep,SideStep,75,web,Santa Clara,CA,1-Jan-04,8000000,USD,b
+sidestep,SideStep,75,web,Santa Clara,CA,1-Dec-99,2200000,USD,a
+sidestep,SideStep,75,web,Santa Clara,CA,1-Oct-00,6800000,USD,a
+rockyou,RockYou,,web,San Mateo,CA,1-Jan-07,1500000,USD,a
+rockyou,RockYou,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+rockyou,RockYou,,web,San Mateo,CA,9-Jun-08,35000000,USD,c
+rockyou,RockYou,,web,San Mateo,CA,27-May-08,1000000,USD,unattributed
+pageflakes,Pageflakes,20,web,San Francisco,CA,1-May-06,1300000,USD,a
+swivel,Swivel,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+swivel,Swivel,,web,San Francisco,CA,1-Apr-07,1000000,USD,a
+slide,Slide,64,web,San Francisco,CA,1-Jul-05,8000000,USD,b
+slide,Slide,64,web,San Francisco,CA,1-Jan-08,50000000,USD,d
+bebo,Bebo,,web,San Francisco,CA,1-May-06,15000000,USD,a
+freebase,freebase,,web,San Francisco,CA,1-Mar-06,15000000,USD,a
+freebase,freebase,,web,San Francisco,CA,1-Jan-08,42500000,USD,b
+metawebtechnologies,Metaweb Technologies,,web,San Francisco,CA,15-Jan-08,42000000,USD,b
+glammedia,Glam Media,,web,Brisbane,CA,1-Jul-04,1100000,USD,a
+glammedia,Glam Media,,web,Brisbane,CA,1-Jul-05,10000000,USD,b
+glammedia,Glam Media,,web,Brisbane,CA,1-Dec-06,18500000,USD,c
+glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,65000000,USD,d
+glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,20000000,USD,d
+thefind,TheFind,,web,Mountain View,CA,1-Feb-05,7000000,USD,a
+thefind,TheFind,,web,Mountain View,CA,1-Oct-06,4000000,USD,b
+thefind,TheFind,,web,Mountain View,CA,1-Jul-07,15000000,USD,c
+zazzle,Zazzle,,web,Redwood City,CA,1-Jul-05,16000000,USD,a
+zazzle,Zazzle,,web,Redwood City,CA,1-Oct-07,30000000,USD,b
+dogster,Dogster,,web,San Francisco,CA,1-Sep-06,1000000,USD,angel
+pandora,Pandora,80,web,Oakland,CA,1-Jan-04,7800000,USD,b
+pandora,Pandora,80,web,Oakland,CA,1-Oct-05,12000000,USD,c
+pandora,Pandora,80,web,Oakland,CA,2-Mar-00,1500000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-Mar-00,1200000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-May-01,300000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-Feb-05,14000000,USD,b
+pbwiki,pbwiki,15,web,,CA,11-Sep-06,350000,USD,a
+pbwiki,pbwiki,15,web,,CA,1-Feb-07,2100000,USD,b
+adbrite,AdBrite,,web,San Francisco,CA,1-Sep-04,4000000,USD,a
+adbrite,AdBrite,,web,San Francisco,CA,1-Feb-06,8000000,USD,b
+adbrite,AdBrite,,web,San Francisco,CA,1-Nov-07,23000000,USD,c
+loomia,Loomia,,web,San Francisco,CA,1-Jun-05,1000000,USD,seed
+loomia,Loomia,,web,San Francisco,CA,1-Apr-08,5000000,USD,a
+meebo,Meebo,40,web,Mountain View,CA,1-Dec-05,3500000,USD,a
+meebo,Meebo,40,web,Mountain View,CA,1-Jan-07,9000000,USD,b
+meebo,Meebo,40,web,Mountain View,CA,30-Apr-08,25000000,USD,c
+eventbrite,Eventbrite,13,web,San Francisco,CA,1-Nov-06,100000,USD,angel
+linkedin,LinkedIn,,web,Mountain View,CA,1-Nov-03,4700000,USD,a
+linkedin,LinkedIn,,web,Mountain View,CA,1-Oct-04,10000000,USD,b
+linkedin,LinkedIn,,web,Mountain View,CA,1-Jan-07,12800000,USD,c
+linkedin,LinkedIn,,web,Mountain View,CA,17-Jun-08,53000000,USD,d
+flickim,FlickIM,,web,Berkeley,CA,1-Mar-07,1600000,USD,a
+terabitz,Terabitz,12,web,Palo Alto,CA,1-Feb-07,10000000,USD,a
+healthline,Healthline,,web,San Francisco,CA,1-Jan-06,14000000,USD,a
+healthline,Healthline,,web,San Francisco,CA,1-Jul-07,21000000,USD,b
+box-net,Box.net,19,web,Palo Alto,CA,1-Oct-06,1500000,USD,a
+box-net,Box.net,19,web,Palo Alto,CA,23-Jan-08,6000000,USD,b
+conduit,Conduit,,web,Redwood Shores,CA,1-Jul-06,1800000,USD,a
+conduit,Conduit,,web,Redwood Shores,CA,1-Jan-08,8000000,USD,b
+edgeio,Edgeio,,web,Palo Alto,CA,1-Jul-07,5000000,USD,a
+spotrunner,Spot Runner,,web,Los Angeles,CA,1-Jan-06,10000000,USD,a
+spotrunner,Spot Runner,,web,Los Angeles,CA,1-Oct-06,40000000,USD,b
+spotrunner,Spot Runner,,web,Los Angeles,CA,7-May-08,51000000,USD,c
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-05,1500000,USD,a
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-06,2000000,USD,b
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-07,1500000,USD,c
+giga-omni-media,Giga Omni Media,18,web,San Francisco,CA,1-Jun-06,325000,USD,a
+visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,17000000,USD,b
+visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,7700000,USD,a
+wink,Wink,,web,Mountain View,CA,1-Jan-05,6200000,USD,a
+seesmic,seesmic,,web,San Francisco,CA,1-Nov-07,6000000,USD,a
+seesmic,seesmic,,web,San Francisco,CA,20-Jun-08,6000000,USD,b
+zvents,Zvents,,web,San Mateo,CA,7-Nov-06,7000000,USD,a
+zvents,Zvents,,web,San Mateo,CA,5-Oct-05,200000,USD,seed
+eventful,Eventful,35,web,San Diego,CA,1-Sep-06,7500000,USD,b
+eventful,Eventful,35,web,San Diego,CA,1-Mar-05,2100000,USD,a
+oodle,Oodle,,web,San Mateo,CA,1-May-06,5000000,USD,a
+oodle,Oodle,,web,San Mateo,CA,1-Jul-07,11000000,USD,b
+odesk,oDesk,,web,Menlo Park,CA,1-Apr-06,6000000,USD,a
+odesk,oDesk,,web,Menlo Park,CA,1-Sep-06,8000000,USD,b
+odesk,oDesk,,web,Menlo Park,CA,1-Jun-08,15000000,USD,c
+simplyhired,SimplyHired,,web,Mountain View,CA,1-Mar-06,13500000,USD,b
+simplyhired,SimplyHired,,web,Mountain View,CA,5-Aug-05,3000000,USD,a
+ooma,ooma,47,web,Palo Alto,CA,1-Jan-05,8000000,USD,a
+ooma,ooma,47,web,Palo Alto,CA,1-Dec-06,18000000,USD,b
+goingon,GoingOn,3,web,Woodside,CA,1-Aug-05,1000000,USD,seed
+flixster,Flixster,17,web,San Francisco,CA,1-Feb-07,2000000,USD,a
+flixster,Flixster,17,web,San Francisco,CA,4-Apr-08,5000000,USD,b
+piczo,Piczo,,web,San Francisco,CA,1-Jan-07,11000000,USD,c
+socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-04,300000,USD,angel
+socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-05,3100000,USD,b
+socialtext,Socialtext,,web,Palo Alto,CA,1-Nov-07,9500000,USD,c
+powerreviews,PowerReview,,web,Millbrae,CA,1-Dec-05,6250000,USD,a
+powerreviews,PowerReview,,web,Millbrae,CA,1-Sep-07,15000000,USD,b
+hi5,hi5,100,web,San Francisco,CA,1-Jul-07,20000000,USD,a
+hi5,hi5,100,web,San Francisco,CA,1-Dec-07,15000000,USD,debt_round
+tagged,Tagged,,web,San Francisco,CA,1-Sep-05,1500000,USD,angel
+tagged,Tagged,,web,San Francisco,CA,1-Dec-05,7000000,USD,a
+tagged,Tagged,,web,San Francisco,CA,1-Jul-07,15000000,USD,b
+jaxtr,Jaxtr,,web,Menlo Park,CA,1-Jul-07,1500000,USD,angel
+jaxtr,Jaxtr,,web,Menlo Park,CA,1-Aug-07,10000000,USD,a
+jaxtr,Jaxtr,,web,Menlo Park,CA,23-Jun-08,10000000,USD,b
+m,Me,,web,San Jose,CA,1-May-07,1500000,USD,seed
+intronetworks,introNetworks,9,web,Santa Barbara,CA,1-May-07,2700000,USD,a
+leveragesoftware,Leverage Software,21,web,San Francisco,CA,14-May-05,6000000,USD,a
+lithiumtechnologies,Lithium Technologies,42,web,Emeryville,CA,17-Apr-07,9000000,USD,a
+lithiumtechnologies,Lithium Technologies,42,web,Emeryville,CA,1-Jun-08,12000000,USD,b
+genius,Genius,,web,San Mateo,CA,1-Mar-06,5100000,USD,a
+genius,Genius,,web,San Mateo,CA,1-Jan-07,10000000,USD,b
+genius,Genius,,web,San Mateo,CA,5-Feb-08,19000000,USD,c
+respectance,Respectance,,web,San Francisco,CA,1-Jun-07,250000,USD,seed
+respectance,Respectance,,web,San Francisco,CA,1-Jul-07,1500000,USD,a
+curse,Curse,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+licketyship,LicketyShip,,web,San Francisco,CA,1-Dec-07,1500000,USD,angel
+grockit,Grockit,8,web,San Francisco,CA,1-Jun-07,2300000,USD,a
+grockit,Grockit,8,web,San Francisco,CA,30-May-08,8000000,USD,b
+peerme,PeerMe,,web,Mountain View,CA,1-Jan-05,5000000,USD,a
+kiptronic,Kiptronic,20,web,San Francisco,CA,1-Dec-06,4000000,USD,a
+kiptronic,Kiptronic,20,web,San Francisco,CA,1-Nov-05,300000,USD,angel
+kiptronic,Kiptronic,20,web,San Francisco,CA,5-Jun-08,3000000,USD,b
+vuze,Vuze,,web,Palo Alto,CA,1-Dec-06,12000000,USD,b
+vuze,Vuze,,web,Palo Alto,CA,1-Dec-07,20000000,USD,c
+phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Jun-06,560000,USD,a
+phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Feb-07,1500000,USD,a
+droplettechnology,Droplet Technology,,web,Menlo Park,CA,1-Oct-06,3500000,USD,a
+podtech,PodTech,,web,Palo Alto,CA,1-Mar-06,5500000,USD,a
+podtech,PodTech,,web,Palo Alto,CA,1-Jun-07,2000000,USD,a
+crackle,Crackle,,web,Mill Valley,CA,1-Dec-05,1750000,USD,a
+reddit,Reddit,,web,San Francisco,CA,1-Jun-05,100000,USD,seed
+wikia,Wikia,,web,San Mateo,CA,1-Mar-06,4000000,USD,a
+wikia,Wikia,,web,San Mateo,CA,1-Dec-06,10000000,USD,b
+retrevo,Retrevo,,web,Sunnyvale,CA,1-Dec-06,3200000,USD,a
+retrevo,Retrevo,,web,Sunnyvale,CA,1-Feb-06,700000,USD,seed
+retrevo,Retrevo,,web,Sunnyvale,CA,20-Mar-08,8000000,USD,b
+buxfer,Buxfer,2,web,Mountain View,CA,1-Jan-07,15000,USD,seed
+buxfer,Buxfer,2,web,Mountain View,CA,1-Apr-07,300000,USD,angel
+yousendit,YouSendIt,0,web,Campbell,CA,24-Apr-07,10000000,USD,b
+yousendit,YouSendIt,0,web,Campbell,CA,1-Aug-05,10000000,USD,a
+yousendit,YouSendIt,0,web,Campbell,CA,15-Jul-08,14000000,USD,c
+tangler,Tangler,,web,Mountain View,CA,1-Jul-06,1500000,USD,angel
+obopay,obopay,,web,Redwood City,CA,1-Feb-06,10000000,USD,a
+obopay,obopay,,web,Redwood City,CA,1-Sep-06,7000000,USD,b
+obopay,obopay,,web,Redwood City,CA,1-Jul-07,29000000,USD,c
+obopay,obopay,,web,Redwood City,CA,21-Apr-08,20000000,USD,d
+paypal,PayPal,,web,San Jose,CA,1-Apr-00,100000000,USD,c
+paypal,PayPal,,web,San Jose,CA,1-Feb-01,90000000,USD,d
+paypal,PayPal,,web,San Jose,CA,1-Jul-99,4000000,USD,b
+talkplus,TalkPlus,,web,San Mateo,CA,1-Oct-06,5500000,USD,a
+vudu,Vudu,50,hardware,Santa Clara,CA,1-Jun-05,21000000,USD,a
+insiderpages,Insider Pages,,web,Redwood City,CA,1-Mar-06,8500000,USD,a
+snapfish,Snapfish,,web,San Francisco,CA,1-Nov-99,7500000,USD,a
+snapfish,Snapfish,,web,San Francisco,CA,1-May-00,36000000,USD,b
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-May-06,4100000,USD,c
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-Jun-05,1000000,USD,b
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-Dec-04,440000,USD,a
+imvu,IMVU,,web,Palo Alto,CA,1-Feb-06,1000000,USD,angel
+nirvanix,Nirvanix,,web,San Diego,CA,19-Dec-07,18000000,USD,a
+fuzzwich,Habit Industries,4,web,Palo Alto,CA,1-Jun-07,15000,USD,seed
+gaia,Gaia,,web,San Jose,CA,1-Jun-06,8930000,USD,a
+gaia,Gaia,,web,San Jose,CA,1-Mar-07,12000000,USD,b
+gaia,Gaia,,web,San Jose,CA,14-Jul-08,11000000,USD,c
+greatcall,GreatCall,,web,Del Mar,CA,1-Aug-07,36600000,USD,a
+revver,Revver,,web,Los Angeles,CA,1-Nov-05,4000000,USD,a
+revver,Revver,,web,Los Angeles,CA,1-Apr-06,8700000,USD,b
+metacafe,Metacafe,,web,Palo Alto,CA,1-Jul-06,15000000,USD,b
+metacafe,Metacafe,,web,Palo Alto,CA,1-Aug-07,30000000,USD,c
+flock,Flock,40,web,Redwood City,CA,1-Nov-05,3300000,USD,b
+flock,Flock,40,web,Redwood City,CA,1-Jun-06,10000000,USD,c
+flock,Flock,40,web,Redwood City,CA,21-May-08,15000000,USD,d
+vmixmedia,VMIX Media,42,web,San Diego,CA,1-Mar-06,5000000,USD,a
+vmixmedia,VMIX Media,42,web,San Diego,CA,1-Oct-07,16500000,USD,b
+kontera,Kontera,,web,San Francisco,CA,1-Aug-07,10300000,USD,b
+kontera,Kontera,,web,San Francisco,CA,1-Jul-06,7000000,USD,a
+tokbox,Tokbox,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+tokbox,Tokbox,,web,San Francisco,CA,6-Aug-08,10000000,USD,b
+six-apart,Six Apart,150,web,San Francisco,CA,1-Oct-04,10000000,USD,b
+six-apart,Six Apart,150,web,San Francisco,CA,1-Mar-06,12000000,USD,c
+six-apart,Six Apart,150,web,San Francisco,CA,23-Apr-03,600000,USD,a
+weebly,Weebly,,web,San Francisco,CA,1-May-07,650000,USD,seed
+synthasite,Synthasite,26,web,San Francisco,CA,1-Nov-07,5000000,USD,a
+bittorrent,BitTorrent,29,web,San Francisco,CA,1-Sep-05,8750000,USD,a
+bittorrent,BitTorrent,29,web,San Francisco,CA,1-Dec-06,25000000,USD,b
+kongregate,Kongregate,16,web,San Francisco,CA,1-Mar-07,1000000,USD,a
+kongregate,Kongregate,16,web,San Francisco,CA,1-Aug-07,5000000,USD,b
+kongregate,Kongregate,16,web,San Francisco,CA,1-Apr-08,3000000,USD,b
+dancejam,DanceJam,0,web,San Francisco,CA,1-May-07,1000000,USD,angel
+dancejam,DanceJam,0,web,San Francisco,CA,1-Feb-08,3500000,USD,a
+fathomonline,Fathom Online,,web,San Francisco,CA,1-Jul-04,6000000,USD,a
+zivity,Zivity,16,web,San Francisco,CA,1-Aug-07,1000000,USD,seed
+zivity,Zivity,16,web,San Francisco,CA,1-Mar-08,7000000,USD,b
+bluelithium,BlueLithium,135,web,San Jose,CA,1-Feb-05,11500000,USD,a
+expresso,eXpresso,,web,Menlo Park,CA,1-Oct-07,2000000,USD,a
+doostang,Doostang,,web,Palo Alto,CA,1-Sep-07,3500000,USD,a
+docstoc,Docstoc,,web,Beverly Hills,CA,1-Nov-07,750000,USD,a
+docstoc,Docstoc,,web,Beverly Hills,CA,28-Apr-08,3250000,USD,b
+mevio,Mevio,,web,San Francisco,CA,1-Jul-05,8900000,USD,a
+mevio,Mevio,,web,San Francisco,CA,1-Sep-06,15000000,USD,b
+mevio,Mevio,,web,San Francisco,CA,9-Jul-08,15000000,USD,c
+purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Dec-05,5600000,USD,a
+purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Sep-07,2850000,USD,b
+filmloop,FilmLoop,,web,Menlo Park,CA,1-Feb-05,5600000,USD,a
+bitpass,BitPass,,web,Mountain View,CA,1-Jul-03,1500000,USD,a
+bitpass,BitPass,,web,Mountain View,CA,1-Sep-04,11800000,USD,b
+art-com,Art.com,500,web,Emeryville,CA,1-Feb-05,30000000,USD,a
+atomshockwave,Atom Shockwave,,web,San Francisco,CA,1-Mar-01,22900000,USD,a
+cinemanow,CinemaNow,,web,Marina Del Rey,CA,1-Jul-04,11000000,USD,a
+digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,8400000,USD,a
+digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,13000000,USD,b
+eharmony,eHarmony,,web,Pasadena,CA,1-Jun-00,3000000,USD,a
+eharmony,eHarmony,,web,Pasadena,CA,1-Nov-04,110000000,USD,b
+friendster,Friendster,465,web,San Francisco,CA,1-Dec-02,2400000,USD,a
+friendster,Friendster,465,web,San Francisco,CA,1-Oct-03,13000000,USD,b
+friendster,Friendster,465,web,San Francisco,CA,1-Aug-06,10000000,USD,c
+friendster,Friendster,465,web,San Francisco,CA,5-Aug-08,20000000,USD,d
+greystripe,Greystripe,,web,San Francisco,CA,1-May-07,8900000,USD,b
+slingmedia,Sling Media,,web,Foster City,CA,1-Nov-04,10500000,USD,a
+slingmedia,Sling Media,,web,Foster City,CA,1-Jul-05,4000000,USD,a
+trulia,Trulia,,web,San Francisco,CA,1-Dec-05,5700000,USD,b
+trulia,Trulia,,web,San Francisco,CA,1-May-07,10000000,USD,c
+trulia,Trulia,,web,San Francisco,CA,1-Sep-05,2100000,USD,a
+trulia,Trulia,,web,San Francisco,CA,10-Jul-08,15000000,USD,d
+lendingclub,Lending Club,,web,Sunnyvale,CA,1-May-07,2000000,USD,angel
+lendingclub,Lending Club,,web,Sunnyvale,CA,1-Aug-07,10260000,USD,a
+tubemogul,tubemogul,15,web,Emeryville,CA,7-Feb-08,1500000,USD,a
+gemini,Gemini,,web,San Mateo,CA,1-Mar-07,20000000,USD,a
+gemini,Gemini,,web,San Mateo,CA,1-May-07,5000000,USD,b
+multiverse,Multiverse,,web,Mountain View,CA,1-May-07,4175000,USD,a
+multiverse,Multiverse,,web,Mountain View,CA,17-Apr-07,850000,USD,angel
+limelife,LimeLife,,mobile,Menlo Park,CA,28-Mar-06,10000000,USD,b
+limelife,LimeLife,,mobile,Menlo Park,CA,1-Aug-05,5000000,USD,a
+limelife,LimeLife,,mobile,Menlo Park,CA,24-May-07,3900000,USD,b
+opentable,OpenTable,,web,San Francisco,CA,1-May-99,2000000,USD,a
+opentable,OpenTable,,web,San Francisco,CA,1-Jan-00,10000000,USD,b
+opentable,OpenTable,,web,San Francisco,CA,1-Oct-00,36000000,USD,c
+rooftopcomedy,RooftopComedy,20,web,San Francisco,CA,1-May-07,2500000,USD,a
+federatedmedia,Federated Media,,web,Sausalito,CA,1-Aug-07,4500000,USD,b
+federatedmedia,Federated Media,,web,Sausalito,CA,1-Apr-08,50000000,USD,c
+deliveryagent,Delivery Agent,,web,San Francisco,CA,1-May-07,18500000,USD,c
+deliveryagent,Delivery Agent,,web,San Francisco,CA,17-May-06,11000000,USD,b
+deliveryagent,Delivery Agent,,web,San Francisco,CA,29-Mar-05,5500000,USD,a
+reunion,Reunion,100,web,Los Angeles,CA,1-Apr-07,25000000,USD,a
+mixercast,Mixercast,,web,San Mateo,CA,1-May-05,2600000,USD,a
+mixercast,Mixercast,,web,San Mateo,CA,1-Jan-08,6000000,USD,b
+mtraks,mTraks,,web,San Diego,CA,1-May-07,550000,USD,angel
+xora,Xora,,web,Mountain View,CA,1-May-01,7000000,USD,a
+xora,Xora,,web,Mountain View,CA,1-Feb-03,4000000,USD,b
+xora,Xora,,web,Mountain View,CA,1-Jun-07,4000000,USD,debt_round
+ooyala,Ooyala,,web,Mountain View,CA,1-Jan-08,8500000,USD,b
+saynow,SayNow,14,web,Palo Alto,CA,1-Sep-07,7500000,USD,a
+crunchyroll,Crunchyroll,,web,San Francsico,CA,1-Feb-08,4050000,USD,a
+circleup,CircleUp,19,web,Newport Beach,CA,1-Jun-07,3000000,USD,a
+pixsense,PixSense,,web,Santa Clara,CA,1-Dec-06,5400000,USD,a
+pixsense,PixSense,,web,Santa Clara,CA,1-Jun-07,2000000,USD,b
+danal,Danal,,web,San Jose,CA,1-Jun-07,9500000,USD,a
+hulu,hulu,,web,Los Angeles,CA,1-Aug-07,100000000,USD,a
+ourstory,OurStory,,web,Mountain View,CA,1-Jan-06,6300000,USD,a
+specificmedia,Specificmedia,,web,Ir vine,CA,1-Jun-06,10000000,USD,a
+specificmedia,Specificmedia,,web,Ir vine,CA,1-Nov-07,100000000,USD,b
+admob,AdMob,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+mysql,MySQL,,web,Cupertino,CA,1-Feb-06,18500000,USD,c
+mysql,MySQL,,web,Cupertino,CA,1-Jun-03,19500000,USD,b
+attributor,Attributor,0,web,Redwood City,CA,28-Jan-06,2000000,USD,a
+attributor,Attributor,0,web,Redwood City,CA,2-Apr-08,12000000,USD,c
+attributor,Attributor,0,web,Redwood City,CA,18-Dec-06,8000000,USD,b
+socialmedia,Social Media,15,web,Palo Alto,CA,1-Sep-07,500000,USD,a
+socialmedia,Social Media,15,web,Palo Alto,CA,1-Oct-07,3500000,USD,b
+demandmedia,Demand Media,,web,Santa Monica,CA,1-May-06,120000000,USD,a
+demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-06,100000000,USD,b
+demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-07,100000000,USD,c
+demandmedia,Demand Media,,web,Santa Monica,CA,24-Mar-08,35000000,USD,d
+tripit,TripIt,8,web,San Francisco,CA,1-Apr-07,1000000,USD,seed
+pubmatic,PubMatic,35,web,Palo Alto,CA,1-Jan-08,7000000,USD,a
+mint,Mint,22,web,Mountain View,CA,1-Oct-07,4700000,USD,a
+mint,Mint,22,web,Mountain View,CA,1-Oct-06,325000,USD,seed
+mint,Mint,22,web,Mountain View,CA,5-Mar-08,12000000,USD,b
+app2you,app2you,4,web,La Jolla,CA,20-Nov-07,255000,USD,angel
+app2you,app2you,4,web,La Jolla,CA,1-Oct-06,177000,USD,angel
+yourstreet,YourStreet,6,web,San Francisco,CA,1-Oct-06,250000,USD,angel
+tagworld,Tagworld,,web,Santa Monica,CA,1-Mar-06,7500000,USD,a
+tagworld,Tagworld,,web,Santa Monica,CA,1-Dec-06,40000000,USD,b
+rotohog,RotoHog,,web,Inglewood,CA,1-Aug-07,6000000,USD,a
+thisnext,ThisNext,0,web,Santa Monica,CA,1-Jan-08,5000000,USD,b
+thisnext,ThisNext,0,web,Santa Monica,CA,1-Jan-06,2500000,USD,a
+chesspark,ChessPark,,web,West Palm Beach,CA,1-Jul-07,1000000,USD,angel
+break,Break,,web,Beverly Hills,CA,1-Jul-07,21400000,USD,a
+musestorm,MuseStorm,,web,Sunnyvale,CA,1-Jul-07,1000000,USD,a
+mediamachines,Media Machines,,web,San Francisco,CA,1-Aug-07,9400000,USD,a
+mig33,Ciihui,,web,Burlingame,CA,1-May-07,10000000,USD,a
+mig33,Ciihui,,web,Burlingame,CA,1-Jan-08,13500000,USD,b
+aliph,Aliph,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+mego,mEgo,15,web,Los Angeles,CA,1-May-06,1100000,USD,angel
+mego,mEgo,15,web,Los Angeles,CA,1-Jul-07,2000000,USD,angel
+realius,Realius,3,web,Berkeley,CA,1-May-07,500000,USD,angel
+xobni,Xobni,0,software,San Francisco,CA,1-Jun-06,12000,USD,seed
+xobni,Xobni,0,software,San Francisco,CA,1-Nov-06,80000,USD,angel
+xobni,Xobni,0,software,San Francisco,CA,1-Mar-07,4260000,USD,a
+spoke,Spoke,0,web,San Mateo,CA,18-Nov-03,11700000,USD,c
+spoke,Spoke,0,web,San Mateo,CA,24-Apr-03,9200000,USD,b
+fixya,FixYa,30,web,San Mateo,CA,1-Jan-07,2000000,USD,a
+fixya,FixYa,30,web,San Mateo,CA,18-Mar-08,6000000,USD,b
+mozilla,Mozilla,150,web,Mountain View,CA,15-Jul-03,2000000,USD,unattributed
+brightqube,BrightQube,0,web,Carlsbad,CA,1-May-07,200000,USD,angel
+buzzdash,BuzzDash,0,web,Marina del Rey,CA,1-Sep-06,1200000,USD,angel
+urbanmapping,Urban Mapping,9,web,San Francisco,CA,1-May-06,400000,USD,seed
+consortemedia,Consorte Media,0,web,San Francisco,CA,1-Dec-07,7000000,USD,b
+ffwd,ffwd,,web,San Francisco,CA,1-Aug-07,1700000,USD,a
+satisfaction,Get Satisfaction,,web,San Francisco,CA,1-Sep-07,1300000,USD,a
+ringcentral,RingCentral,,web,Redwood City,CA,1-Sep-07,12000000,USD,a
+ringcentral,RingCentral,,web,Redwood City,CA,1-Feb-08,12000000,USD,b
+3jam,3Jam,,web,Menlo Park,CA,1-Jul-07,4000000,USD,a
+playspan,PlaySpan,,web,Santa Clara,CA,1-Sep-07,6500000,USD,a
+grouply,Grouply,6,web,Redwood City,CA,1-Jun-07,935000,USD,angel
+grouply,Grouply,6,web,Redwood City,CA,1-Jan-08,365000,USD,angel
+grouply,Grouply,6,web,Redwood City,CA,14-Jan-08,1300000,USD,a
+graspr,Graspr,,web,Sunnyvale,CA,10-Jul-08,2500000,USD,a
+zannel,Zannel,,web,San Francisco,CA,2-Jun-08,10000000,USD,b
+deca-tv,deca.tv,,web,Santa Monica,CA,1-Sep-07,5000000,USD,a
+zimbra,Zimbra,,web,San Mateo,CA,1-Apr-06,14500000,USD,c
+friendfeed,FriendFeed,,web,Mountain View,CA,26-Feb-08,5000000,USD,a
+rupture,Rupture,15,web,San Francisco,CA,1-Jul-07,3000000,USD,angel
+jibjab,JibJab,,web,Santa Monica,CA,1-Oct-07,3000000,USD,b
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,4000000,USD,a
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,2000000,USD,debt_round
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,28-Jan-08,15000000,USD,b
+snaplayout,SnapLayout,,web,San Francisco,CA,1-May-07,650000,USD,a
+confabb,Confabb,,web,,CA,1-Aug-07,200000,USD,angel
+uptake,UpTake,,web,Palo Alto,CA,18-Dec-07,4000000,USD,a
+23andme,23andMe,30,web,Mountain View,CA,1-May-07,9000000,USD,a
+yume,YuMe,,web,Redwood City,CA,1-Oct-07,9000000,USD,b
+mochimedia,Mochi Media,,web,San Francisco,CA,12-Mar-08,4000000,USD,a
+mochimedia,Mochi Media,,web,San Francisco,CA,18-Jun-08,10000000,USD,b
+blurb,Blurb,,web,San Francisco,CA,1-Oct-06,12000000,USD,b
+weatherbill,WeatherBill,,web,San Francisco,CA,1-Oct-07,12600000,USD,a
+automattic,Automattic,20,web,San Francisco,CA,1-Jul-05,1100000,USD,a
+automattic,Automattic,20,web,San Francisco,CA,1-Jan-08,29500000,USD,b
+twine,Radar Networks,,web,San Francisco,CA,1-Apr-06,5000000,USD,a
+twine,Radar Networks,,web,San Francisco,CA,1-Feb-08,13000000,USD,b
+veodia,Veodia,15,web,San Mateo,CA,12-May-08,8300000,USD,a
+echosign,EchoSign,,web,Palo Alto,CA,1-Oct-07,6000000,USD,a
+rollbase,Rollbase,0,web,Mountain View,CA,1-Aug-07,400000,USD,angel
+predictify,Predictify,6,web,Redwood City,CA,25-Mar-08,4300000,USD,a
+trialpay,TrialPay,50,web,San Francisco,CA,1-Feb-08,12700000,USD,b
+socializr,Socializr,,web,San Francisco,CA,1-Sep-07,1500000,USD,a
+eurekster,Eurekster,0,web,,CA,1-Dec-04,1350000,USD,a
+eurekster,Eurekster,0,web,,CA,13-Mar-07,5500000,USD,b
+gydget,Gydget,,web,San Francisco,CA,1-Aug-06,1000000,USD,a
+pickspal,PicksPal,,web,Mountain View,CA,1-Oct-07,3000000,USD,c
+gigya,Gigya,,web,Palo Alto,CA,1-Feb-07,3000000,USD,a
+gigya,Gigya,,web,Palo Alto,CA,9-Mar-08,9500000,USD,b
+songbird,Songbird,,web,San Francisco,CA,1-Dec-06,8000000,USD,seed
+guardiananalytics,Guardian Analytics,,web,Los Altos,CA,1-Oct-07,4500000,USD,b
+fora-tv,Fora.TV,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+disqus,Disqus,3,web,San Francisco,CA,18-Mar-08,500000,USD,a
+sezwho,SezWho,9,web,Los Altos,CA,1-Oct-07,1000000,USD,a
+yieldbuild,YieldBuild,,web,San Francisco,CA,3-Mar-08,6000000,USD,b
+akimbo,Akimbo,,web,San Mateo,CA,1-Jun-06,15500000,USD,c
+akimbo,Akimbo,,web,San Mateo,CA,1-Jul-04,12000000,USD,b
+akimbo,Akimbo,,web,San Mateo,CA,1-Jun-03,4200000,USD,seed
+akimbo,Akimbo,,web,San Mateo,CA,29-Feb-08,8000000,USD,d
+laszlosystems,Laszlo Systems,60,software,San Mateo,CA,6-Mar-08,14600000,USD,c
+laszlosystems,Laszlo Systems,60,software,San Mateo,CA,15-Apr-05,6250000,USD,b
+brightroll,BrightRoll,,web,San Francisco,CA,1-Oct-07,5000000,USD,b
+merchantcircle,MerchantCircle,10,web,Los Altos,CA,1-Sep-07,10000000,USD,b
+minekey,Minekey,,web,Sunnyvale,CA,1-Aug-07,3000000,USD,a
+bookingangel,Booking Angel,,web,Hollywood,CA,1-Aug-07,100000,USD,angel
+loopt,Loopt,,web,Mountain View,CA,1-Jun-05,6000,USD,seed
+loopt,Loopt,,web,Mountain View,CA,23-Jul-07,8250000,USD,b
+fix8,Fix8,,web,Sherman Oaks,CA,1-Oct-07,3000000,USD,a
+fix8,Fix8,,web,Sherman Oaks,CA,3-Apr-08,2000000,USD,b
+mybuys,MyBuys,,web,Redwood Shores,CA,21-Feb-07,2800000,USD,a
+mybuys,MyBuys,,web,Redwood Shores,CA,8-Oct-07,10000000,USD,b
+blackarrow,BlackArrow,35,web,San Mateo,CA,1-Oct-07,12000000,USD,b
+blackarrow,BlackArrow,35,web,San Mateo,CA,1-Nov-06,14750000,USD,a
+peerflix,Peerflix,,web,Palo Alto,CA,1-Oct-05,8000000,USD,b
+peerflix,Peerflix,,web,Palo Alto,CA,1-Mar-05,2000000,USD,a
+fatdoor,fatdoor,,web,Palo Alto,CA,1-Nov-07,5500000,USD,a
+fatdoor,fatdoor,,web,Palo Alto,CA,1-Feb-07,1000000,USD,angel
+fatdoor,fatdoor,,web,Palo Alto,CA,1-May-07,500000,USD,debt_round
+verimatrix,Verimatrix,100,web,San Diego,CA,1-Jun-06,8000000,USD,b
+verimatrix,Verimatrix,100,web,San Diego,CA,1-Oct-07,5000000,USD,c
+billeo,Billeo,,web,Santa Clara,CA,1-Nov-07,7000000,USD,b
+billeo,Billeo,,web,Santa Clara,CA,1-Apr-06,4000000,USD,a
+caring-com,Caring.com,,web,San Mateo,CA,1-Sep-07,6000000,USD,a
+ask-com,Ask.com,475,web,Oakland,CA,1-Mar-99,25000000,USD,a
+projectplaylist,Project Playlist,,web,Palo Alto,CA,1-Sep-07,3000000,USD,a
+blowtorch,Blowtorch,,web,Sausalito,CA,1-Nov-07,50000000,USD,a
+gamelayers,GameLayers,,web,San Francisco,CA,1-Oct-07,500000,USD,seed
+mogreet,MoGreet,,web,Venice,CA,1-Aug-07,1200000,USD,a
+mogreet,MoGreet,,web,Venice,CA,20-Jun-08,2500000,USD,b
+yourtrumanshow,YourTrumanShow,,web,San Francisco,CA,1-Dec-06,1300000,USD,angel
+apprema,Apprema,,web,Sunnyvale,CA,1-Nov-07,800000,USD,debt_round
+trustedid,TrustedID,100,web,Redwood City,CA,1-Jan-07,5000000,USD,a
+trustedid,TrustedID,100,web,Redwood City,CA,18-Oct-07,10000000,USD,b
+seeqpod,Seeqpod,25,web,Emeryville,CA,1-Apr-08,7000000,USD,angel
+quantenna,Quantenna,,web,Sunnyvale,CA,1-Nov-07,12700000,USD,b
+qwaq,Qwaq,,web,Palo Alto,CA,1-Nov-07,7000000,USD,b
+uber,uber,24,web,Beverly Hills,CA,26-May-08,7600000,USD,b
+cashview,CashView,,web,Palo Alto,CA,1-Sep-07,6500000,USD,b
+crossloop,CrossLoop,8,web,Monterey,CA,1-Dec-07,3000000,USD,a
+dapper,Dapper,20,web,San Francisco,CA,1-Dec-07,3000000,USD,a
+anchorintelligence,Anchor Intelligence,,web,Mountain View,CA,1-Jan-07,2000000,USD,a
+anchorintelligence,Anchor Intelligence,,web,Mountain View,CA,1-Sep-07,4000000,USD,b
+edgecast,EdgeCast,30,web,Los Angeles,CA,1-Dec-07,6000000,USD,b
+edgecast,EdgeCast,30,web,Los Angeles,CA,1-Jun-07,4000000,USD,a
+kosmix,Kosmix,,web,Mountain View,CA,1-Dec-07,10000000,USD,c
+goodreads,GoodReads,,web,Santa Monica,CA,1-Nov-07,750000,USD,angel
+ribbit,Ribbit,28,web,Mountain View,CA,1-Dec-07,10000000,USD,b
+ribbit,Ribbit,28,web,Mountain View,CA,1-Oct-06,3000000,USD,a
+jobvite,Jobvite,,web,San Francisco,CA,1-Dec-07,7200000,USD,a
+juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Apr-05,500000,USD,a
+juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Jan-06,1500000,USD,a
+juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Jul-06,4000000,USD,a
+juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Mar-07,3300000,USD,b
+juicewireless,Juice Wireless,,web,Los Angeles,CA,1-Dec-07,6000000,USD,c
+qik,Qik,22,web,Foster City,CA,9-Apr-08,3000000,USD,b
+playfirst,PlayFirst,,web,San Francisco,CA,1-Dec-07,16500000,USD,c
+playfirst,PlayFirst,,web,San Francisco,CA,1-Jan-06,5000000,USD,b
+mobissimo,Mobissimo,15,web,San Francisco,CA,1-Apr-04,1000000,USD,seed
+chumby,Chumby,20,hardware,San Diego,CA,1-Dec-06,5000000,USD,a
+chumby,Chumby,20,hardware,San Diego,CA,31-Mar-08,12500000,USD,b
+ugobe,UGOBE,,web,Emeryville,CA,1-Oct-06,8000000,USD,b
+ausra,Ausra,4,web,Palo Alto,CA,1-Sep-07,40000000,USD,a
+causes,Causes,,web,Berkeley,CA,1-Jan-07,2350000,USD,a
+causes,Causes,,web,Berkeley,CA,1-Mar-08,5000000,USD,b
+nanosolar,Nanosolar,,web,San Jose,CA,1-May-05,20000000,USD,b
+nanosolar,Nanosolar,,web,San Jose,CA,1-Jun-06,75000000,USD,c
+shozu,Shozu,,web,San Francisco,CA,1-May-05,12000000,USD,b
+shozu,Shozu,,web,San Francisco,CA,29-Jan-08,12000000,USD,c
+tesla-motors,Tesla Motors,270,hardware,San Carlos,CA,1-May-06,40000000,USD,c
+tesla-motors,Tesla Motors,270,hardware,San Carlos,CA,1-May-07,45000000,USD,d
+tesla-motors,Tesla Motors,270,hardware,San Carlos,CA,1-Apr-04,7500000,USD,a
+tesla-motors,Tesla Motors,270,hardware,San Carlos,CA,1-Feb-05,13000000,USD,b
+tesla-motors,Tesla Motors,270,hardware,San Carlos,CA,8-Feb-08,40000000,USD,e
+bunchball,Bunchball,,web,Redwood City,CA,1-Oct-06,2000000,USD,a
+bunchball,Bunchball,,web,Redwood City,CA,13-Apr-08,4000000,USD,b
+pinger,Pinger,,web,San Jose,CA,1-Dec-06,8000000,USD,b
+hooja,Hooja,,web,Palo Alto,CA,1-Dec-07,1250000,USD,seed
+travelmuse,TravelMuse,11,web,Los Altos,CA,1-May-07,3000000,USD,a
+cooking-com,Cooking.com,,web,Santa Monica,CA,1-Jan-08,7000000,USD,debt_round
+cooking-com,Cooking.com,,web,Santa Monica,CA,1-May-00,35000000,USD,e
+cooking-com,Cooking.com,,web,Santa Monica,CA,1-Apr-99,16000000,USD,b
+cooking-com,Cooking.com,,web,Santa Monica,CA,1-Oct-99,30000000,USD,c
+meraki,Meraki,,web,Mountain View,CA,1-Feb-07,5000000,USD,a
+meraki,Meraki,,web,Mountain View,CA,1-Jan-08,20000000,USD,b
+sugarcrm,SugarCRM,,web,Cupertino,CA,1-Jan-08,14500000,USD,d
+sugarcrm,SugarCRM,,web,Cupertino,CA,1-Oct-05,18770000,USD,c
+sugarcrm,SugarCRM,,web,Cupertino,CA,1-Aug-04,2000000,USD,a
+sugarcrm,SugarCRM,,web,Cupertino,CA,1-Feb-05,5750000,USD,b
+puddingmedia,Pudding Media,11,software,San Jose,CA,1-Jan-08,8000000,USD,a
+4homemedia,4HomeMedia,10,web,Sunnyvale,CA,1-Jan-07,2850000,USD,a
+pageonce,Pageonce,,web,Palo Alto,CA,1-Jan-08,1500000,USD,a
+bluepulse,bluepulse,0,web,San Mateo,CA,1-Apr-07,6000000,USD,a
+mogad,Mogad,2,web,San Francisco,CA,1-Aug-07,500000,USD,a
+devicevm,DeviceVM,,web,San Jose,CA,1-Aug-06,10000000,USD,a
+devicevm,DeviceVM,,web,San Jose,CA,1-Oct-07,10000000,USD,b
+outspark,Outspark,,web,San Francisco,CA,11-Apr-07,4000000,USD,a
+outspark,Outspark,,web,San Francisco,CA,1-Jan-08,11000000,USD,b
+engineyard,Engine Yard,60,web,San Francisco,CA,1-Jan-08,3500000,USD,a
+engineyard,Engine Yard,60,web,San Francisco,CA,13-Jul-08,15000000,USD,b
+plymedia,PLYmedia,,web,Palo Alto,CA,1-Oct-06,2500000,USD,a
+plymedia,PLYmedia,,web,Palo Alto,CA,1-Jul-08,6000000,USD,b
+fabrik,fabrik,175,web,San Mateo,CA,1-Sep-05,4100000,USD,a
+fabrik,fabrik,175,web,San Mateo,CA,1-Jun-06,8000000,USD,b
+fabrik,fabrik,175,web,San Mateo,CA,1-Feb-07,14300000,USD,c
+fabrik,fabrik,175,web,San Mateo,CA,1-May-07,24900000,USD,d
+widgetbox,Widgetbox,,web,San Francisco,CA,1-Jun-06,1500000,USD,angel
+widgetbox,Widgetbox,,web,San Francisco,CA,1-Jan-08,8000000,USD,b
+widgetbox,Widgetbox,,web,San Francisco,CA,1-Jun-07,5000000,USD,a
+razorgator,RazorGator,,web,Los Angeles,CA,1-Mar-05,26000000,USD,a
+razorgator,RazorGator,,web,Los Angeles,CA,1-Mar-06,22800000,USD,b
+oversee,OverSee,150,web,Los Angeles,CA,1-Jan-07,60000000,USD,debt_round
+oversee,OverSee,150,web,Los Angeles,CA,1-Jan-08,150000000,USD,a
+zynga,Zynga,90,other,San Francisco,CA,1-Jan-08,10000000,USD,a
+zynga,Zynga,90,other,San Francisco,CA,22-Jul-08,29000000,USD,b
+smaato,Smaato,,web,San Mateo,CA,1-Jan-08,3500000,USD,a
+credit-karma,Credit Karma,4,web,San Francisco,CA,1-May-07,750000,USD,angel
+greenplum,Greenplum,,web,San Mateo,CA,1-Jan-08,27000000,USD,c
+greenplum,Greenplum,,web,San Mateo,CA,1-Feb-07,15000000,USD,b
+greenplum,Greenplum,,web,San Mateo,CA,1-Mar-06,15000000,USD,a
+greenplum,Greenplum,,web,San Mateo,CA,1-Feb-07,4000000,USD,debt_round
+amobee,Amobee,,web,Redwood City,CA,1-Nov-06,5000000,USD,a
+amobee,Amobee,,web,Redwood City,CA,1-Jan-07,15000000,USD,b
+webmynd,WebMynd,,web,San Francisco,CA,1-Jul-08,250000,USD,angel
+currenttv,Current Media,,web,San Francisco,CA,29-Jul-05,15000000,USD,a
+heroku,Heroku,3,web,San Francisco,CA,1-Jan-08,20000,USD,seed
+heroku,Heroku,3,web,San Francisco,CA,8-May-08,3000000,USD,a
+lookery,Lookery,9,web,San Francisco,CA,7-Feb-08,900000,USD,seed
+mill-river-labs,Mill River Labs,5,web,Mountain View,CA,1-Jan-08,900000,USD,angel
+grouptivity,Grouptivity,10,web,San Mateo,CA,1-May-06,2000000,USD,angel
+aductions,Aductions,5,web,San Jose,CA,5-Jul-07,100000,USD,seed
+venturebeat,VentureBeat,,web,,CA,11-Feb-08,320000,USD,seed
+collarity,Collarity,30,web,Palo Alto,CA,1-Feb-08,7800000,USD,b
+rocketon,RocketOn,,web,South San Francisco,CA,1-Feb-08,5800000,USD,b
+what-they-like,What They Like,10,web,San Francisco,CA,29-Aug-07,990000,USD,a
+gumgum,GumGum,5,web,Los Angeles,CA,1-Dec-07,225000,USD,seed
+gumgum,GumGum,5,web,Los Angeles,CA,21-Jul-08,1000000,USD,a
+snap-technologies,Snap Technologies,32,web,Pasadena,CA,1-Jul-05,10000000,USD,a
+twofish,TwoFish,,web,Redwood City,CA,1-Jun-07,5000000,USD,a
+three-rings,Three Rings,30,web,San Francisco,CA,3-Mar-08,3500000,USD,a
+smalltown,Smalltown,8,web,San Mateo,CA,1-Nov-05,4000000,USD,a
+sparkplay-media,Sparkplay Media,,web,Mill Valley,CA,1-Feb-08,4250000,USD,a
+mog,MOG,,web,Berkeley,CA,1-Mar-07,1800000,USD,angel
+mog,MOG,,web,Berkeley,CA,29-Apr-08,2800000,USD,a
+social-gaming-network,Social Gaming Network,,web,Palo Alto,CA,13-May-08,15000000,USD,a
+danger,Danger,,software,Palo Alto,CA,1-Oct-01,36000000,USD,b
+danger,Danger,,software,Palo Alto,CA,1-Feb-03,35000000,USD,d
+danger,Danger,,software,Palo Alto,CA,1-Jul-04,37000000,USD,d
+coverity,Coverity,,software,San Francisco,CA,1-Feb-08,22000000,USD,a
+genietown,GenieTown,8,web,Palo Alto,CA,1-Oct-07,2000000,USD,a
+redux,Redux,11,web,Berkeley,CA,1-Mar-07,1650000,USD,seed
+redux,Redux,11,web,Berkeley,CA,7-Apr-08,6500000,USD,a
+evernote,Evernote,,software,Sunnyvale,CA,1-Mar-06,6000000,USD,angel
+evernote,Evernote,,software,Sunnyvale,CA,1-Sep-07,3000000,USD,angel
+numobiq,Numobiq,,mobile,Pleasanton,CA,8-Feb-08,4500000,USD,a
+goldspot-media,GoldSpot Media,,mobile,Sunnyvale,CA,23-Jan-08,3000000,USD,a
+mobixell,Mobixell,,mobile,Cupertino,CA,8-Jul-08,6000000,USD,a
+ad-infuse,Ad Infuse,,mobile,San Francisco,CA,23-Jan-08,12000000,USD,b
+ad-infuse,Ad Infuse,,mobile,San Francisco,CA,1-Jun-06,5000000,USD,a
+sendme,SendMe,,mobile,San Francisco,CA,1-Dec-06,6000000,USD,b
+sendme,SendMe,,mobile,San Francisco,CA,18-Mar-08,15000000,USD,c
+tiny-pictures,Tiny Pictures,15,mobile,San Francisco,CA,1-Aug-07,4000000,USD,a
+tiny-pictures,Tiny Pictures,15,mobile,San Francisco,CA,1-Feb-08,7200000,USD,b
+flurry,flurry,,mobile,San Francisco,CA,8-Mar-07,3500000,USD,a
+sharpcast,Sharpcast,,,Palo Alto,CA,8-Mar-06,13500000,USD,a
+sharpcast,Sharpcast,,,Palo Alto,CA,8-Mar-06,3000000,USD,b
+teneros,Teneros,,software,Mountain View,CA,1-Jul-04,7000000,USD,a
+teneros,Teneros,,software,Mountain View,CA,1-Mar-05,17500000,USD,b
+teneros,Teneros,,software,Mountain View,CA,1-Apr-06,20000000,USD,c
+teneros,Teneros,,software,Mountain View,CA,1-Jan-08,40000000,USD,d
+photocrank,PhotoCrank,3,web,Palo Alto,CA,1-Apr-07,250000,USD,seed
+yodlee,Yodlee,,web,Redwood City,CA,4-Jun-08,35000000,USD,unattributed
+sliderocket,SlideRocket,5,web,San Francisco,CA,31-Dec-07,2000000,USD,a
+surf-canyon,Surf Canyon,3,software,Oakland,CA,31-Jul-07,250000,USD,seed
+surf-canyon,Surf Canyon,3,software,Oakland,CA,8-May-08,600000,USD,seed
+central-desktop,Central Desktop,,web,Pasadena,CA,16-Apr-08,7000000,USD,a
+opendns,OpenDNS,15,web,San Francisco,CA,1-Jun-06,2000000,USD,a
+coveo,Coveo,,web,Palo Alto,CA,6-Mar-08,2500000,USD,a
+vizu,Vizu,,web,San Francisco,CA,20-Feb-06,1000000,USD,a
+vizu,Vizu,,web,San Francisco,CA,31-Jan-07,2900000,USD,b
+taltopia,Taltopia,,web,Los Angeles,CA,8-Mar-08,800000,USD,angel
+kapow-technologies,Kapow Technologies,,web,Palo Alto,CA,6-Mar-08,11600000,USD,c
+kapow-technologies,Kapow Technologies,,web,Palo Alto,CA,1-Feb-05,5100000,EUR,b
+programmermeetdesigner-com,ProgrammerMeetDesigner.com,4,web,Los Angeles,CA,12-Dec-07,500000,USD,seed
+liveops,LiveOps,,web,Santa Clara,CA,1-Apr-04,22000000,USD,b
+liveops,LiveOps,,web,Santa Clara,CA,13-Feb-07,28000000,USD,c
+clickpass,Clickpass,,web,San Francisco,CA,1-Jun-07,20000,USD,seed
+searchme,SearchMe,52,web,Mountain View,CA,1-Jul-05,400000,USD,a
+searchme,SearchMe,52,web,Mountain View,CA,1-Jan-06,3600000,USD,b
+searchme,SearchMe,52,web,Mountain View,CA,1-Jun-07,12000000,USD,c
+searchme,SearchMe,52,web,Mountain View,CA,1-Oct-07,15000000,USD,d
+searchme,SearchMe,52,web,Mountain View,CA,1-May-08,12600000,USD,e
+accountnow,AccountNow,,web,San Ramon,CA,29-Jun-07,12750000,USD,c
+dailystrength,DailyStrength,14,web,Los Angeles,CA,18-May-07,4000000,USD,a
+popularmedia,PopularMedia,,web,San Francisco,CA,1-Mar-07,4250000,USD,unattributed
+popularmedia,PopularMedia,,web,San Francisco,CA,28-Jul-08,8000000,USD,c
+clarizen,Clarizen,5,web,San Mateo,CA,1-May-08,9000000,USD,b
+sellpoint,SellPoint,,web,San Ramon,CA,27-Feb-08,7000000,USD,a
+livedeal,LiveDeal,,web,Santa Clara,CA,26-Oct-05,4900000,USD,a
+neoedge-networks,NeoEdge Networks,,web,Mountain View,CA,8-Jun-07,3000000,USD,b
+zuora,Zuora,30,web,Redwood City,CA,13-Mar-08,6500000,USD,a
+jivox,Jivox,,web,San Mateo,CA,10-Mar-08,2700000,USD,seed
+jivox,Jivox,,web,San Mateo,CA,16-Jun-08,10700000,USD,a
+elastra,Elastra,,,San Francisco,CA,15-Aug-07,2600000,USD,a
+kwiry,kwiry,3,mobile,San Francisco,CA,20-Mar-07,1000000,USD,a
+supplyframe,SupplyFrame,25,web,Pasadena,CA,21-Jun-07,7000000,USD,b
+inmage-systems,InMage Systems,,software,Santa Clara,CA,10-Jul-07,10000000,USD,b
+authenticlick,Authenticlick,20,web,Los Angeles,CA,1-Feb-06,5000000,USD,a
+interneer,Interneer,6,web,Agoura Hills,CA,6-Jun-07,2000000,USD,angel
+interneer,Interneer,6,web,Agoura Hills,CA,11-Mar-07,1200000,USD,a
+handipoints,Handipoints,,web,Oakland,CA,2-May-07,250000,USD,seed
+handipoints,Handipoints,,web,Oakland,CA,2-May-08,550000,USD,angel
+adconion-media-group,Adconion Media Group,150,web,Santa Monica,CA,24-Feb-08,80000000,USD,c
+zend-technologies,Zend Technologies,,,Cupertino,CA,28-Aug-06,20000000,USD,d
+zend-technologies,Zend Technologies,,,Cupertino,CA,19-Jul-04,8000000,USD,c
+slideshare,SlideShare,10,web,San Francisco,CA,7-May-08,3000000,USD,a
+intent,Intent,6,web,Santa Monica,CA,1-Feb-08,250000,USD,angel
+wikimedia-foundation,Wikimedia Foundation,,web,San Francisco,CA,25-Mar-08,3000000,USD,unattributed
+clearwell-systems,Clearwell Systems,75,software,Mountain View,CA,22-Aug-07,17000000,USD,c
+become,Become,,web,Mountain View,CA,25-Mar-08,17500000,USD,c
+become,Become,,web,Mountain View,CA,17-Jul-08,8000000,USD,d
+bubble-motion,Bubble Motion,,mobile,Mountain View,CA,26-Mar-08,14000000,USD,b
+bubble-motion,Bubble Motion,,mobile,Mountain View,CA,11-Sep-06,10000000,USD,a
+perfect-market,Perfect Market,,web,Pasadena,CA,9-Jul-08,15600000,USD,a
+glassdoor,Glassdoor,12,web,Sausalito,CA,27-Mar-08,3000000,USD,b
+support-space,Support Space,,web,Redwood City,CA,24-Oct-06,4250000,USD,a
+xoopit,Xoopit,,web,San Francisco,CA,1-Dec-06,1500000,USD,angel
+xoopit,Xoopit,,web,San Francisco,CA,2-Apr-08,5000000,USD,a
+reality-digital,Reality Digital,,software,San Francisco,CA,1-Nov-05,2000000,USD,a
+reality-digital,Reality Digital,,software,San Francisco,CA,31-Mar-08,6300000,USD,b
+cloud9-analytics,Cloud9 Analytics,,web,San Mateo,CA,25-Jul-07,5000000,USD,a
+netcipia,Netcipia,3,web,Palo Alto,CA,30-Aug-07,200000,USD,angel
+icontrol,iControl,,web,Palo Alto,CA,2-Apr-08,15500000,USD,b
+icontrol,iControl,,web,Palo Alto,CA,26-Apr-06,5000000,USD,a
+frengo,Frengo,,web,San Mateo,CA,1-Dec-06,2300000,USD,a
+frengo,Frengo,,web,San Mateo,CA,3-May-07,5700000,USD,b
+mblox,mBlox,,mobile,Sunnyvale,CA,23-Feb-06,25000000,USD,d
+mblox,mBlox,,mobile,Sunnyvale,CA,9-Mar-05,7500000,USD,c
+mblox,mBlox,,mobile,Sunnyvale,CA,9-Jul-04,10000000,USD,b
+mblox,mBlox,,mobile,Sunnyvale,CA,28-Jan-08,22000000,USD,e
+esolar,eSolar,10,hardware,Pasadena,CA,17-Jan-08,10000000,USD,a
+esolar,eSolar,10,hardware,Pasadena,CA,21-Apr-08,130000000,USD,b
+marin-software,Marin Software,,software,San Francisco,CA,5-Oct-06,2000000,USD,a
+marin-software,Marin Software,,software,San Francisco,CA,9-Apr-08,7250000,USD,b
+sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-Dec-04,1250000,USD,seed
+sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-May-05,15000000,USD,a
+sibeam,SiBEAM,,hardware,Sunnyvale,CA,1-Aug-06,21000000,USD,b
+sibeam,SiBEAM,,hardware,Sunnyvale,CA,7-Apr-08,40000000,USD,c
+lumosity,Lumos Labs,,web,San Francisco,CA,11-Jun-07,400000,USD,angel
+lumosity,Lumos Labs,,web,San Francisco,CA,3-Jun-08,3000000,USD,a
+irise,iRise,150,software,El Segundo,CA,1-Mar-08,20000000,USD,unattributed
+richrelevance,richrelevance,,web,San Francisco,CA,8-Apr-08,4200000,USD,b
+labmeeting,Labmeeting,,web,,CA,1-May-08,500000,USD,seed
+shopflick,Shopflick,10,web,Los Angeles,CA,15-Mar-08,1000000,USD,angel
+shopflick,Shopflick,10,web,Los Angeles,CA,1-Jul-08,7000000,USD,a
+turnhere,TurnHere,35,web,Emeryville,CA,15-Feb-08,7500000,USD,a
+turnhere,TurnHere,35,web,Emeryville,CA,1-Nov-06,1100000,USD,seed
+coupa,Coupa,,web,Foster City,CA,13-Mar-07,1500000,USD,a
+coupa,Coupa,,web,Foster City,CA,9-Apr-08,6000000,USD,b
+squaretrade,SquareTrade,,hardware,San Francisco,CA,1-Oct-99,400000,USD,seed
+squaretrade,SquareTrade,,hardware,San Francisco,CA,10-Apr-08,9000000,USD,b
+v-enable,V-Enable,,mobile,San Diego,CA,28-Feb-06,6000000,USD,c
+v-enable,V-Enable,,mobile,San Diego,CA,21-Sep-03,3750000,USD,b
+aeria,Aeria,,web,Santa Clara,CA,1-Oct-07,288000,USD,seed
+heysan,Heysan,6,mobile,San Francisco,CA,24-Jan-07,20000,USD,seed
+memeo,Memeo,,software,Aliso Viejo,CA,7-Jan-08,8100000,USD,b
+imageshack,imageshack,,web,Los Gatos,CA,1-May-07,10000000,USD,a
+pluggedin,PluggedIn,,,Santa Monica,CA,15-Apr-08,2000000,USD,unattributed
+cellspin,CellSpin,12,mobile,San Jose,CA,1-Dec-06,1100000,USD,angel
+remixation,Remixation,5,web,San Francisco,CA,1-Jul-07,1000000,USD,a
+the-auteurs,The Auteurs,9,web,Palo Alto,CA,1-Aug-07,750000,USD,a
+modern-feed,Modern Feed,,web,Los Angeles,CA,1-Apr-07,3000000,USD,seed
+grou-ps,GROU.PS,,web,San Francisco,CA,1-Jun-08,1100000,USD,a
+triggit,Triggit,5,web,San Francisco,CA,1-Mar-07,350000,USD,seed
+triggit,Triggit,5,web,San Francisco,CA,1-Jul-07,500000,USD,angel
+serious-business,Serious Business,6,web,San Francisco,CA,25-Apr-08,4000000,USD,unattributed
+presdo,Presdo,1,web,Mountain View,CA,1-Dec-07,35000,USD,seed
+nile-guide,Nile Guide,,web,San Francisco,CA,5-Jun-08,8000000,USD,b
+adify,Adify,10,web,San Bruno,CA,1-Aug-06,8000000,USD,a
+adify,Adify,10,web,San Bruno,CA,18-Apr-07,19000000,USD,b
+invensense,Invensense,,hardware,Sunnyvale,CA,28-Apr-08,19000000,USD,c
+centerd,Center'd,,web,Menlo Park,CA,1-Feb-07,1000000,USD,angel
+centerd,Center'd,,web,Menlo Park,CA,1-Oct-07,5500000,USD,a
+centerd,Center'd,,web,Menlo Park,CA,1-May-07,500000,USD,debt_round
+new-relic,New Relic,,web,,CA,1-Apr-08,3500000,USD,a
+gridstone-research,Gridstone Research,,software,San Mateo,CA,4-Apr-08,10000000,USD,b
+fusionops,FusionOps,10,software,Sunnyvale,CA,1-Mar-05,4000000,USD,a
+marketlive,MarketLive,,software,Foster City,CA,5-May-08,20000000,USD,e
+snaplogic,SnapLogic,,software,San Mateo,CA,22-May-07,2500000,USD,a
+boardwalktech,Boardwalktech,20,software,Palo Alto,CA,1-Oct-06,500000,USD,angel
+rosum,Rosum,,hardware,Mountain View,CA,15-Apr-08,15000000,USD,b
+citizenhawk,CitizenHawk,,,Aliso Viejo,CA,12-May-08,3000000,USD,unattributed
+dilithium-networks,Dilithium Networks,,web,Petaluma,CA,23-Apr-03,10000000,USD,b
+dilithium-networks,Dilithium Networks,,web,Petaluma,CA,14-Mar-05,18000000,USD,c
+dilithium-networks,Dilithium Networks,,web,Petaluma,CA,3-Jul-07,33000000,USD,d
+passenger,Passenger,,,Los Angeles,CA,5-Nov-07,8300000,USD,b
+passenger,Passenger,,,Los Angeles,CA,14-Mar-08,12200000,USD,c
+experience-project,Experience Project,,web,San Francisco,CA,13-May-08,3000000,USD,a
+mozes,Mozes,,web,Palo Alto,CA,22-Feb-07,5000000,USD,a
+mozes,Mozes,,web,Palo Alto,CA,1-May-08,11500000,USD,b
+rvita,rVita,6,software,Santa Clara,CA,1-Oct-07,1000000,USD,angel
+mefeedia,Mefeedia,6,web,Burbank,CA,19-Mar-08,250000,USD,angel
+wavemaker-software,Wavemaker Software,,software,San Francisco,CA,15-Apr-08,4500000,USD,a
+virtuallogix,VirtualLogix,,software,Sunnyvale,CA,11-Jul-07,16000000,USD,b
+fonemesh,Fonemesh,7,software,San Francisco,CA,1-Jun-08,100000,USD,angel
+fonemesh,Fonemesh,7,software,San Francisco,CA,1-May-08,150000,USD,seed
+cognition-technologies,Cognition Technologies,20,software,Culver City,CA,15-Jul-08,2700000,USD,unattributed
+sometrics,Sometrics,,web,Los Angeles,CA,14-May-08,1000000,USD,a
+socialvibe,SocialVibe,,web,Los Angeles,CA,1-Dec-07,4200000,USD,a
+deviantart,deviantART,,web,Hollywood,CA,21-Jun-07,3500000,USD,a
+mythings,MyThings,,web,Menlo Park,CA,1-Apr-06,8000000,USD,a
+mywaves,mywaves,35,mobile,Sunnyvale,CA,8-Dec-06,6000000,USD,a
+litescape,litescape,,web,Redwood Shores,CA,6-Aug-07,14000000,USD,b
+nextbio,nextbio,,,Cupertino,CA,6-Jun-07,7000000,USD,b
+parascale,Parascale,,software,Cupertino,CA,23-Jun-08,11370000,USD,a
+row44,Row44,,hardware,Westlake Village,CA,20-May-08,21000000,USD,a
+jellycloud,JellyCloud,,web,Redwood City,CA,16-May-08,6600000,USD,a
+aster-data-systems,Aster Data Systems,50,software,Redwood City,CA,1-Nov-05,1000000,USD,angel
+aster-data-systems,Aster Data Systems,50,software,Redwood City,CA,1-May-07,5000000,USD,a
+pixim,Pixim,,hardware,Mountain View,CA,7-Mar-07,15000000,USD,b
+pixim,Pixim,,hardware,Mountain View,CA,9-Jun-05,12000000,USD,a
+pixim,Pixim,,hardware,Mountain View,CA,12-Jun-07,5100000,USD,b
+funambol,Funambol,,mobile,Redwood City,CA,8-Aug-05,5000000,USD,a
+funambol,Funambol,,mobile,Redwood City,CA,1-Dec-06,5500000,USD,a
+funambol,Funambol,,mobile,Redwood City,CA,17-Jun-08,12500000,USD,b
+funambol,Funambol,,mobile,Redwood City,CA,1-Jun-08,2000000,USD,debt_round
+moblyng,Moblyng,,web,Menlo Park,CA,21-May-08,5700000,USD,b
+moblyng,Moblyng,,web,Menlo Park,CA,28-Mar-07,1530000,USD,a
+zecter,Zecter,3,web,Mountain View,CA,1-Jun-07,15000,USD,seed
+votigo,Votigo,,web,Emeryville,CA,31-Dec-07,1265000,USD,a
+zinio,Zinio,,web,San Francisco,CA,12-Sep-05,7000000,USD,a
+dreamfactory,Dreamfactory,,web,Mountain View,CA,8-May-06,5800000,USD,a
+greennote,GreenNote,15,web,Redwood City,CA,1-Oct-07,4200000,USD,a
+skyfire,Skyfire,,software,Mountain View,CA,1-Jun-07,4800000,USD,a
+skyfire,Skyfire,,software,Mountain View,CA,28-May-08,13000000,USD,b
+edufire,eduFire,,web,Santa Monica,CA,9-Apr-08,400000,USD,angel
+b-hive-networks,B-hive Networks,,software,San Mateo,CA,25-Aug-06,7000000,USD,a
+vmware,VMware,5000,,Palo Alto,CA,30-Jul-07,150000000,USD,unattributed
+katalyst-media,Katalyst Media,11,,Los Angeles,CA,28-Jan-08,10000000,USD,a
+neurovigil,NeuroVigil,5,biotech,La Jolla,CA,30-May-08,250000,USD,seed
+sylantro,Sylantro,,web,Campbell,CA,1-Apr-06,11000000,USD,e
+sylantro,Sylantro,,web,Campbell,CA,1-Nov-03,4500000,USD,d
+sylantro,Sylantro,,web,Campbell,CA,1-Oct-00,55000000,USD,c
+teleflip,TeleFlip,,mobile,Santa Monica,CA,1-Jan-08,4900000,USD,b
+vidshadow,Vidshadow,16,web,Placentia,CA,15-Feb-07,2000000,USD,a
+jigsaw,Jigsaw,,web,San Mateo,CA,1-Dec-03,750000,USD,a
+jigsaw,Jigsaw,,web,San Mateo,CA,1-Sep-04,5200000,USD,b
+jigsaw,Jigsaw,,web,San Mateo,CA,1-Mar-06,12000000,USD,c
+ozmo-devices,Ozmo Devices,,hardware,Palo Alto,CA,30-Mar-06,12550000,USD,a
+cooliris,Cooliris,,web,Menlo Park,CA,1-Jul-07,3000000,USD,a
+gamook,Gamook,,web,Menlo Park,CA,16-Mar-08,1500000,USD,a
+vindicia,Vindicia,,web,Redwood City,CA,31-Mar-08,5600000,USD,c
+dizzywood,Dizzywood,,web,,CA,7-Feb-08,1000000,USD,a
+limbo,Limbo,37,web,Burlingame,CA,25-Apr-07,8000000,USD,b
+startforce,StartForce,21,web,San Francisco,CA,1-Sep-07,1000000,USD,a
+coolearth,coolearth,9,cleantech,Livermore,CA,20-Feb-08,21000000,USD,a
+coolearth,coolearth,9,cleantech,Livermore,CA,1-Jun-07,1000000,USD,angel
+yield-software,Yield Software,,web,San Mateo,CA,4-Jun-08,6000000,USD,b
+tapulous,Tapulous,9,web,Palo Alto,CA,1-Jul-08,1800000,USD,angel
+codefast,Codefast,,software,San Jose,CA,15-Mar-05,6500000,USD,a
+hyperic,Hyperic,,web,San Francisco,CA,10-May-06,3800000,USD,a
+ipling-2,iPling :)),7,mobile,San Francisco,CA,1-Mar-08,300000,USD,angel
+intacct,Intacct,100,software,San Jose,CA,29-Apr-08,15000000,USD,unattributed
+intacct,Intacct,100,software,San Jose,CA,27-Jun-07,14000000,USD,unattributed
+vivaty,Vivaty,25,web,Menlo Park,CA,1-Aug-07,9400000,USD,a
+aurora-biofuels,Aurora Biofuels,,cleantech,Alameda,CA,10-Jun-08,20000000,USD,b
+eeye,eEye,,,Irvine,CA,1-Jun-04,15000000,USD,d
+eeye,eEye,,,Irvine,CA,1-Dec-02,9000000,USD,c
+allbusiness-com,AllBusiness.com,50,other,San Francisco,CA,1-Jul-04,10000000,USD,b
+allbusiness-com,AllBusiness.com,50,other,San Francisco,CA,1-Feb-06,12400000,USD,c
+insideview,InsideView,40,software,San Francisco,CA,1-Jun-07,7400000,USD,a
+clickability,Clickability,,software,San Francisco,CA,14-Jul-08,3500000,USD,debt_round
+keibi-technologies,Keibi Technologies,30,software,San Francisco,CA,1-May-07,5000000,USD,b
+robodynamics,RoboDynamics,5,hardware,Santa Monica,CA,1-Sep-03,100000,USD,seed
+robodynamics,RoboDynamics,5,hardware,Santa Monica,CA,1-May-06,500000,USD,angel
+imagespan,ImageSpan,,web,Sausalito,CA,23-Jun-08,11000000,USD,b
+solarflare,Solarflare,,hardware,Irvine,CA,18-Jun-08,26000000,USD,unattributed
+clupedia,Clupedia,,web,Santa Ana,CA,22-May-07,1300000,USD,a
+zigabid,Zigabid,10,other,La Canada,CA,1-Dec-06,500000,USD,seed
+zigabid,Zigabid,10,other,La Canada,CA,1-Feb-08,500000,USD,angel
+inthrma,InThrMa,3,software,Oakland,CA,1-Oct-07,10000,USD,seed
+webaroo,Webaroo,,,Santa Clara,CA,22-Dec-06,10000000,USD,b
+webaroo,Webaroo,,,Santa Clara,CA,5-Jul-08,10000000,USD,c
+fluid-entertainment,Fluid Entertainment,,other,Mill Valley,CA,12-Mar-08,3200000,USD,a
+unisfair,Unisfair,,other,Menlo Park,CA,21-Jan-08,10000000,USD,b
+on24,ON24,,web,San Francisco,CA,11-Jul-08,8000000,USD,unattributed
+trueanthem,trueAnthem,10,other,Newport Beach,CA,28-Jul-08,2000000,USD,angel
+colizer,Colizer,,web,San Diego,CA,1-Apr-04,120000,USD,a
+coremetrics,Coremetrics,,software,San Mateo,CA,9-Mar-06,31000000,USD,d
+coremetrics,Coremetrics,,software,San Mateo,CA,4-Apr-08,60000000,USD,e
+minted,Minted,,,San Francisco,CA,18-Jul-08,2500000,USD,seed
+appirio,Appirio,,software,San Mateo,CA,13-Mar-08,1100000,USD,a
+appirio,Appirio,,software,San Mateo,CA,21-Jul-08,10000000,USD,b
+samfind,samfind,3,web,Los Angeles,CA,1-Jan-06,20000,USD,seed
+eye-fi,Eye-Fi,,hardware,Mountain View,CA,11-Jun-07,5500000,USD,a
+responselogix,ResponseLogix,,web,Sunnyvale,CA,23-Jan-08,8000000,USD,a
+qumu,Qumu,,software,Emeryville,CA,21-Jul-08,10700000,USD,c
+carbonflow,CarbonFlow,,cleantech,San Francsico,CA,23-Jul-08,2900000,USD,a
+allvoices,Allvoices,8,web,San Francisco,CA,31-Jul-07,4500000,USD,a
+moxsie,Moxsie,,web,Palo Alto,CA,27-Jun-08,1000000,USD,a
+service-now-com,Service-now.com,80,web,Solana Beach,CA,5-Jul-05,2500000,USD,a
+service-now-com,Service-now.com,80,web,Solana Beach,CA,5-Dec-06,5000000,USD,b
+anvato,Anvato,,web,Mountain View,CA,29-Jul-08,550000,USD,seed
+vantage-media,Vantage Media,150,web,El Segundo,CA,28-Feb-07,70000000,USD,a
+entone-technologies,Entone Technologies,80,hardware,San Mateo,CA,1-Aug-08,14500000,USD,b
+entone-technologies,Entone Technologies,80,hardware,San Mateo,CA,2-May-03,9500000,USD,a
+750-industries,750 Industries,7,web,San Francisco,CA,1-Aug-08,1000000,USD,a
+plastic-logic,Plastic Logic,,hardware,Mountain View,CA,20-Apr-02,13700000,USD,a
+plastic-logic,Plastic Logic,,hardware,Mountain View,CA,5-Jan-05,8000000,USD,b
+plastic-logic,Plastic Logic,,hardware,Mountain View,CA,30-Nov-05,24000000,USD,c
+plastic-logic,Plastic Logic,,hardware,Mountain View,CA,6-Jan-07,100000000,USD,d
+plastic-logic,Plastic Logic,,hardware,Mountain View,CA,4-Aug-08,50000000,USD,e
+paymo,Paymo,,mobile,San Francisco,CA,1-Aug-08,5000000,USD,seed
+brilliant-telecom,Brilliant Telecom,,,Campbell,CA,4-Aug-08,11000000,USD,a
+skygrid,SkyGrid,,web,Sunnyvale,CA,6-Aug-08,11000000,USD,b
+intensedebate,Intense Debate,4,web,Boulder,CO,1-May-07,15000,USD,seed
+associatedcontent,Associated Content,,web,Denver,CO,1-Jan-06,5400000,USD,a
+associatedcontent,Associated Content,,web,Denver,CO,1-Jul-07,10000000,USD,b
+madkast,madKast,,web,Boulder,CO,1-Mar-07,15000,USD,seed
+madkast,madKast,,web,Boulder,CO,1-Oct-07,300000,USD,a
+eventvue,EventVue,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+eventvue,EventVue,,web,Boulder,CO,1-Sep-07,250000,USD,a
+socialthing,Socialthing!,6,web,Boulder,CO,18-May-07,15000,USD,seed
+socialthing,Socialthing!,6,web,Boulder,CO,1-Oct-07,500000,USD,debt_round
+jsquaredmedia,J Squared Media,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+searchtophone,Search to Phone,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+filtrbox,Filtrbox,,web,Boulder,CO,1-Aug-07,15000,USD,seed
+filtrbox,Filtrbox,,web,Boulder,CO,28-Feb-08,500000,USD,seed
+brightkite,Brightkite,,web,Denver,CO,1-Aug-07,15000,USD,seed
+brightkite,Brightkite,,web,Denver,CO,1-Mar-08,1000000,USD,angel
+newsgator,NewsGator,,web,Denver,CO,23-Jun-04,1400000,USD,a
+newsgator,NewsGator,,web,Denver,CO,1-Dec-07,12000000,USD,c
+newsgator,NewsGator,,web,Denver,CO,1-Dec-04,8600000,USD,b
+me-dium,Me.dium,,web,Boulder,CO,1-Jun-07,15000000,USD,b
+buzzwire,Buzzwire,,web,Denver,CO,1-Dec-07,8000000,USD,b
+hivelive,HiveLive,,web,Boulder,CO,1-Feb-08,2200000,USD,angel
+hivelive,HiveLive,,web,Boulder,CO,27-Feb-08,5600000,USD,a
+xaware,XAware,,web,Colorado Springs,CO,1-Jan-08,7400000,USD,b
+xaware,XAware,,web,Colorado Springs,CO,1-Nov-02,2100000,USD,a
+lijit,Lijit,,web,Boulder,CO,1-Jan-07,900000,USD,a
+lijit,Lijit,,web,Boulder,CO,1-Jun-07,3300000,USD,b
+hubbuzz,hubbuzz,8,web,Centennial,CO,1-Mar-07,750000,USD,angel
+gnip,Gnip,6,web,Boulder,CO,1-Mar-08,1100000,USD,a
+collective-intellect,Collective Intellect,,,Boulder,CO,1-Feb-06,2600000,USD,a
+collective-intellect,Collective Intellect,,,Boulder,CO,15-Apr-08,6600000,USD,b
+rally-software,Rally Software,,software,Boulder,CO,4-Jun-08,16850000,USD,c
+rally-software,Rally Software,,software,Boulder,CO,14-Jun-06,8000000,USD,b
+symplified,Symplified,,software,Boulder,CO,9-Jun-08,6000000,USD,a
+indeed,Indeed,,web,Stamford,CT,1-Aug-05,5000000,USD,a
+geezeo,Geezeo,,web,Hartford,CT,24-Apr-08,1200000,USD,unattributed
+entrecard,Entrecard,1,web,Hamden,CT,1-Jan-07,30000,USD,seed
+entrecard,Entrecard,1,web,Hamden,CT,1-Nov-07,40000,USD,seed
+americantowns-com,AmericanTowns.com,10,web,Fairfield,CT,1-Jul-06,1100000,USD,a
+americantowns-com,AmericanTowns.com,10,web,Fairfield,CT,1-Sep-07,3300000,USD,b
+kayak,Kayak,58,web,Norwalk,CT,1-May-06,11500000,USD,c
+kayak,Kayak,58,web,Norwalk,CT,1-Dec-04,7000000,USD,b
+kayak,Kayak,58,web,Norwalk,CT,1-Dec-07,196000000,USD,d
+gocrosscampus,GoCrossCampus,25,web,New Haven,CT,1-Sep-07,375000,USD,seed
+health-plan-one,Health Plan One,,web,Shelton,CT,21-Apr-08,6500000,USD,a
+your-survival,Your Survival,10,web,Westport,CT,1-Nov-07,350000,USD,angel
+media-lantern,Media Lantern,9,web,New London,CT,30-Mar-08,250000,USD,seed
+gridpoint,GridPoint,,cleantech,Washington,DC,1-Sep-07,32000000,USD,d
+gridpoint,GridPoint,,cleantech,Washington,DC,1-May-06,16000000,USD,b
+gridpoint,GridPoint,,cleantech,Washington,DC,1-Sep-06,21000000,USD,c
+gridpoint,GridPoint,,cleantech,Washington,DC,28-Mar-08,15000000,USD,d
+hotpads-com,HotPads,11,web,Washington,DC,1-Mar-07,2300000,USD,a
+launchbox,LaunchBox,,web,Washinton,DC,1-Feb-08,250000,USD,a
+cogent,Cogent,,web,Washington,DC,12-Feb-08,510000,USD,seed
+swapdrive,SwapDrive,,web,Washington,DC,1-May-00,2650000,USD,a
+swapdrive,SwapDrive,,web,Washington,DC,1-May-01,2000000,USD,a
+searchles,Searchles,,web,Washington,DC,1-Jul-08,2000000,USD,angel
+payperpost,PayPerPost,,web,Orlando,FL,1-Jun-07,7000000,USD,b
+payperpost,PayPerPost,,web,Orlando,FL,1-Oct-06,3000000,USD,a
+affinityinternet,Affinity Internet,,web,Fort Lauderdale,FL,1-Oct-99,60000000,USD,a
+affinityinternet,Affinity Internet,,web,Fort Lauderdale,FL,1-Jan-02,25000000,USD,a
+multiply,Multiply,,web,Boca Raton,FL,1-Nov-05,2000000,USD,a
+multiply,Multiply,,web,Boca Raton,FL,1-Jul-06,3000000,USD,a
+multiply,Multiply,,web,Boca Raton,FL,1-Aug-07,16600000,USD,b
+revolutionmoney,Revolution Money,,web,Largo,FL,1-Sep-07,50000000,USD,b
+batanga,Batanga,,web,Miami,FL,1-Aug-07,30000000,USD,c
+batanga,Batanga,,web,Miami,FL,1-Apr-06,5000000,USD,b
+divorce360,divorce360,6,web,North Palm Beach,FL,1-Sep-07,2500000,USD,a
+infinitybox,Infinity Box,3,web,Tampa,FL,1-Jan-06,18000,USD,seed
+infinitybox,Infinity Box,3,web,Tampa,FL,1-Apr-06,100000,USD,angel
+moli,MOLI,,web,West Palm Beach,FL,1-Jan-08,29600000,USD,b
+global-roaming,Global Roaming,29,mobile,Miami,FL,1-Feb-07,7500000,USD,a
+global-roaming,Global Roaming,29,mobile,Miami,FL,1-Feb-08,23000000,USD,b
+slingpage,Slingpage,8,software,Estero,FL,1-Dec-07,2250000,USD,angel
+wrapmail,WrapMail,10,web,Fort Lauderdale,FL,6-Jan-07,1100000,USD,seed
+ejamming,eJamming,,web,Boca Raton,FL,2-Jun-08,150000,USD,unattributed
+lehigh-technologies,Lehigh Technologies,,cleantech,Naples,FL,23-Jun-08,34500000,USD,unattributed
+tournease,TournEase,10,web,Lakeland,FL,1-Apr-06,3000000,USD,angel
+tournease,TournEase,10,web,Lakeland,FL,1-Mar-08,500000,USD,angel
+vitrue,Vitrue,,web,Atlanta,GA,1-Oct-07,10000000,USD,b
+vitrue,Vitrue,,web,Atlanta,GA,1-May-06,2200000,USD,seed
+screamingsports,Screaming Sports,,web,Atlanta,GA,1-Jul-07,1250000,USD,a
+berecruited,beRecruited,,web,Atlanta,GA,1-Nov-07,1200000,USD,a
+mfg,MFG,,web,Atlanta,GA,1-Sep-05,14000000,USD,a
+mfg,MFG,,web,Atlanta,GA,1-Jan-07,4000000,USD,c
+mfg,MFG,,web,Atlanta,GA,1-Jan-08,26000000,USD,d
+scintella-solutions,Scintella Solutions,2,consulting,Atlanta,GA,30-Apr-08,10000,USD,seed
+scribestorm,ScribeStorm,12,web,Fairfield,IA,24-Apr-06,225000,USD,angel
+balihoo,Balihoo,,mobile,Boise,ID,1-Jul-07,1500000,USD,a
+balihoo,Balihoo,,mobile,Boise,ID,1-Jan-08,4000000,USD,b
+info,Info,,web,Chicago,IL,1-Nov-04,8400000,USD,a
+feedburner,FeedBurner,,web,Chicago,IL,1-Jun-04,1000000,USD,a
+feedburner,FeedBurner,,web,Chicago,IL,1-Apr-05,7000000,USD,b
+viewpoints,Viewpoints,,web,Chicago,IL,1-Jun-07,5000000,USD,a
+grubhub,GrubHub,,web,Chicago,IL,1-Nov-07,1100000,USD,a
+ticketsnow,TicketsNow,,web,Rolling Meadows,IL,1-Jan-07,34000000,USD,a
+the-point,The Point,,web,Chicago,IL,1-Nov-07,2500000,USD,angel
+the-point,The Point,,web,Chicago,IL,1-Feb-08,4800000,USD,a
+inkling,Inkling,2,web,Chicago,IL,1-Jan-07,20000,USD,seed
+crowdspring,crowdSPRING,6,web,Chicago,IL,23-May-08,3000000,USD,angel
+ifbyphone,Ifbyphone,16,web,Skokie,IL,1-Jul-07,1500000,USD,a
+fave-media,Fave Media,18,web,Chicago,IL,17-Jan-08,1600000,USD,a
+accertify,Accertify,,web,Schaumburg,IL,3-Jun-08,4000000,USD,a
+firefly-energy,Firefly Energy,,cleantech,Peoria,IL,14-Oct-04,4000000,USD,a
+firefly-energy,Firefly Energy,,cleantech,Peoria,IL,10-Jun-08,15000000,USD,c
+firefly-energy,Firefly Energy,,cleantech,Peoria,IL,13-Nov-06,10000000,USD,b
+savo,SAVO,68,software,Chicago,IL,1-Sep-05,10000000,USD,a
+chacha,ChaCha,75,web,Carmel,IN,1-Jan-07,6000000,USD,a
+chacha,ChaCha,75,web,Carmel,IN,1-Nov-07,10000000,USD,b
+betterworld,Better World Books,,web,Mishawaka,IN,7-Apr-08,4500000,USD,a
+compendium-blogware,Compendium Blogware,25,software,Indianapolis,IN,1-May-07,1100000,USD,angel
+compendium-blogware,Compendium Blogware,25,software,Indianapolis,IN,1-May-08,1600000,USD,angel
+instagarage,Instagarage,4,web,New Orleans,LA,10-May-07,25000,USD,seed
+iskoot,iSkoot,,web,Cambridge,MA,27-Feb-07,7000000,USD,b
+iskoot,iSkoot,,web,Cambridge,MA,29-Nov-06,6200000,USD,a
+gotuitmedia,Gotuit Media,,web,Woburn,MA,1-Dec-04,10000000,USD,b
+gotuitmedia,Gotuit Media,,web,Woburn,MA,1-Dec-02,6000000,USD,a
+carbonite,Carbonite,68,web,Boston,MA,1-Mar-06,2500000,USD,a
+carbonite,Carbonite,68,web,Boston,MA,1-Dec-06,3500000,USD,a
+carbonite,Carbonite,68,web,Boston,MA,1-May-07,15000000,USD,b
+carbonite,Carbonite,68,web,Boston,MA,28-Dec-07,5000000,USD,b
+scanscout,ScanScout,40,web,Boston,MA,1-Mar-07,7000000,USD,a
+scanscout,ScanScout,40,web,Boston,MA,1-Apr-07,2000000,USD,angel
+going,Going,,web,Boston,MA,1-Jul-07,5000000,USD,a
+brightcove,Brightcove,,web,Cambridge,MA,1-Mar-05,5500000,USD,a
+brightcove,Brightcove,,web,Cambridge,MA,1-Nov-05,16200000,USD,b
+brightcove,Brightcove,,web,Cambridge,MA,1-Jan-07,59500000,USD,c
+brightcove,Brightcove,,web,Cambridge,MA,1-Sep-06,5000000,USD,b
+brightcove,Brightcove,,web,Cambridge,MA,1-May-08,4900000,USD,d
+permissiontv,PermissionTV,,web,Waltham,MA,1-Jun-07,9000000,USD,c
+bountii,Bountii,,web,Boston,MA,1-Jun-07,15000,USD,seed
+conduitlabs,Conduit Labs,,web,Cambridge,MA,1-Aug-07,5500000,USD,a
+zoominfo,ZoomInfo,80,web,Waltham,MA,1-Jul-04,7000000,USD,a
+zoominfo,ZoomInfo,80,web,Waltham,MA,1-Jul-04,7000000,USD,a
+vlingo,Vlingo,,web,Cambridge,MA,2-Apr-08,20000000,USD,b
+vtap,Vtap,,web,Andover,MA,1-May-07,14000000,USD,b
+mocospace,MocoSpace,25,mobile,Boston,MA,1-Jan-07,3000000,USD,a
+quattro-wireless,Quattro Wireless,,web,Waltham,MA,1-May-07,6000000,USD,a
+quattro-wireless,Quattro Wireless,,web,Waltham,MA,5-Sep-07,12300000,USD,b
+care-com,Care.com,,web,Waltham,MA,1-May-07,3100000,USD,a
+onforce,OnForce,,web,Lexington,MA,1-Sep-07,6750000,USD,a
+onforce,OnForce,,web,Lexington,MA,12-Jan-06,15000000,USD,a
+ratepoint,RatePoint,,web,Needham,MA,1-Jun-07,6500000,USD,a
+updown,UpDown,5,web,Cambridge,MA,29-Jan-08,750000,USD,angel
+eons,Eons,,web,Boston,MA,1-Mar-07,22000000,USD,b
+eons,Eons,,web,Boston,MA,1-Apr-06,10000000,USD,a
+gamerdna,GamerDNA,,web,Cambridge,MA,18-Apr-08,3000000,USD,a
+mixandmeet,Mix & Meet,2,web,Cambridge,MA,29-Mar-08,400000,USD,angel
+sermo,Sermo,,web,Cambridge,MA,1-Sep-07,25000000,USD,c
+sermo,Sermo,,web,Cambridge,MA,1-Jan-07,9500000,USD,b
+sermo,Sermo,,web,Cambridge,MA,1-Sep-06,3000000,USD,a
+worklight,WorkLight,30,web,Newton,MA,1-Sep-06,5100000,USD,a
+worklight,WorkLight,30,web,Newton,MA,30-Apr-08,12000000,USD,b
+matchmine,MatchMine,,web,Needham,MA,1-Sep-07,10000000,USD,a
+condodomain,CondoDomain,4,other,Boston,MA,1-Jun-05,300000,USD,angel
+utest,uTest,10,web,Ashland,MA,1-Oct-07,2300000,USD,a
+compete,Compete,,web,Boston,MA,1-Aug-07,10000000,USD,c
+compete,Compete,,web,Boston,MA,6-Oct-03,13000000,USD,b
+azuki,Azuki Systems,30,web,Acton,MA,1-Sep-07,6000000,USD,a
+acinion,Acinion,,web,Acton,MA,1-Dec-06,5000000,USD,a
+acinion,Acinion,,web,Acton,MA,1-Oct-07,16000000,USD,b
+xkoto,xkoto,45,software,Waltham,MA,1-Nov-07,7500000,USD,b
+hubspot,HubSpot,30,web,Cambridge,MA,1-Sep-07,5000000,USD,a
+hubspot,HubSpot,30,web,Cambridge,MA,16-May-08,12000000,USD,b
+hubspot,HubSpot,30,web,Cambridge,MA,1-May-06,500000,USD,seed
+utterz,Utterz,3,mobile,Maynard,MA,1-Sep-07,4000000,USD,a
+intronis,Intronis,,web,Boston,MA,1-Oct-07,5000000,USD,a
+acquia,Acquia,11,web,Andover,MA,1-Dec-07,7000000,USD,a
+a123systems,A123Systems,,web,Watertown,MA,1-Oct-07,30000000,USD,d
+a123systems,A123Systems,,web,Watertown,MA,1-Jan-07,40000000,USD,c
+a123systems,A123Systems,,web,Watertown,MA,1-Feb-06,30000000,USD,b
+bostonpower,Boston Power,55,web,Westborough,MA,1-Nov-06,8000000,USD,a
+bostonpower,Boston Power,55,web,Westborough,MA,1-Jan-08,45000000,USD,c
+bostonpower,Boston Power,55,web,Westborough,MA,1-Jan-07,15600000,USD,b
+visiblemeasures,Visible Measures,,web,Boston,MA,1-Mar-07,5000000,USD,a
+visiblemeasures,Visible Measures,,web,Boston,MA,1-Jan-08,13500000,USD,b
+visiblemeasures,Visible Measures,,web,Boston,MA,1-Jan-06,800000,USD,seed
+endeca,Endeca,500,web,Cambridge,MA,1-Jun-04,15000000,USD,c
+endeca,Endeca,500,web,Cambridge,MA,1-Jan-08,15000000,USD,d
+endeca,Endeca,500,web,Cambridge,MA,1-Nov-01,15000000,USD,b
+endeca,Endeca,500,web,Cambridge,MA,1-Jan-01,10000000,USD,a
+choicestream,ChoiceStream,70,software,Cambridge,MA,1-Jan-00,15000000,USD,seed
+choicestream,ChoiceStream,70,software,Cambridge,MA,22-Feb-05,7000000,USD,a
+choicestream,ChoiceStream,70,software,Cambridge,MA,1-Jun-06,13100000,USD,b
+choicestream,ChoiceStream,70,software,Cambridge,MA,4-Apr-07,26500000,USD,c
+youcastr,YouCastr,5,web,Cambridge,MA,1-Feb-08,100000,USD,angel
+jackpot-rewards,JackPot Rewards,,web,Newton,MA,1-Feb-08,16700000,USD,a
+mzinga,Mzinga,,web,Burlington,MA,3-Mar-08,32500000,USD,d
+dimdim,Dimdim,,web,Burlington,MA,1-Feb-07,2400000,USD,a
+dimdim,Dimdim,,web,Burlington,MA,1-Jul-08,6000000,USD,b
+utoopia,utoopia,2,web,Boston,MA,1-Mar-07,100000,USD,seed
+retail-convergence,Retail Convergence,,web,Boston,MA,24-Apr-08,25000000,USD,a
+frame-media,Frame Media,,web,Wellesley,MA,9-Nov-07,2000000,USD,a
+frame-media,Frame Media,,web,Wellesley,MA,2-May-08,3000000,USD,unattributed
+turbine,Turbine,200,web,Westwood,MA,29-Apr-08,40000000,USD,c
+turbine,Turbine,200,web,Westwood,MA,9-May-05,30000000,USD,b
+zeer,Zeer,5,web,Boston,MA,1-Aug-07,1050000,USD,angel
+simpletuition,SimpleTuition,,web,Newton,MA,14-Apr-06,4400000,USD,a
+simpletuition,SimpleTuition,,web,Newton,MA,18-Dec-06,7500000,USD,b
+sirtris-pharmaceuticals,Sirtris Pharmaceuticals,,biotech,Cambridge,MA,1-Dec-04,13000000,USD,a
+sirtris-pharmaceuticals,Sirtris Pharmaceuticals,,biotech,Cambridge,MA,8-Mar-05,27000000,USD,b
+sirtris-pharmaceuticals,Sirtris Pharmaceuticals,,biotech,Cambridge,MA,19-Apr-06,37000000,USD,c
+good-data,Good Data,30,web,Cambridge,MA,23-Jul-08,2000000,USD,seed
+navic-networks,Navic Networks,,web,Waltham,MA,14-Feb-00,2000000,USD,a
+navic-networks,Navic Networks,,web,Waltham,MA,26-Feb-01,20000000,USD,c
+navic-networks,Navic Networks,,web,Waltham,MA,7-Jun-00,20000000,USD,b
+pivot,Pivot,40,software,Cambridge,MA,1-Dec-04,5000000,USD,a
+pivot,Pivot,40,software,Cambridge,MA,1-Apr-06,8000000,USD,b
+optaros,Optaros,200,consulting,Boston,MA,1-Jun-08,12000000,USD,c
+optaros,Optaros,200,consulting,Boston,MA,20-Nov-06,13000000,USD,b
+optaros,Optaros,200,consulting,Boston,MA,9-Mar-05,7000000,USD,a
+astaro,Astaro,,hardware,Burlington,MA,1-May-03,6200000,USD,a
+astaro,Astaro,,hardware,Burlington,MA,1-May-04,6700000,USD,b
+pangea-media,Pangea Media,25,web,Watertown,MA,1-Apr-07,1000000,USD,angel
+posterous,Posterous,,web,Boston,MA,1-May-08,15000,USD,seed
+spire,Spire,,web,Boston,MA,8-Jul-08,9000000,USD,a
+neosaej,neoSaej,,web,Burlington,MA,14-Jul-08,7000000,USD,unattributed
+genarts,GenArts,,software,Cambridge,MA,17-Jul-08,22400000,USD,unattributed
+ordermotion,OrderMotion,,web,Boston,MA,21-Jul-08,1400000,USD,unattributed
+ham-it,HAM-IT,7,web,North Andover,MA,1-Oct-07,340000,USD,seed
+freewebs,Freewebs,35,web,Silver Spring,MD,1-Aug-06,12000000,USD,a
+mptrax,MPTrax,4,web,Baltimore,MD,1-Jan-07,350000,USD,angel
+jackbe,JackBe,0,web,Chevy Chase,MD,1-Oct-07,9500000,USD,c
+zenimax,ZeniMax,,web,Rockville,MD,1-Oct-07,300000000,USD,a
+zenimax,ZeniMax,,web,Rockville,MD,30-May-08,9900000,USD,a
+intelliworks,Intelliworks,24,software,Rockville,MD,14-Feb-05,6000000,USD,a
+intelliworks,Intelliworks,24,software,Rockville,MD,10-Oct-06,10000000,USD,b
+intelliworks,Intelliworks,24,software,Rockville,MD,7-Apr-08,4000000,USD,c
+hexio,HEXIO,1,web,Kennebunk,ME,10-Jan-08,20000,USD,seed
+foneshow,Foneshow,8,web,Portland,ME,1-Sep-07,1050000,USD,a
+foneshow,Foneshow,8,web,Portland,ME,1-Sep-06,25000,USD,seed
+zattoo,Zattoo,45,web,Ann Arbor,MI,1-Nov-07,10000000,USD,b
+loudclick,LoudClick,9,web,Richfield,MN,31-Mar-08,600000,USD,angel
+agilis-systems,Agilis Systems,,mobile,St. Louis,MO,16-May-08,5000000,USD,b
+international-liars-poker-association,International Liars Poker Association,24,other,St. Louis,MO,1-Nov-07,1250000,USD,seed
+channeladvisor,ChannelAdvisor,300,web,Morrisville,NC,1-May-07,30000000,USD,c
+channeladvisor,ChannelAdvisor,300,web,Morrisville,NC,22-Jan-04,7000000,USD,a
+channeladvisor,ChannelAdvisor,300,web,Morrisville,NC,28-Apr-05,18000000,USD,b
+yap,Yap,,mobile,Charlotte,NC,1-Mar-07,1500000,USD,angel
+yap,Yap,,mobile,Charlotte,NC,10-Jun-08,6500000,USD,a
+prepchamps,PrepChamps,10,web,Durham,NC,22-Apr-08,1200000,USD,a
+silkroad-technology,SilkRoad technology,,,Winston-Salem,NC,19-Feb-08,10000000,USD,b
+silkroad-technology,SilkRoad technology,,,Winston-Salem,NC,15-May-08,54000000,USD,c
+brightdoor-systems,BrightDoor Systems,26,web,Cary,NC,13-Apr-07,200000,USD,a
+drifttoit,DriftToIt,4,web,Raleigh,NC,1-Jun-07,300000,USD,angel
+rpath,rPath,45,other,Raleigh,NC,24-Jan-06,6400000,USD,a
+rpath,rPath,45,other,Raleigh,NC,24-Jan-07,9100000,USD,b
+rpath,rPath,45,other,Raleigh,NC,24-Jun-08,10000000,USD,c
+ntractive,Ntractive,6,web,Grand Forks,ND,8-Jul-08,570000,USD,a
+billmelater,Bill Me Later,,web,Omaha,NE,1-Mar-06,27400000,USD,a
+adaptiveblue,AdaptiveBlue,6,web,Livingston,NJ,15-Feb-07,1500000,USD,a
+phanfare,Phanfare,,web,Metuchen,NJ,1-Nov-07,2500000,USD,c
+phanfare,Phanfare,,web,Metuchen,NJ,1-Jul-06,2000000,USD,b
+enterprisedb,EnterpriseDB,,software,Edison,NJ,7-Sep-05,7000000,USD,a
+enterprisedb,EnterpriseDB,,software,Edison,NJ,1-Aug-06,20000000,USD,b
+enterprisedb,EnterpriseDB,,software,Edison,NJ,25-Mar-08,10000000,USD,c
+neocleus,Neocleus,,web,Jersey City,NJ,19-Jun-08,11000000,USD,b
+datapipe,Datapipe,,web,Jersey City,NJ,8-Jul-08,75000000,USD,unattributed
+switch2health,Switch2Health,,web,North Brunswick,NJ,16-Jul-08,200000,USD,unattributed
+voltaix,Voltaix,,hardware,N. Branch,NJ,29-Jul-08,12500000,USD,unattributed
+spaboom,SpaBoom,9,web,Albuquerque,NM,15-Jul-06,700000,USD,a
+spaboom,SpaBoom,9,web,Albuquerque,NM,15-Sep-07,600000,USD,b
+novint,Novint,,other,Albuquerque,NM,17-Jun-08,5200000,USD,unattributed
+meetmoi,MeetMoi,7,web,New York City,NY,1-Jun-07,1500000,USD,a
+meetup,Meetup,1,mobile,New York,NY,1-Dec-02,2800000,USD,a
+meetup,Meetup,1,mobile,New York,NY,1-Nov-03,5300000,USD,b
+meetup,Meetup,1,mobile,New York,NY,23-Jul-08,7500000,USD,d
+mogulus,Mogulus,20,web,New York,NY,1-May-07,1200000,USD,angel
+mogulus,Mogulus,20,web,New York,NY,1-Jan-08,1500000,USD,angel
+mogulus,Mogulus,20,web,New York,NY,1-Jul-08,10000000,USD,a
+pando,Pando,23,software,New York,NY,1-Jan-07,11000000,USD,b
+pando,Pando,23,software,New York,NY,1-Mar-08,20900000,USD,c
+outside-in,Outside.in,17,web,Brooklyn,NY,1-Feb-07,900000,USD,angel
+outside-in,Outside.in,17,web,Brooklyn,NY,1-Oct-07,1500000,USD,angel
+outside-in,Outside.in,17,web,Brooklyn,NY,19-May-08,3000000,USD,a
+selectminds,SelectMinds,55,web,New York,NY,1-Aug-07,5500000,USD,a
+veotag,Veotag,,web,New York,NY,1-May-07,750000,USD,angel
+roo,KIT digital,100,web,New York,NY,8-May-08,15000000,USD,b
+roo,KIT digital,100,web,New York,NY,18-Apr-08,5000000,USD,a
+contextweb,ContextWeb,,web,New York,NY,1-Jun-04,3000000,USD,a
+contextweb,ContextWeb,,web,New York,NY,1-Jun-05,9000000,USD,b
+contextweb,ContextWeb,,web,New York,NY,20-Jul-08,26000000,USD,d
+datranmedia,Datran Media,,web,New York,NY,1-Mar-05,60000000,USD,a
+eyeblaster,Eyeblaster,,web,New York,NY,1-Dec-03,8000000,USD,a
+eyeblaster,Eyeblaster,,web,New York,NY,21-Mar-07,30000000,USD,b
+covestor,Covestor,,web,New York,NY,1-Jun-07,1000000,USD,angel
+covestor,Covestor,,web,New York,NY,7-Apr-08,6500000,USD,a
+globalgrind,Global Grind,20,web,New York,NY,1-Aug-07,4500000,USD,b
+heavy-com,Heavy.com,,web,New York,NY,1-Mar-01,3000000,USD,a
+spiralfrog,SpiralFrog,15,web,New York,NY,1-Dec-07,2000000,USD,debt_round
+broadbandenterprises,Broadband Enterprises,,web,New York,NY,1-Jan-08,10000000,USD,a
+thumbplay,Thumbplay,,mobile,New York,NY,13-Mar-08,18000000,USD,e
+waterfrontmedia,Waterfront Media,,web,"Brooklyn, New York",NY,1-Sep-07,25000000,USD,d
+waterfrontmedia,Waterfront Media,,web,"Brooklyn, New York",NY,1-Mar-04,4000000,USD,a
+waterfrontmedia,Waterfront Media,,web,"Brooklyn, New York",NY,1-Mar-06,6000000,USD,b
+waterfrontmedia,Waterfront Media,,web,"Brooklyn, New York",NY,1-Apr-07,8000000,USD,c
+tutor,Tutor,55,web,New Yorl,NY,1-May-07,13500000,USD,b
+daylife,Daylife,,web,New York,NY,1-Jun-07,8300000,USD,b
+teachthepeople,Teach The People,1,web,Astoria,NY,1-Jan-07,300000,USD,angel
+healthcare-health-human-powered-search,OrganizedWisdom,18,web,New York,NY,1-Jun-08,2300000,USD,a
+snooth,Snooth,,web,New  York,NY,1-Dec-06,300000,USD,angel
+snooth,Snooth,,web,New  York,NY,1-Nov-07,1000000,USD,a
+5min,5min,8,web,New York,NY,1-Apr-07,300000,USD,angel
+5min,5min,8,web,New York,NY,1-Nov-07,5000000,USD,a
+kaltura,Kaltura,20,web,Brooklyn,NY,1-May-07,2100000,USD,a
+mimeo,Mimeo,,web,New York,NY,1-Sep-07,25000000,USD,a
+rayv,RayV,,web,New York,NY,1-Oct-07,8000000,USD,b
+tumblr,Tumblr,,web,New York,NY,31-Oct-07,750000,USD,a
+payoneer,Payoneer,50,web,New York,NY,24-Jul-08,8000000,USD,b
+exelate,eXelate,,web,New York,NY,1-Oct-07,4000000,USD,a
+quigo,Quigo,,web,New York,NY,1-Mar-04,5000000,USD,a
+peer39,Peer39,50,web,New York,NY,1-Feb-07,3000000,USD,a
+peer39,Peer39,50,web,New York,NY,1-Sep-07,8200000,USD,b
+peer39,Peer39,50,web,New York,NY,1-Mar-06,500000,USD,seed
+rebelmonkey,Rebel Monkey,15,web,New York,NY,5-Feb-08,1000000,USD,a
+answers,Answers Corporation,,web,New York,NY,1-Jan-99,300000,USD,a
+answers,Answers Corporation,,web,New York,NY,1-Apr-99,1360000,USD,b
+answers,Answers Corporation,,web,New York,NY,1-Sep-99,2750000,USD,c
+answers,Answers Corporation,,web,New York,NY,1-May-00,28000000,USD,d
+answers,Answers Corporation,,web,New York,NY,17-Jun-08,13000000,USD,debt_round
+seetoo,SeeToo,,web,New York,NY,1-Oct-07,1000000,USD,angel
+drop-io-2,drop.io,,web,Brooklyn,NY,1-Nov-07,1250000,USD,a
+drop-io-2,drop.io,,web,Brooklyn,NY,10-Mar-08,2700000,USD,b
+motionbox,Motionbox,,web,New York,NY,1-Sep-06,4200000,USD,a
+motionbox,Motionbox,,web,New York,NY,1-Dec-07,7000000,USD,b
+dgplabs,DGP Labs,,web,New York,NY,1-Nov-07,4750000,USD,a
+ideeli,Ideeli,,web,New York,NY,1-Dec-07,3800000,USD,a
+livegamer,Live Gamer,,web,New York,NY,1-Dec-07,24000000,USD,a
+weshow,WeShow,0,web,New York,NY,1-Jun-07,5000000,USD,a
+etsy,Etsy,45,web,Brooklyn,NY,1-Jun-06,315000,USD,angel
+etsy,Etsy,45,web,Brooklyn,NY,1-Nov-06,1000000,USD,a
+etsy,Etsy,45,web,Brooklyn,NY,1-Jul-07,3250000,USD,b
+etsy,Etsy,45,web,Brooklyn,NY,1-Jan-08,27000000,USD,c
+phonetag,PhoneTag,10,web,New York,NY,1-Feb-07,3500000,USD,angel
+phonetag,PhoneTag,10,web,New York,NY,1-Jan-04,200000,USD,seed
+phonetag,PhoneTag,10,web,New York,NY,1-Dec-07,2000000,USD,angel
+tremormedia,Tremor Media,,web,New York,NY,1-Sep-06,8400000,USD,a
+tremormedia,Tremor Media,,web,New York,NY,1-Jan-08,11000000,USD,b
+yoonew,YooNew,,web,New York,NY,1-Aug-05,2000000,USD,angel
+fifthgenerationsystems,Fifth Generation Systems,,web,Roslyn Heights,NY,1-Jan-08,5300000,USD,b
+fifthgenerationsystems,Fifth Generation Systems,,web,Roslyn Heights,NY,1-Nov-06,5250000,USD,a
+igaworldwide,IGA Worldwide,,web,New York,NY,1-Feb-06,12000000,USD,a
+igaworldwide,IGA Worldwide,,web,New York,NY,1-Jul-07,25000000,USD,b
+igaworldwide,IGA Worldwide,,web,New York,NY,1-Jan-08,5000000,USD,b
+theladders,TheLadders,200,web,New York,NY,8-Nov-04,7250000,USD,a
+adotube,Adotube,30,web,New York,NY,31-Jul-07,630000,USD,seed
+adotube,Adotube,30,web,New York,NY,1-Apr-08,600000,USD,seed
+kluster,Kluster,,web,New York,NY,1-Jan-08,1000000,USD,seed
+blog-talk-radio,Blog Talk Radio,,web,New York,NY,25-Jun-08,4600000,USD,a
+pingg,Pingg,7,web,New York,NY,1-Jan-07,500000,USD,seed
+pingg,Pingg,7,web,New York,NY,1-Mar-07,800000,USD,angel
+outbrain,Outbrain,,web,New York City,NY,1-Jan-07,1000000,USD,seed
+outbrain,Outbrain,,web,New York City,NY,25-Feb-08,5000000,USD,a
+mochila,Mochila,52,web,New York,NY,2-Jan-07,8000000,USD,b
+olx,OLX,85,web,New York City,NY,1-Sep-07,10000000,USD,a
+olx,OLX,85,web,New York City,NY,11-Apr-08,13500000,USD,b
+boonty,Boonty,150,web,New York,NY,7-Jul-05,10000000,USD,b
+tripology,Tripology,,web,New York,NY,1-Jan-07,1250000,USD,a
+the-feedroom,The Feedroom,,web,New York,NY,9-Jul-08,12000000,USD,unattributed
+next-new-networks,Next New Networks,15,web,New York,NY,1-Jan-07,8000000,USD,a
+next-new-networks,Next New Networks,15,web,New York,NY,12-Mar-08,15000000,USD,b
+riverwired,RiverWired,,web,New York,NY,1-Mar-08,1500000,USD,seed
+fynanz,Fynanz,10,web,New York,NY,1-Oct-07,500000,USD,angel
+digital-railroad,Digital Railroad,,web,New York,NY,14-Jun-05,5200000,USD,a
+digital-railroad,Digital Railroad,,web,New York,NY,5-Feb-07,10000000,USD,b
+silicon-alley-insider,Silicon Alley Insider,,,New York,NY,16-Jul-08,900000,USD,seed
+undertone-networks,Undertone Networks,,web,New York,NY,31-Mar-08,40000000,USD,a
+someecards,Someecards,,web,New York,NY,1-Apr-08,350000,USD,seed
+trunkt,Trunkt,2,web,New York,NY,15-May-07,350000,USD,seed
+cutcaster-2,Cutcaster,6,web,New York City,NY,1-Jan-08,150000,USD,seed
+visible-world,Visible World,,software,New York,NY,14-Apr-08,25000000,USD,c
+visible-world,Visible World,,software,New York,NY,17-Nov-03,8000000,USD,b
+mad-mimi,Mad Mimi,3,web,,NY,29-Apr-07,200000,USD,angel
+social-median,Social Median,,web,New York,NY,7-Mar-08,500000,USD,seed
+scanbuy,Scanbuy,,software,New York,NY,12-Dec-06,9000000,USD,b
+scanbuy,Scanbuy,,software,New York,NY,1-Nov-07,6800000,USD,b
+pontiflex,Pontiflex,,web,Brooklyn,NY,30-Apr-08,2500000,USD,a
+chic-tv,CHIC.TV,12,web,New York,NY,1-Jan-06,500000,USD,angel
+expertflyer,ExpertFlyer,3,web,Patchogue,NY,1-Mar-04,30000,USD,seed
+x-1,x+1,,web,New York,NY,1-Jun-08,16000000,USD,a
+media6,Media6¡,,web,New York,NY,1-May-08,2000000,USD,debt_round
+knewton,Knewton,,web,New York,NY,21-May-08,2500000,USD,a
+sense-networks,Sense Networks,,mobile,New York City,NY,1-Apr-08,3000000,USD,a
+targetspot,TargetSpot,20,web,New York,NY,11-Mar-08,8600000,USD,b
+bountyjobs,BountyJobs,31,web,New York,NY,7-Jul-08,12000000,USD,b
+vbs-tv,vbs tv,40,other,Brooklyn,NY,1-Dec-06,10000000,USD,seed
+instinctiv,Instinctiv,,mobile,Ithaca,NY,1-Jun-08,750000,USD,seed
+visualplant,VISUALPLANT,6,web,New York,NY,1-Mar-07,500000,USD,seed
+xunlight,XunLight,,hardware,Toledo,OH,7-May-08,22000000,USD,b
+strands,Strands,150,web,Corvallis,OR,1-Mar-06,6000000,USD,a
+strands,Strands,150,web,Corvallis,OR,18-Jun-07,25000000,USD,b
+strands,Strands,150,web,Corvallis,OR,1-Dec-07,24000000,USD,b
+jivesoftware,Jive Software,,web,Portland,OR,1-Aug-07,15000000,USD,a
+platial,Platial,,web,Portland,OR,1-Oct-05,800000,USD,angel
+platial,Platial,,web,Portland,OR,1-Feb-07,2600000,USD,a
+garagegames,GarageGames,,web,Eugene,OR,1-Sep-07,50000000,USD,a
+iovation,iovation,50,web,Portland,OR,27-Mar-08,15000000,USD,a
+ingrid,InGrid,,web,Berwyn,PA,1-Jul-07,13500000,USD,c
+ingrid,InGrid,,web,Berwyn,PA,1-Sep-04,6600000,USD,a
+ingrid,InGrid,,web,Berwyn,PA,1-Jun-06,8100000,USD,b
+ingrid,InGrid,,web,Berwyn,PA,1-Jun-06,1500000,USD,debt_round
+sleep-fm,Sleep.FM,4,web,Philadelphia,PA,30-Mar-08,15000,USD,seed
+boomi,Boomi,0,web,Berwyn,PA,1-Jul-08,4000000,USD,a
+styky,Styky,3,web,Philadelphia,PA,1-Jan-07,100000,USD,seed
+totaltakeout,TotalTakeout,25,web,Allentown,PA,1-Oct-07,150000,USD,seed
+redlasso,RedLasso,,web,King of Prussia,PA,1-Nov-07,6500000,CAD,a
+qpondirect,QponDirect,10,web,Pittsburgh,PA,1-Mar-08,300000,USD,angel
+energyweb-solutions,EnergyWeb Solutions,3,web,Allentown,PA,15-Jun-06,100000,USD,seed
+aria-systems,Aria Systems,,software,Media,PA,7-Nov-07,4000000,USD,a
+vivsimo,Viv’simo,,software,Pittsburgh,PA,17-Mar-08,4000000,USD,a
+vivsimo,Viv’simo,,software,Pittsburgh,PA,12-Jul-03,960000,USD,seed
+vivsimo,Viv’simo,,software,Pittsburgh,PA,4-Jul-02,500000,USD,seed
+vivsimo,Viv’simo,,software,Pittsburgh,PA,1-Jun-00,100000,USD,seed
+vivsimo,Viv’simo,,software,Pittsburgh,PA,29-Jan-01,100000,USD,seed
+showclix,ShowClix,,web,Oakmont,PA,1-Oct-07,150000,USD,seed
+showclix,ShowClix,,web,Oakmont,PA,1-Jun-08,250000,USD,seed
+biowizard,BioWizard,8,web,Wayne,PA,3-Jan-08,1000000,USD,a
+ticketleap,TicketLeap,4,web,Philadelphia,PA,22-Jul-08,2000000,USD,a
+tizra,Tizra,,web,Providence,RI,1-May-07,500000,USD,seed
+quickoffice,Quickoffice,,software,Plano,TN,5-Feb-07,7000000,USD,b
+quickoffice,Quickoffice,,software,Plano,TN,1-Jan-06,11500000,USD,a
+quickoffice,Quickoffice,,software,Plano,TN,23-May-08,3000000,USD,c
+thoof,Thoof,,web,Austin,TX,1-Jun-07,1000000,USD,seed
+bazaarvoice,Bazaarvoice,,web,Austin,TX,1-May-06,4000000,USD,a
+bazaarvoice,Bazaarvoice,,web,Austin,TX,1-Sep-07,8800000,USD,b
+bazaarvoice,Bazaarvoice,,web,Austin,TX,18-Jun-08,7100000,USD,c
+smallworldlabs,Small World Labs,25,web,Austin,TX,19-Mar-08,1000000,USD,a
+pluck,Pluck,,web,Austin,TX,6-Oct-04,8500000,USD,b
+pluck,Pluck,,web,Austin,TX,14-Nov-06,7000000,USD,c
+spiceworks,Spiceworks,,web,Austin,TX,1-Aug-07,8000000,USD,b
+spendview,SpendView,3,web,Houston,TX,1-Jan-08,2000000,USD,a
+shangby,Shangby,,web,Austin,TX,1-Jun-07,1000000,USD,a
+onnetworks,On Networks,20,web,Austin,TX,1-Nov-06,4000000,USD,a
+onnetworks,On Networks,20,web,Austin,TX,1-Nov-07,12000000,USD,b
+careflash,CareFlash,0,web,Houston,TX,1-Aug-07,600000,USD,seed
+heliovolt,HelioVolt,,web,Austin,TX,1-Aug-07,77000000,USD,b
+challenge-games,Challenge Games,,web,Austin,TX,10-Jul-08,4500000,USD,a
+woot,Woot,100,web,Carrollton,TX,1-Jan-08,4000000,USD,a
+mumboe,Mumboe,17,software,Austin,TX,1-Oct-06,4500000,USD,seed
+breakingpoint-systems,BreakingPoint Systems,54,hardware,Austin,TX,12-Nov-07,15000000,USD,c
+famecast,FameCast,,web,Austin,TX,1-Jun-07,4500000,USD,a
+click-forensics,Click Forensics,,web,Austin,TX,1-Jan-07,5000000,USD,a
+click-forensics,Click Forensics,,web,Austin,TX,1-Mar-08,10000000,USD,b
+godtube,GodTube,,web,Plano,TX,4-May-08,30000000,USD,b
+ibiz-software,iBiz Software,50,software,Dallas,TX,20-May-08,250000,USD,angel
+cosential,Cosential,10,web,Austin,TX,1-Jun-02,250000,USD,b
+jad-tech-consulting,JAD Tech Consulting,6,consulting,Richardson,TX,23-Sep-93,125000,USD,seed
+mozy,Mozy,26,web,American Fork,UT,1-May-05,1900000,USD,a
+mozy,Mozy,26,web,American Fork,UT,1-May-05,1900000,USD,a
+ancestry-com,Ancestry.com,,web,Provo,UT,1-Sep-99,33200000,USD,b
+movenetworks,Move Networks,,web,American Fork,UT,1-Dec-06,11300000,USD,a
+movenetworks,Move Networks,,web,American Fork,UT,1-Oct-07,34000000,USD,b
+movenetworks,Move Networks,,web,American Fork,UT,14-Apr-08,46000000,USD,c
+worldvitalrecords,World Vital Records,,web,Provo,UT,1-Sep-07,1200000,USD,a
+bungee-labs,Bungee Labs,38,web,Orem,UT,14-Mar-08,8000000,USD,c
+footnote,Footnote,31,web,Lindon,UT,1-Jan-08,8000000,USD,a
+mediaforge,mediaFORGE,,web,Salt Lake City,UT,1-Jul-06,1500000,USD,a
+teamstreamz,TeamStreamz,5,web,Lehi,UT,10-Jan-07,80000,USD,seed
+exinda,Exinda,,software,Sandy,UT,22-May-04,6000000,USD,a
+clearspring,Clearspring,,web,McLean,VA,1-May-06,2500000,USD,a
+clearspring,Clearspring,,web,McLean,VA,1-Feb-07,5500000,USD,b
+clearspring,Clearspring,,web,McLean,VA,20-May-08,18000000,USD,c
+clearspring,Clearspring,,web,McLean,VA,27-Jul-07,10000000,USD,b
+availmedia,Avail Media,,web,Reston,VA,1-May-07,17000000,USD,b
+availmedia,Avail Media,,web,Reston,VA,1-Nov-07,25000000,USD,c
+fortiusone,FortiusOne,,web,Arlington,VA,1-May-07,5450000,USD,b
+mixx,Mixx,,web,,VA,1-Sep-07,1500000,USD,a
+mixx,Mixx,,web,,VA,1-Feb-08,2000000,USD,b
+jobfox,Jobfox,,web,McLean,VA,1-Jan-08,20000000,USD,c
+jobfox,Jobfox,,web,McLean,VA,1-May-06,13000000,USD,b
+jobfox,Jobfox,,web,McLean,VA,1-Apr-05,7000000,USD,a
+healthcentral,HealthCentral,,web,Arlington,VA,1-Jan-08,50000000,USD,a
+comscore,comScore,,web,Reston,VA,6-Jun-02,20000000,USD,d
+comscore,comScore,,web,Reston,VA,13-Aug-01,15000000,USD,c
+visualcv,VisualCV,20,web,Reston,VA,28-Jan-08,2000000,USD,a
+paxfire,Paxfire,,,Sterling,VA,22-May-05,2100000,USD,a
+shoutwire,ShoutWire,9,web,,VA,1-Jan-07,500000,USD,a
+parature,Parature,100,software,Vienna,VA,5-Jul-06,13500000,USD,a
+parature,Parature,100,software,Vienna,VA,7-May-08,16000000,USD,b
+loladex,Loladex,2,web,Leesburg,VA,1-Nov-07,350000,USD,seed
+appian,Appian,120,software,Vienna,VA,21-Jul-08,10000000,USD,a
+fortisphere,Fortisphere,50,software,Chantilly,VA,19-Nov-07,10000000,USD,a
+wetpaint,Wetpaint,35,web,Seattle,WA,1-Oct-05,5250000,USD,a
+wetpaint,Wetpaint,35,web,Seattle,WA,1-Jan-07,9500000,USD,b
+wetpaint,Wetpaint,35,web,Seattle,WA,1-May-05,25000000,USD,c
+jobster,Jobster,,web,Seattle,WA,1-Aug-05,19500000,USD,b
+jobster,Jobster,,web,Seattle,WA,1-Jul-06,18000000,USD,c
+jobster,Jobster,,web,Seattle,WA,1-Jan-05,8000000,USD,a
+jobster,Jobster,,web,Seattle,WA,25-Apr-08,7000000,USD,d
+yapta,Yapta,,web,Seattle,WA,1-Jul-07,2300000,USD,a
+yapta,Yapta,,web,Seattle,WA,1-Jul-07,700000,USD,seed
+farecast,Farecast,26,web,Seattle,WA,1-Oct-04,1500000,USD,a
+farecast,Farecast,26,web,Seattle,WA,1-Jul-05,7000000,USD,b
+farecast,Farecast,26,web,Seattle,WA,1-Jan-07,12100000,USD,c
+hautesecure,Haute Secure,,web,Seattle,WA,1-Jan-07,500000,USD,a
+newsvine,Newsvine,6,web,Seattle,WA,1-Jul-05,1250000,USD,a
+ilike,iLike,28,web,Seattle,WA,1-Jan-06,2500000,USD,a
+ilike,iLike,28,web,Seattle,WA,1-Jan-06,13300000,USD,b
+redfin,Redfin,100,web,Seattle,WA,1-Jul-07,12000000,USD,c
+redfin,Redfin,100,web,Seattle,WA,1-May-06,8000000,USD,b
+redfin,Redfin,100,web,Seattle,WA,1-Sep-05,770000,USD,a
+actionengine,Action Engine,,web,Bellevue,WA,1-May-00,7700000,USD,a
+actionengine,Action Engine,,web,Bellevue,WA,1-May-02,5000000,USD,b
+actionengine,Action Engine,,web,Bellevue,WA,1-Jan-05,10000000,USD,d
+actionengine,Action Engine,,web,Bellevue,WA,1-Mar-03,15500000,USD,c
+actionengine,Action Engine,,web,Bellevue,WA,1-Jul-07,20000000,USD,e
+wishpot,Wishpot,,web,Seattle,WA,29-Apr-08,1000000,USD,a
+payscale,PayScale,,web,Seattle,WA,1-Oct-04,3200000,USD,a
+payscale,PayScale,,web,Seattle,WA,1-Oct-05,7000000,USD,b
+payscale,PayScale,,web,Seattle,WA,1-Jul-07,10300000,USD,c
+buddytv,BuddyTV,,web,Seattle,WA,1-Jul-07,2800000,USD,a
+buddytv,BuddyTV,,web,Seattle,WA,1-May-07,250000,USD,angel
+buddytv,BuddyTV,,web,Seattle,WA,14-Apr-08,6000000,USD,b
+judysbook,Judys Book,,web,Seattle,WA,1-Jul-04,2500000,USD,a
+judysbook,Judys Book,,web,Seattle,WA,1-Nov-05,8000000,USD,b
+sampa,Sampa,4,web,Redmond,WA,1-Aug-07,310000,USD,angel
+sampa,Sampa,4,web,Redmond,WA,2-Apr-08,1000000,USD,angel
+zango,Zango,225,web,Bellevue,WA,1-Mar-04,40000000,USD,a
+cdigix,Cdigix,,web,Seattle,WA,1-Nov-05,4000000,USD,a
+ripl,Ripl,,web,Seattle,WA,1-Aug-07,4500000,USD,b
+eyejot,EyeJot,5,web,Seattle,WA,1-May-07,750000,USD,seed
+eyejot,EyeJot,5,web,Seattle,WA,1-Jan-07,400000,USD,angel
+flowplay,FlowPlay,6,web,Seattle,WA,1-May-07,500000,USD,angel
+flowplay,FlowPlay,6,web,Seattle,WA,6-Feb-08,3700000,USD,a
+smartsheet,SmartSheet,,web,Bellevue,WA,1-Jun-07,2690000,USD,a
+visibletechnologies,Visible Technologies,60,web,Seattle,WA,1-Aug-06,3500000,USD,a
+visibletechnologies,Visible Technologies,60,web,Seattle,WA,1-Sep-07,12000000,USD,b
+zillow,Zillow,155,web,Seattle,WA,1-Oct-05,32000000,USD,a
+zillow,Zillow,155,web,Seattle,WA,1-Jul-06,25000000,USD,b
+zillow,Zillow,155,web,Seattle,WA,1-Sep-07,30000000,USD,c
+seomoz,SEOMoz,,web,Seattle,WA,1-Sep-07,1250000,USD,a
+docusign,DocuSign,,web,Seattle,WA,1-Apr-06,10000000,USD,b
+docusign,DocuSign,,web,Seattle,WA,1-Sep-07,12400000,USD,c
+adready,AdReady,33,web,Seattle,WA,1-Dec-07,10000000,USD,b
+treemo,Treemo,,web,Seattle,WA,1-Oct-07,2550000,USD,a
+gridnetworks,GridNetworks,,web,Seattle,WA,1-Oct-07,9500000,USD,a
+pelago,Pelago,,web,Seattle,WA,1-Nov-06,7400000,USD,a
+pelago,Pelago,,web,Seattle,WA,27-May-08,15000000,USD,b
+blist,Blist,,web,Seattle,WA,20-Feb-08,6500000,USD,a
+realself,RealSelf,,web,Seattle,WA,1-Oct-07,1000000,USD,angel
+rescuetime,RescueTime,,web,Seattle,WA,14-Oct-07,20000,USD,seed
+zoji,Zoji,,web,Seattle,WA,1-Oct-07,1500000,USD,angel
+snapvine,Snapvine,20,web,Seattle,WA,1-Jul-06,2000000,USD,a
+snapvine,Snapvine,20,web,Seattle,WA,1-Sep-07,10000000,USD,b
+jott,Jott,,web,Seattle,WA,1-May-07,5400000,USD,b
+earthclassmail,Earth Class Mail,,web,Seattle,WA,1-Sep-07,7400000,USD,a
+earthclassmail,Earth Class Mail,,web,Seattle,WA,1-Jan-08,5900000,USD,a
+smilebox,Smilebox,,web,Redmond,WA,1-Feb-06,5000000,USD,a
+smilebox,Smilebox,,web,Redmond,WA,1-Dec-07,7000000,USD,b
+fyreball,Fyreball,,web,Bellevue,WA,1-Dec-07,1000000,USD,angel
+delve-networks,Delve Networks,,web,Seattle,WA,1-Dec-06,1650000,USD,seed
+delve-networks,Delve Networks,,web,Seattle,WA,1-Aug-07,8000000,USD,a
+livemocha,LiveMocha,,web,Bellevue,WA,1-Jan-08,6000000,USD,a
+mercentcorporation,Mercent Corporation,50,web,Seattle,WA,1-Jan-08,6500000,USD,b
+cleverset,CleverSet,,web,Seattle,WA,1-Aug-06,1400000,USD,angel
+cleverset,CleverSet,,web,Seattle,WA,1-Sep-05,1200000,USD,a
+cleverset,CleverSet,,web,Seattle,WA,1-Dec-07,500000,USD,angel
+liquidplanner,LiquidPlanner,11,web,Bellevue,WA,1-Jan-08,1200000,USD,angel
+limeade,Limeade,10,web,Bellevue,WA,1-Jan-07,1000000,USD,angel
+yodio,Yodio,4,web,Bellevue,WA,1-Feb-08,850000,USD,a
+tastemakers,Tastemakers,11,web,Seattle,WA,1-Feb-07,1000000,USD,a
+whitepages-com,WhitePages.com,125,web,Seattle,WA,1-Aug-05,45000000,USD,a
+revenuescience,RevenueScience,,web,Seattle,WA,19-Dec-05,24000000,USD,e
+gotvoice,GotVoice,15,mobile,Kirkland,WA,25-Oct-06,3000000,USD,a
+cardomain-network,CarDomain Network,50,web,Seattle,WA,29-Jun-07,3000000,USD,a
+mpire,mpire,,web,Seattle,WA,1-Feb-07,9800000,USD,a
+mpire,mpire,,web,Seattle,WA,11-Jun-08,10000000,USD,b
+teachstreet,TeachStreet,8,web,Seattle,WA,1-Mar-08,2250000,USD,a
+estately,Estately,,web,,WA,24-Apr-08,450000,USD,angel
+infinia,Infinia,,cleantech,Kennewick,WA,22-Apr-08,57000000,USD,b
+infinia,Infinia,,cleantech,Kennewick,WA,1-Jun-07,9500000,USD,a
+m-metrics,M:Metrics,,web,Seattle,WA,16-Oct-05,7000000,USD,b
+cozi,Cozi,26,software,Seattle,WA,11-Jul-07,3000000,USD,a
+cozi,Cozi,26,software,Seattle,WA,1-Jun-08,8000000,USD,c
+trusera,Trusera,15,web,Seattle,WA,1-Jun-07,2000000,USD,angel
+alerts-com,Alerts.com,,web,Bellevue,WA,8-Jul-08,1200000,USD,a
+myrio,Myrio,75,software,Bothell,WA,1-Jan-01,20500000,USD,unattributed
+grid-networks,Grid Networks,,web,Seattle,WA,30-Oct-07,9500000,USD,a
+grid-networks,Grid Networks,,web,Seattle,WA,20-May-08,10500000,USD,b
